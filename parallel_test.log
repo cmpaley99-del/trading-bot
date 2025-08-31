@@ -1,0 +1,28 @@
+2025-08-30 13:23:54 | INFO | Starting parallel processing tests...
+2025-08-30 13:23:54 | INFO | Testing parallel OHLCV data fetching...
+2025-08-30 13:23:55 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 13:23:55 | INFO | Sequential: Fetched 100 candles for BTCUSDT
+2025-08-30 13:23:55 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 13:23:55 | INFO | Sequential: Fetched 100 candles for ETHUSDT
+2025-08-30 13:23:56 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 13:23:56 | INFO | Sequential: Fetched 100 candles for SOLUSDT
+2025-08-30 13:23:56 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 13:23:56 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 13:23:56 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 13:23:56 | INFO | Sequential time: 1.19s
+2025-08-30 13:23:56 | INFO | Parallel time: 0.56s
+2025-08-30 13:23:56 | INFO | Speed improvement: 2.1x faster
+2025-08-30 13:23:56 | INFO | Parallel: Fetched 100 candles for BTCUSDT
+2025-08-30 13:23:56 | INFO | Parallel: Fetched 100 candles for SOLUSDT
+2025-08-30 13:23:56 | INFO | Parallel: Fetched 100 candles for ETHUSDT
+2025-08-30 13:23:56 | INFO | Testing parallel price fetching...
+2025-08-30 13:23:57 | INFO | Sequential: BTCUSDT = $108,681.50
+2025-08-30 13:23:57 | INFO | Sequential: ETHUSDT = $4,362.32
+2025-08-30 13:23:57 | INFO | Sequential: SOLUSDT = $199.97
+2025-08-30 13:23:58 | INFO | Sequential time: 1.04s
+2025-08-30 13:23:58 | INFO | Parallel time: 0.41s
+2025-08-30 13:23:58 | INFO | Speed improvement: 2.5x faster
+2025-08-30 13:23:58 | INFO | Parallel: BTCUSDT = $108,681.50
+2025-08-30 13:23:58 | INFO | Parallel: SOLUSDT = $199.96
+2025-08-30 13:23:58 | INFO | Parallel: ETHUSDT = $4,362.20
+2025-08-30 13:23:58 | INFO | Parallel processing tests completed!

@@ -1,0 +1,68 @@
+2025-08-30 12:58:08 | INFO | Testing multiple trade call generation with simulated signals...
+2025-08-30 12:58:08 | INFO | Trading Signals module initialized. Last signal time: 2025-08-30 12:39:42.950409
+2025-08-30 12:58:08 | INFO | Calculated position size: 0.020000 BTC with 20x leverage
+2025-08-30 12:58:08 | ERROR | Error creating regular trade call for BTCUSDT: 'NoneType' object is not subscriptable
+2025-08-30 12:58:08 | INFO | Calculated position size: 0.020000 BTC with 20x leverage
+2025-08-30 12:58:08 | ERROR | Error creating scalping trade call for BTCUSDT: 'NoneType' object is not subscriptable
+2025-08-30 12:58:08 | INFO | Calculated position size: 0.020833 BTC with 20x leverage
+2025-08-30 12:58:08 | ERROR | Error creating regular trade call for BTCUSDT: 'NoneType' object is not subscriptable
+2025-08-30 12:58:08 | INFO | Calculated position size: 0.020833 BTC with 20x leverage
+2025-08-30 12:58:08 | ERROR | Error creating scalping trade call for BTCUSDT: 'NoneType' object is not subscriptable
+2025-08-30 12:58:08 | INFO | Calculated position size: 0.020000 BTC with 20x leverage
+2025-08-30 12:58:08 | ERROR | Error creating regular trade call for BTCUSDT: 'NoneType' object is not subscriptable
+2025-08-30 12:58:39 | INFO | Testing multiple trade call generation with simulated signals...
+2025-08-30 12:58:39 | INFO | Trading Signals module initialized. Last signal time: 2025-08-30 12:39:42.950409
+2025-08-30 12:58:39 | INFO | Calculated position size: 0.020000 BTC with 20x leverage
+2025-08-30 12:58:39 | ERROR | Error creating regular trade call for BTCUSDT: 'NoneType' object is not subscriptable
+2025-08-30 12:58:39 | INFO | Calculated position size: 0.020000 BTC with 20x leverage
+2025-08-30 12:58:39 | ERROR | Error creating scalping trade call for BTCUSDT: 'NoneType' object is not subscriptable
+2025-08-30 12:58:39 | INFO | Calculated position size: 0.020833 BTC with 20x leverage
+2025-08-30 12:58:39 | ERROR | Error creating regular trade call for BTCUSDT: 'NoneType' object is not subscriptable
+2025-08-30 12:58:39 | INFO | Calculated position size: 0.020833 BTC with 20x leverage
+2025-08-30 12:58:39 | ERROR | Error creating scalping trade call for BTCUSDT: 'NoneType' object is not subscriptable
+2025-08-30 12:58:39 | INFO | Calculated position size: 0.020000 BTC with 20x leverage
+2025-08-30 12:58:39 | ERROR | Error creating regular trade call for BTCUSDT: 'NoneType' object is not subscriptable
+2025-08-30 12:59:37 | INFO | Testing multiple trade call generation with simulated signals...
+2025-08-30 12:59:37 | INFO | Trading Signals module initialized. Last signal time: 2025-08-30 12:39:42.950409
+2025-08-30 12:59:37 | INFO | Calculated position size: 0.020000 BTC with 20x leverage
+2025-08-30 12:59:37 | INFO | Calculated stop loss: 49850.00
+2025-08-30 12:59:37 | INFO | Calculated take profit: 50300.00
+2025-08-30 12:59:37 | INFO | Generated regular trade call for BTCUSDT: BULLISH signal with 20x leverage
+2025-08-30 12:59:37 | INFO | Calculated position size: 0.020000 BTC with 20x leverage
+2025-08-30 12:59:37 | INFO | Calculated stop loss: 50150.00
+2025-08-30 12:59:37 | INFO | Calculated take profit: 49700.00
+2025-08-30 12:59:37 | INFO | Generated scalping trade call for BTCUSDT: BEARISH signal with 20x leverage
+2025-08-30 12:59:37 | INFO | Calculated position size: 0.020833 BTC with 20x leverage
+2025-08-30 12:59:37 | INFO | Calculated stop loss: 48150.00
+2025-08-30 12:59:37 | INFO | Calculated take profit: 47700.00
+2025-08-30 12:59:37 | INFO | Generated regular trade call for BTCUSDT: BEARISH signal with 20x leverage
+2025-08-30 12:59:37 | INFO | Calculated position size: 0.020833 BTC with 20x leverage
+2025-08-30 12:59:37 | INFO | Calculated stop loss: 47850.00
+2025-08-30 12:59:37 | INFO | Calculated take profit: 48300.00
+2025-08-30 12:59:37 | INFO | Generated scalping trade call for BTCUSDT: BULLISH signal with 20x leverage
+2025-08-30 12:59:37 | INFO | Calculated position size: 0.020000 BTC with 20x leverage
+2025-08-30 12:59:37 | INFO | Calculated stop loss: 49850.00
+2025-08-30 12:59:37 | INFO | Calculated take profit: 50300.00
+2025-08-30 12:59:37 | INFO | Generated regular trade call for BTCUSDT: BULLISH signal with 20x leverage
+2025-08-30 13:00:21 | INFO | Testing multiple trade call generation with simulated signals...
+2025-08-30 13:00:21 | INFO | Trading Signals module initialized. Last signal time: 2025-08-30 12:39:42.950409
+2025-08-30 13:00:21 | INFO | Calculated position size: 0.020000 BTC with 20x leverage
+2025-08-30 13:00:21 | INFO | Calculated stop loss: 49850.00
+2025-08-30 13:00:21 | INFO | Calculated take profit: 50300.00
+2025-08-30 13:00:21 | INFO | Generated regular trade call for BTCUSDT: BULLISH signal with 20x leverage
+2025-08-30 13:00:21 | INFO | Calculated position size: 0.020000 BTC with 20x leverage
+2025-08-30 13:00:21 | INFO | Calculated stop loss: 50150.00
+2025-08-30 13:00:21 | INFO | Calculated take profit: 49700.00
+2025-08-30 13:00:21 | INFO | Generated scalping trade call for BTCUSDT: BEARISH signal with 20x leverage
+2025-08-30 13:00:21 | INFO | Calculated position size: 0.020833 BTC with 20x leverage
+2025-08-30 13:00:21 | INFO | Calculated stop loss: 48150.00
+2025-08-30 13:00:21 | INFO | Calculated take profit: 47700.00
+2025-08-30 13:00:21 | INFO | Generated regular trade call for BTCUSDT: BEARISH signal with 20x leverage
+2025-08-30 13:00:21 | INFO | Calculated position size: 0.020833 BTC with 20x leverage
+2025-08-30 13:00:21 | INFO | Calculated stop loss: 47850.00
+2025-08-30 13:00:21 | INFO | Calculated take profit: 48300.00
+2025-08-30 13:00:21 | INFO | Generated scalping trade call for BTCUSDT: BULLISH signal with 20x leverage
+2025-08-30 13:00:21 | INFO | Calculated position size: 0.020000 BTC with 20x leverage
+2025-08-30 13:00:21 | INFO | Calculated stop loss: 49850.00
+2025-08-30 13:00:21 | INFO | Calculated take profit: 50300.00
+2025-08-30 13:00:21 | INFO | Generated regular trade call for BTCUSDT: BULLISH signal with 20x leverage

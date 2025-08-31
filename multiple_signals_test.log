@@ -1,0 +1,423 @@
+2025-08-30 12:50:54 | INFO | Testing multiple trade call generation with operation types...
+2025-08-30 12:50:59 | INFO | Binance Futures exchange initialized
+2025-08-30 12:50:59 | INFO | Trading Signals module initialized. Last signal time: 2025-08-30 12:39:42.950409
+2025-08-30 12:50:59 | INFO | 
+=== Testing BTCUSDT ===
+2025-08-30 12:50:59 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:50:59 | INFO | All technical indicators calculated successfully
+2025-08-30 12:50:59 | INFO | Overall Signal: BULLISH
+2025-08-30 12:50:59 | INFO | Scalp Signal: NEUTRAL
+2025-08-30 12:50:59 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:51:01 | INFO | Intelligent leverage for BTCUSDT: 30x (Vol: 0.08%, ADX: 18.9, Hist Vol: 0.9%, RSI: 65.9)
+2025-08-30 12:51:01 | INFO | Intelligent Leverage: 30x
+2025-08-30 12:51:01 | INFO | Calculated position size: 0.009187 BTC with 30x leverage
+2025-08-30 12:51:01 | INFO | Calculated stop loss: 108712.71
+2025-08-30 12:51:01 | INFO | Calculated take profit: 109120.68
+2025-08-30 12:51:01 | INFO | Generated regular trade call for BTCUSDT: BULLISH signal with 30x leverage
+2025-08-30 12:51:01 | INFO | Generated 1 trade calls for BTCUSDT
+2025-08-30 12:51:01 | INFO | Trade Call 1:
+🚀 *LONG BTC* 📊 *REGULAR*
+
+💰 *Entry:* $108,848.70
+📈 *Size:* 0.009187 BTC
+⚡ *Leverage:* 30x
+
+🛑 *Stop Loss:* $108,712.71
+🎯 *Take Profit:* $109,120.68
+
+🔍 *Quality:* HIGH
+⏰ *Time:* 12:51:01
+
+💡 *Action:* LONG at market
+2025-08-30 12:51:01 | INFO | --------------------------------------------------
+2025-08-30 12:51:01 | INFO | 
+=== Testing ETHUSDT ===
+2025-08-30 12:51:01 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:51:01 | INFO | All technical indicators calculated successfully
+2025-08-30 12:51:01 | INFO | Overall Signal: BULLISH
+2025-08-30 12:51:01 | INFO | Scalp Signal: NEUTRAL
+2025-08-30 12:51:01 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:51:03 | INFO | Intelligent leverage for ETHUSDT: 24x (Vol: 0.19%, ADX: 14.9, Hist Vol: 2.0%, RSI: 56.8)
+2025-08-30 12:51:03 | INFO | Intelligent Leverage: 24x
+2025-08-30 12:51:03 | INFO | Calculated position size: 0.228752 ETH with 24x leverage
+2025-08-30 12:51:03 | INFO | Calculated stop loss: 4358.93
+2025-08-30 12:51:03 | INFO | Calculated take profit: 4396.76
+2025-08-30 12:51:03 | INFO | Generated regular trade call for ETHUSDT: BULLISH signal with 24x leverage
+2025-08-30 12:51:03 | INFO | Generated 1 trade calls for ETHUSDT
+2025-08-30 12:51:03 | INFO | Trade Call 1:
+🚀 *LONG ETH* 📊 *REGULAR*
+
+💰 *Entry:* $4,371.54
+📈 *Size:* 0.228752 ETH
+⚡ *Leverage:* 24x
+
+🛑 *Stop Loss:* $4,358.93
+🎯 *Take Profit:* $4,396.76
+
+🔍 *Quality:* HIGH
+⏰ *Time:* 12:51:03
+
+💡 *Action:* LONG at market
+2025-08-30 12:51:03 | INFO | --------------------------------------------------
+2025-08-30 12:51:03 | INFO | 
+=== Testing SOLUSDT ===
+2025-08-30 12:51:03 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:51:03 | INFO | All technical indicators calculated successfully
+2025-08-30 12:51:03 | INFO | Overall Signal: NEUTRAL
+2025-08-30 12:51:03 | INFO | Scalp Signal: NEUTRAL
+2025-08-30 12:51:03 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:51:05 | INFO | Intelligent leverage for SOLUSDT: 30x (Vol: 0.30%, ADX: 23.3, Hist Vol: 3.1%, RSI: 58.6)
+2025-08-30 12:51:05 | INFO | Intelligent Leverage: 30x
+2025-08-30 12:51:05 | INFO | Generated 0 trade calls for SOLUSDT
+2025-08-30 12:51:05 | INFO | 
+=== Testing AVAXUSDT ===
+2025-08-30 12:51:05 | INFO | Fetched 100 candles for AVAXUSDT on 5m timeframe
+2025-08-30 12:51:05 | INFO | All technical indicators calculated successfully
+2025-08-30 12:51:05 | INFO | Overall Signal: BULLISH
+2025-08-30 12:51:05 | INFO | Scalp Signal: NEUTRAL
+2025-08-30 12:51:05 | INFO | Fetched 50 candles for AVAXUSDT on 5m timeframe
+2025-08-30 12:51:07 | INFO | Intelligent leverage for AVAXUSDT: 30x (Vol: 0.23%, ADX: 30.2, Hist Vol: 2.5%, RSI: 69.1)
+2025-08-30 12:51:07 | INFO | Intelligent Leverage: 30x
+2025-08-30 12:51:07 | INFO | Calculated position size: 41.902367 AVAX with 30x leverage
+2025-08-30 12:51:07 | INFO | Calculated stop loss: 23.78
+2025-08-30 12:51:07 | INFO | Calculated take profit: 24.03
+2025-08-30 12:51:07 | INFO | Generated regular trade call for AVAXUSDT: BULLISH signal with 30x leverage
+2025-08-30 12:51:07 | INFO | Generated 1 trade calls for AVAXUSDT
+2025-08-30 12:51:07 | INFO | Trade Call 1:
+🚀 *LONG AVAX* 📊 *REGULAR*
+
+💰 *Entry:* $23.86
+📈 *Size:* 41.902367 AVAX
+⚡ *Leverage:* 30x
+
+🛑 *Stop Loss:* $23.78
+🎯 *Take Profit:* $24.03
+
+🔍 *Quality:* HIGH
+⏰ *Time:* 12:51:07
+
+💡 *Action:* LONG at market
+2025-08-30 12:51:07 | INFO | --------------------------------------------------
+2025-08-30 12:51:07 | INFO | 
+=== Multiple Signal Test Complete ===
+2025-08-30 12:51:23 | INFO | Testing multiple trade call generation with operation types...
+2025-08-30 12:51:28 | INFO | Binance Futures exchange initialized
+2025-08-30 12:51:28 | INFO | Trading Signals module initialized. Last signal time: 2025-08-30 12:39:42.950409
+2025-08-30 12:51:28 | INFO | 
+=== Testing BTCUSDT ===
+2025-08-30 12:51:28 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:51:28 | INFO | All technical indicators calculated successfully
+2025-08-30 12:51:28 | INFO | Overall Signal: BULLISH
+2025-08-30 12:51:28 | INFO | Scalp Signal: NEUTRAL
+2025-08-30 12:51:29 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:51:30 | INFO | Intelligent leverage for BTCUSDT: 30x (Vol: 0.08%, ADX: 18.9, Hist Vol: 0.9%, RSI: 64.6)
+2025-08-30 12:51:30 | INFO | Intelligent Leverage: 30x
+2025-08-30 12:51:30 | INFO | Calculated position size: 0.009188 BTC with 30x leverage
+2025-08-30 12:51:30 | INFO | Calculated stop loss: 108702.91
+2025-08-30 12:51:30 | INFO | Calculated take profit: 109110.88
+2025-08-30 12:51:30 | INFO | Generated regular trade call for BTCUSDT: BULLISH signal with 30x leverage
+2025-08-30 12:51:30 | INFO | Generated 1 trade calls for BTCUSDT
+2025-08-30 12:51:30 | INFO | Trade Call 1:
+🚀 *LONG BTC* 📊 *REGULAR*
+
+💰 *Entry:* $108,838.90
+📈 *Size:* 0.009188 BTC
+⚡ *Leverage:* 30x
+
+🛑 *Stop Loss:* $108,702.91
+🎯 *Take Profit:* $109,110.88
+
+🔍 *Quality:* HIGH
+⏰ *Time:* 12:51:30
+
+💡 *Action:* LONG at market
+2025-08-30 12:51:30 | INFO | --------------------------------------------------
+2025-08-30 12:51:30 | INFO | 
+=== Testing ETHUSDT ===
+2025-08-30 12:51:30 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:51:30 | INFO | All technical indicators calculated successfully
+2025-08-30 12:51:30 | INFO | Overall Signal: BULLISH
+2025-08-30 12:51:30 | INFO | Scalp Signal: NEUTRAL
+2025-08-30 12:51:31 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:51:32 | INFO | Intelligent leverage for ETHUSDT: 24x (Vol: 0.19%, ADX: 14.9, Hist Vol: 2.0%, RSI: 55.9)
+2025-08-30 12:51:32 | INFO | Intelligent Leverage: 24x
+2025-08-30 12:51:32 | INFO | Calculated position size: 0.228781 ETH with 24x leverage
+2025-08-30 12:51:32 | INFO | Calculated stop loss: 4358.35
+2025-08-30 12:51:32 | INFO | Calculated take profit: 4396.27
+2025-08-30 12:51:32 | INFO | Generated regular trade call for ETHUSDT: BULLISH signal with 24x leverage
+2025-08-30 12:51:32 | INFO | Generated 1 trade calls for ETHUSDT
+2025-08-30 12:51:32 | INFO | Trade Call 1:
+🚀 *LONG ETH* 📊 *REGULAR*
+
+💰 *Entry:* $4,370.99
+📈 *Size:* 0.228781 ETH
+⚡ *Leverage:* 24x
+
+🛑 *Stop Loss:* $4,358.35
+🎯 *Take Profit:* $4,396.27
+
+🔍 *Quality:* HIGH
+⏰ *Time:* 12:51:32
+
+💡 *Action:* LONG at market
+2025-08-30 12:51:32 | INFO | --------------------------------------------------
+2025-08-30 12:51:32 | INFO | 
+=== Testing SOLUSDT ===
+2025-08-30 12:51:32 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:51:32 | INFO | All technical indicators calculated successfully
+2025-08-30 12:51:32 | INFO | Overall Signal: NEUTRAL
+2025-08-30 12:51:32 | INFO | Scalp Signal: NEUTRAL
+2025-08-30 12:51:33 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:51:34 | INFO | Intelligent leverage for SOLUSDT: 26x (Vol: 0.30%, ADX: 23.2, Hist Vol: 3.1%, RSI: 58.8)
+2025-08-30 12:51:34 | INFO | Intelligent Leverage: 26x
+2025-08-30 12:51:34 | INFO | Generated 0 trade calls for SOLUSDT
+2025-08-30 12:51:34 | INFO | 
+=== Testing AVAXUSDT ===
+2025-08-30 12:51:34 | INFO | Fetched 100 candles for AVAXUSDT on 5m timeframe
+2025-08-30 12:51:34 | INFO | All technical indicators calculated successfully
+2025-08-30 12:51:34 | INFO | Overall Signal: BULLISH
+2025-08-30 12:51:34 | INFO | Scalp Signal: NEUTRAL
+2025-08-30 12:51:35 | INFO | Fetched 50 candles for AVAXUSDT on 5m timeframe
+2025-08-30 12:51:36 | INFO | Intelligent leverage for AVAXUSDT: 30x (Vol: 0.24%, ADX: 30.0, Hist Vol: 2.5%, RSI: 67.9)
+2025-08-30 12:51:36 | INFO | Intelligent Leverage: 30x
+2025-08-30 12:51:36 | INFO | Calculated position size: 41.911148 AVAX with 30x leverage
+2025-08-30 12:51:36 | INFO | Calculated stop loss: 23.78
+2025-08-30 12:51:36 | INFO | Calculated take profit: 24.02
+2025-08-30 12:51:36 | INFO | Generated regular trade call for AVAXUSDT: BULLISH signal with 30x leverage
+2025-08-30 12:51:36 | INFO | Generated 1 trade calls for AVAXUSDT
+2025-08-30 12:51:36 | INFO | Trade Call 1:
+🚀 *LONG AVAX* 📊 *REGULAR*
+
+💰 *Entry:* $23.86
+📈 *Size:* 41.911148 AVAX
+⚡ *Leverage:* 30x
+
+🛑 *Stop Loss:* $23.78
+🎯 *Take Profit:* $24.02
+
+🔍 *Quality:* HIGH
+⏰ *Time:* 12:51:36
+
+💡 *Action:* LONG at market
+2025-08-30 12:51:36 | INFO | --------------------------------------------------
+2025-08-30 12:51:36 | INFO | 
+=== Multiple Signal Test Complete ===
+2025-08-30 12:53:04 | INFO | Testing multiple trade call generation with operation types...
+2025-08-30 12:53:09 | INFO | Binance Futures exchange initialized
+2025-08-30 12:53:09 | INFO | Trading Signals module initialized. Last signal time: 2025-08-30 12:39:42.950409
+2025-08-30 12:53:09 | INFO | 
+=== Testing BTCUSDT ===
+2025-08-30 12:53:09 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:53:09 | INFO | All technical indicators calculated successfully
+2025-08-30 12:53:09 | INFO | Overall Signal: BULLISH
+2025-08-30 12:53:09 | INFO | Scalp Signal: NEUTRAL
+2025-08-30 12:53:10 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:53:11 | INFO | Intelligent leverage for BTCUSDT: 30x (Vol: 0.09%, ADX: 18.9, Hist Vol: 0.9%, RSI: 63.7)
+2025-08-30 12:53:11 | INFO | Intelligent Leverage: 30x
+2025-08-30 12:53:11 | INFO | Calculated position size: 0.009189 BTC with 30x leverage
+2025-08-30 12:53:11 | INFO | Calculated stop loss: 108684.47
+2025-08-30 12:53:11 | INFO | Calculated take profit: 109101.86
+2025-08-30 12:53:11 | INFO | Generated regular trade call for BTCUSDT: BULLISH signal with 30x leverage
+2025-08-30 12:53:11 | INFO | Generated 1 trade calls for BTCUSDT
+2025-08-30 12:53:11 | INFO | Trade Call 1:
+🚀 *LONG BTC* 📊 *REGULAR*
+
+💰 *Entry:* $108,823.60
+📈 *Size:* 0.009189 BTC
+⚡ *Leverage:* 30x
+
+🛑 *Stop Loss:* $108,684.47
+🎯 *Take Profit:* $109,101.86
+
+🔍 *Quality:* HIGH
+⏰ *Time:* 12:53:11
+
+💡 *Action:* LONG at market
+2025-08-30 12:53:11 | INFO | --------------------------------------------------
+2025-08-30 12:53:11 | INFO | 
+=== Testing ETHUSDT ===
+2025-08-30 12:53:11 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:53:11 | INFO | All technical indicators calculated successfully
+2025-08-30 12:53:11 | INFO | Overall Signal: BULLISH
+2025-08-30 12:53:11 | INFO | Scalp Signal: NEUTRAL
+2025-08-30 12:53:12 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:53:13 | INFO | Intelligent leverage for ETHUSDT: 24x (Vol: 0.19%, ADX: 14.7, Hist Vol: 2.0%, RSI: 54.9)
+2025-08-30 12:53:13 | INFO | Intelligent Leverage: 24x
+2025-08-30 12:53:13 | INFO | Calculated position size: 0.228833 ETH with 24x leverage
+2025-08-30 12:53:13 | INFO | Calculated stop loss: 4357.26
+2025-08-30 12:53:13 | INFO | Calculated take profit: 4395.48
+2025-08-30 12:53:13 | INFO | Generated regular trade call for ETHUSDT: BULLISH signal with 24x leverage
+2025-08-30 12:53:13 | INFO | Generated 1 trade calls for ETHUSDT
+2025-08-30 12:53:13 | INFO | Trade Call 1:
+🚀 *LONG ETH* 📊 *REGULAR*
+
+💰 *Entry:* $4,370.00
+📈 *Size:* 0.228833 ETH
+⚡ *Leverage:* 24x
+
+🛑 *Stop Loss:* $4,357.26
+🎯 *Take Profit:* $4,395.48
+
+🔍 *Quality:* HIGH
+⏰ *Time:* 12:53:13
+
+💡 *Action:* LONG at market
+2025-08-30 12:53:13 | INFO | --------------------------------------------------
+2025-08-30 12:53:13 | INFO | 
+=== Testing SOLUSDT ===
+2025-08-30 12:53:13 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:53:13 | INFO | All technical indicators calculated successfully
+2025-08-30 12:53:13 | INFO | Overall Signal: NEUTRAL
+2025-08-30 12:53:13 | INFO | Scalp Signal: NEUTRAL
+2025-08-30 12:53:14 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:53:15 | INFO | Intelligent leverage for SOLUSDT: 26x (Vol: 0.30%, ADX: 23.1, Hist Vol: 3.1%, RSI: 57.7)
+2025-08-30 12:53:15 | INFO | Intelligent Leverage: 26x
+2025-08-30 12:53:15 | INFO | Generated 0 trade calls for SOLUSDT
+2025-08-30 12:53:15 | INFO | 
+=== Testing AVAXUSDT ===
+2025-08-30 12:53:15 | INFO | Fetched 100 candles for AVAXUSDT on 5m timeframe
+2025-08-30 12:53:15 | INFO | All technical indicators calculated successfully
+2025-08-30 12:53:15 | INFO | Overall Signal: BULLISH
+2025-08-30 12:53:15 | INFO | Scalp Signal: NEUTRAL
+2025-08-30 12:53:16 | INFO | Fetched 50 candles for AVAXUSDT on 5m timeframe
+2025-08-30 12:53:17 | INFO | Intelligent leverage for AVAXUSDT: 30x (Vol: 0.24%, ADX: 29.8, Hist Vol: 2.5%, RSI: 67.0)
+2025-08-30 12:53:17 | INFO | Intelligent Leverage: 30x
+2025-08-30 12:53:17 | INFO | Calculated position size: 41.932238 AVAX with 30x leverage
+2025-08-30 12:53:17 | INFO | Calculated stop loss: 23.76
+2025-08-30 12:53:17 | INFO | Calculated take profit: 24.02
+2025-08-30 12:53:17 | INFO | Generated regular trade call for AVAXUSDT: BULLISH signal with 30x leverage
+2025-08-30 12:53:17 | INFO | Generated 1 trade calls for AVAXUSDT
+2025-08-30 12:53:17 | INFO | Trade Call 1:
+🚀 *LONG AVAX* 📊 *REGULAR*
+
+💰 *Entry:* $23.85
+📈 *Size:* 41.932238 AVAX
+⚡ *Leverage:* 30x
+
+🛑 *Stop Loss:* $23.76
+🎯 *Take Profit:* $24.02
+
+🔍 *Quality:* HIGH
+⏰ *Time:* 12:53:17
+
+💡 *Action:* LONG at market
+2025-08-30 12:53:17 | INFO | --------------------------------------------------
+2025-08-30 12:53:17 | INFO | 
+=== Multiple Signal Test Complete ===
+2025-08-30 12:56:51 | INFO | Testing multiple trade call generation with operation types...
+2025-08-30 12:56:56 | INFO | Binance Futures exchange initialized
+2025-08-30 12:56:56 | INFO | Trading Signals module initialized. Last signal time: 2025-08-30 12:39:42.950409
+2025-08-30 12:56:56 | INFO | 
+=== Testing BTCUSDT ===
+2025-08-30 12:56:56 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:56:56 | INFO | All technical indicators calculated successfully
+2025-08-30 12:56:56 | INFO | Overall Signal: BULLISH
+2025-08-30 12:56:56 | INFO | Scalp Signal: NEUTRAL
+2025-08-30 12:56:57 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:56:58 | INFO | Intelligent leverage for BTCUSDT: 30x (Vol: 0.08%, ADX: 19.3, Hist Vol: 0.9%, RSI: 60.8)
+2025-08-30 12:56:58 | INFO | Intelligent Leverage: 30x
+2025-08-30 12:56:58 | INFO | Calculated position size: 0.009192 BTC with 30x leverage
+2025-08-30 12:56:58 | INFO | Calculated stop loss: 108655.85
+2025-08-30 12:56:58 | INFO | Calculated take profit: 109051.70
+2025-08-30 12:56:58 | INFO | Generated regular trade call for BTCUSDT: BULLISH signal with 30x leverage
+2025-08-30 12:56:58 | INFO | Generated 1 trade calls for BTCUSDT
+2025-08-30 12:56:58 | INFO | Trade Call 1:
+🚀 *LONG BTC* 
+
+💰 *Entry:* $108,787.80
+⚡ *Leverage:* 30x
+
+🛑 *Stop Loss:* $108,655.85
+🎯 *Take Profit:* $109,051.70
+
+🔍 *Quality:* HIGH
+⏰ *Time:* 12:56:58
+
+💡 *Action:* LONG at market
+2025-08-30 12:56:58 | INFO | --------------------------------------------------
+2025-08-30 12:56:58 | INFO | 
+=== Testing ETHUSDT ===
+2025-08-30 12:56:58 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:56:58 | INFO | All technical indicators calculated successfully
+2025-08-30 12:56:58 | INFO | Overall Signal: BULLISH
+2025-08-30 12:56:58 | INFO | Scalp Signal: NEUTRAL
+2025-08-30 12:56:59 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:57:00 | INFO | Intelligent leverage for ETHUSDT: 24x (Vol: 0.19%, ADX: 14.5, Hist Vol: 2.0%, RSI: 56.6)
+2025-08-30 12:57:00 | INFO | Intelligent Leverage: 24x
+2025-08-30 12:57:00 | INFO | Calculated position size: 0.228728 ETH with 24x leverage
+2025-08-30 12:57:00 | INFO | Calculated stop loss: 4359.68
+2025-08-30 12:57:00 | INFO | Calculated take profit: 4396.64
+2025-08-30 12:57:00 | INFO | Generated regular trade call for ETHUSDT: BULLISH signal with 24x leverage
+2025-08-30 12:57:00 | INFO | Generated 1 trade calls for ETHUSDT
+2025-08-30 12:57:00 | INFO | Trade Call 1:
+🚀 *LONG ETH* 
+
+💰 *Entry:* $4,372.00
+⚡ *Leverage:* 24x
+
+🛑 *Stop Loss:* $4,359.68
+🎯 *Take Profit:* $4,396.64
+
+🔍 *Quality:* HIGH
+⏰ *Time:* 12:57:00
+
+💡 *Action:* LONG at market
+2025-08-30 12:57:00 | INFO | --------------------------------------------------
+2025-08-30 12:57:00 | INFO | 
+=== Testing SOLUSDT ===
+2025-08-30 12:57:00 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:57:00 | INFO | All technical indicators calculated successfully
+2025-08-30 12:57:00 | INFO | Overall Signal: BULLISH
+2025-08-30 12:57:00 | INFO | Scalp Signal: NEUTRAL
+2025-08-30 12:57:01 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:57:02 | INFO | Intelligent leverage for SOLUSDT: 30x (Vol: 0.29%, ADX: 23.2, Hist Vol: 3.1%, RSI: 58.7)
+2025-08-30 12:57:02 | INFO | Intelligent Leverage: 30x
+2025-08-30 12:57:02 | INFO | Calculated position size: 4.980328 SOL with 30x leverage
+2025-08-30 12:57:02 | INFO | Calculated stop loss: 199.90
+2025-08-30 12:57:02 | INFO | Calculated take profit: 202.57
+2025-08-30 12:57:02 | INFO | Generated regular trade call for SOLUSDT: BULLISH signal with 30x leverage
+2025-08-30 12:57:02 | INFO | Generated 1 trade calls for SOLUSDT
+2025-08-30 12:57:02 | INFO | Trade Call 1:
+🚀 *LONG SOL* 
+
+💰 *Entry:* $200.79
+⚡ *Leverage:* 30x
+
+🛑 *Stop Loss:* $199.90
+🎯 *Take Profit:* $202.57
+
+🔍 *Quality:* HIGH
+⏰ *Time:* 12:57:02
+
+💡 *Action:* LONG at market
+2025-08-30 12:57:02 | INFO | --------------------------------------------------
+2025-08-30 12:57:02 | INFO | 
+=== Testing AVAXUSDT ===
+2025-08-30 12:57:02 | INFO | Fetched 100 candles for AVAXUSDT on 5m timeframe
+2025-08-30 12:57:02 | INFO | All technical indicators calculated successfully
+2025-08-30 12:57:02 | INFO | Overall Signal: BULLISH
+2025-08-30 12:57:02 | INFO | Scalp Signal: BULLISH
+2025-08-30 12:57:03 | INFO | Fetched 50 candles for AVAXUSDT on 5m timeframe
+2025-08-30 12:57:04 | INFO | Intelligent leverage for AVAXUSDT: 30x (Vol: 0.23%, ADX: 30.8, Hist Vol: 2.5%, RSI: 72.8)
+2025-08-30 12:57:04 | INFO | Intelligent Leverage: 30x
+2025-08-30 12:57:04 | INFO | Calculated position size: 41.842755 AVAX with 30x leverage
+2025-08-30 12:57:04 | INFO | Calculated stop loss: 23.82
+2025-08-30 12:57:04 | INFO | Calculated take profit: 24.06
+2025-08-30 12:57:04 | INFO | Generated regular trade call for AVAXUSDT: BULLISH signal with 30x leverage
+2025-08-30 12:57:04 | INFO | Generated 1 trade calls for AVAXUSDT
+2025-08-30 12:57:04 | INFO | Trade Call 1:
+🚀 *LONG AVAX* 
+
+💰 *Entry:* $23.90
+⚡ *Leverage:* 30x
+
+🛑 *Stop Loss:* $23.82
+🎯 *Take Profit:* $24.06
+
+🔍 *Quality:* HIGH
+⏰ *Time:* 12:57:04
+
+💡 *Action:* LONG at market
+2025-08-30 12:57:04 | INFO | --------------------------------------------------
+2025-08-30 12:57:04 | INFO | 
+=== Multiple Signal Test Complete ===

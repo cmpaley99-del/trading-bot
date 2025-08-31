@@ -1,0 +1,2283 @@
+2025-08-29 22:37:04 | INFO | Starting Cryptocurrency Futures Trading Bot
+2025-08-29 22:37:04 | INFO | Trading Pair: BTCUSDT
+2025-08-29 22:37:04 | INFO | Leverage: 10x
+2025-08-29 22:37:04 | INFO | Analysis Interval: 5 minutes
+2025-08-29 22:37:07 | ERROR | Telegram error: Chat not found
+2025-08-29 22:37:07 | INFO | Telegram Bot scheduler running in background
+2025-08-29 22:37:07 | INFO | Trading Bot is now running...
+2025-08-29 22:37:08 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-29 22:37:08 | INFO | All technical indicators calculated successfully
+2025-08-29 22:37:08 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-29 22:37:09 | INFO | Calculated position size: 0.009257 BTC
+2025-08-29 22:37:09 | ERROR | Error saving last signal time: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 19616 and this is thread id 13864.
+2025-08-29 22:37:09 | INFO | Generated trade call: NEUTRAL signal
+2025-08-29 22:37:09 | ERROR | Telegram error: Unknown error in HTTP implementation: RuntimeError('Event loop is closed')
+2025-08-29 22:37:09 | INFO | Immediate trade call sent on startup
+2025-08-29 22:37:09 | INFO | Scheduler started, running every 5 minutes
+2025-08-29 22:42:12 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-29 22:42:12 | INFO | All technical indicators calculated successfully
+2025-08-29 22:42:12 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-29 22:42:14 | INFO | Calculated position size: 0.009259 BTC
+2025-08-29 22:42:14 | ERROR | Error saving last signal time: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 19616 and this is thread id 13864.
+2025-08-29 22:42:14 | INFO | Generated trade call: NEUTRAL signal
+2025-08-29 22:42:16 | INFO | Message sent to Telegram
+2025-08-29 22:47:20 | INFO | Starting Cryptocurrency Futures Trading Bot
+2025-08-29 22:47:20 | INFO | Trading Pair: BTCUSDT
+2025-08-29 22:47:20 | INFO | Leverage: 10x
+2025-08-29 22:47:20 | INFO | Analysis Interval: 5 minutes
+2025-08-29 22:47:21 | INFO | Message sent to Telegram
+2025-08-29 22:47:21 | INFO | Telegram Bot scheduler running in background
+2025-08-29 22:47:21 | INFO | Trading Bot is now running...
+2025-08-29 22:47:22 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-29 22:47:22 | INFO | All technical indicators calculated successfully
+2025-08-29 22:47:22 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-29 22:47:24 | INFO | Calculated position size: 0.009263 BTC
+2025-08-29 22:47:24 | INFO | Saved last signal time: 2025-08-29 22:47:24.213474
+2025-08-29 22:47:24 | INFO | Generated trade call: NEUTRAL signal
+2025-08-29 22:47:24 | ERROR | Telegram error: Unknown error in HTTP implementation: RuntimeError('Event loop is closed')
+2025-08-29 22:47:24 | INFO | Immediate trade call sent on startup
+2025-08-29 22:47:24 | INFO | Scheduler started, running every 5 minutes
+2025-08-29 22:52:25 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-29 22:52:25 | INFO | All technical indicators calculated successfully
+2025-08-29 22:52:26 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-29 22:52:27 | INFO | Signal quality too low, skipping trade call
+2025-08-29 22:52:27 | INFO | No trade call generated at this time
+2025-08-29 22:58:52 | INFO | Starting Cryptocurrency Futures Trading Bot
+2025-08-29 22:58:52 | ERROR | Fatal error in main loop: type object 'Config' has no attribute 'TRADING_PAIR'
+2025-08-29 23:04:36 | INFO | Starting Cryptocurrency Futures Trading Bot
+2025-08-29 23:04:36 | ERROR | Fatal error in main loop: type object 'Config' has no attribute 'TRADING_PAIR'
+2025-08-29 23:05:52 | INFO | Starting Cryptocurrency Futures Trading Bot
+2025-08-29 23:05:52 | INFO | Trading Pair: BTCUSDT
+2025-08-29 23:05:52 | INFO | Leverage: 10x
+2025-08-29 23:05:52 | INFO | Analysis Interval: 5 minutes
+2025-08-29 23:05:53 | INFO | Message sent to Telegram
+2025-08-29 23:05:53 | INFO | Telegram Bot scheduler running in background
+2025-08-29 23:05:53 | INFO | Trading Bot is now running...
+2025-08-29 23:05:53 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-29 23:05:53 | INFO | All technical indicators calculated successfully
+2025-08-29 23:05:54 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-29 23:05:55 | INFO | Calculated position size: 0.009287 BTC
+2025-08-29 23:05:55 | ERROR | Stop loss is required for take profit calculation
+2025-08-29 23:05:55 | INFO | Generated trade call for BTCUSDT: NEUTRAL signal
+2025-08-29 23:05:56 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-29 23:05:56 | INFO | All technical indicators calculated successfully
+2025-08-29 23:05:57 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-29 23:05:58 | INFO | Calculated position size: 0.233346 BTC
+2025-08-29 23:05:58 | ERROR | Stop loss is required for take profit calculation
+2025-08-29 23:05:58 | INFO | Generated trade call for ETHUSDT: NEUTRAL signal
+2025-08-29 23:05:58 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-29 23:05:58 | INFO | All technical indicators calculated successfully
+2025-08-29 23:05:59 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-29 23:06:00 | INFO | Calculated position size: 4.950740 BTC
+2025-08-29 23:06:00 | ERROR | Stop loss is required for take profit calculation
+2025-08-29 23:06:00 | INFO | Generated trade call for SOLUSDT: NEUTRAL signal
+2025-08-29 23:06:00 | INFO | No immediate trade calls generated on startup
+2025-08-29 23:06:00 | INFO | Scheduler started, running every 5 minutes
+2025-08-29 23:08:59 | INFO | Starting Cryptocurrency Futures Trading Bot
+2025-08-29 23:08:59 | INFO | Trading Pair: BTCUSDT
+2025-08-29 23:08:59 | INFO | Leverage: 10x
+2025-08-29 23:08:59 | INFO | Analysis Interval: 5 minutes
+2025-08-29 23:09:00 | INFO | Message sent to Telegram
+2025-08-29 23:09:00 | INFO | Telegram Bot scheduler running in background
+2025-08-29 23:09:00 | INFO | Trading Bot is now running...
+2025-08-29 23:09:00 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-29 23:09:00 | INFO | All technical indicators calculated successfully
+2025-08-29 23:09:01 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-29 23:09:02 | INFO | Calculated position size: 0.009282 BTC
+2025-08-29 23:09:02 | ERROR | Stop loss is required for take profit calculation
+2025-08-29 23:09:02 | INFO | Generated trade call for BTCUSDT: NEUTRAL signal
+2025-08-29 23:09:02 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-29 23:09:02 | INFO | All technical indicators calculated successfully
+2025-08-29 23:09:03 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-29 23:09:04 | INFO | Signal quality too low for ETHUSDT, skipping trade call
+2025-08-29 23:09:04 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-29 23:09:04 | INFO | All technical indicators calculated successfully
+2025-08-29 23:09:05 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-29 23:09:06 | INFO | Calculated position size: 4.941200 BTC
+2025-08-29 23:09:06 | ERROR | Stop loss is required for take profit calculation
+2025-08-29 23:09:06 | INFO | Generated trade call for SOLUSDT: NEUTRAL signal
+2025-08-29 23:09:06 | INFO | No immediate trade calls generated on startup
+2025-08-29 23:09:06 | INFO | Scheduler started, running every 5 minutes
+2025-08-29 23:14:08 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-29 23:14:08 | INFO | All technical indicators calculated successfully
+2025-08-29 23:14:08 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-29 23:14:10 | INFO | Calculated position size: 0.009284 BTC
+2025-08-29 23:14:10 | ERROR | Stop loss is required for take profit calculation
+2025-08-29 23:14:10 | INFO | Generated trade call for BTCUSDT: NEUTRAL signal
+2025-08-29 23:14:10 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-29 23:14:10 | INFO | All technical indicators calculated successfully
+2025-08-29 23:14:11 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-29 23:14:12 | INFO | Signal quality too low for ETHUSDT, skipping trade call
+2025-08-29 23:14:13 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-29 23:14:13 | INFO | All technical indicators calculated successfully
+2025-08-29 23:14:13 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-29 23:14:14 | INFO | Calculated position size: 4.937540 BTC
+2025-08-29 23:14:14 | ERROR | Stop loss is required for take profit calculation
+2025-08-29 23:14:14 | INFO | Generated trade call for SOLUSDT: NEUTRAL signal
+2025-08-29 23:14:14 | INFO | No trade calls generated at this time
+2025-08-29 23:19:16 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-29 23:19:16 | INFO | All technical indicators calculated successfully
+2025-08-29 23:19:16 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-29 23:19:18 | INFO | Calculated position size: 0.009274 BTC
+2025-08-29 23:19:18 | ERROR | Stop loss is required for take profit calculation
+2025-08-29 23:19:18 | INFO | Generated trade call for BTCUSDT: NEUTRAL signal
+2025-08-29 23:19:18 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-29 23:19:18 | INFO | All technical indicators calculated successfully
+2025-08-29 23:19:19 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-29 23:19:20 | INFO | Signal quality too low for ETHUSDT, skipping trade call
+2025-08-29 23:19:20 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-29 23:19:20 | INFO | All technical indicators calculated successfully
+2025-08-29 23:19:21 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-29 23:19:23 | INFO | Calculated position size: 4.929994 BTC
+2025-08-29 23:19:23 | ERROR | Stop loss is required for take profit calculation
+2025-08-29 23:19:23 | INFO | Generated trade call for SOLUSDT: NEUTRAL signal
+2025-08-29 23:19:23 | INFO | No trade calls generated at this time
+2025-08-29 23:20:52 | INFO | Starting Cryptocurrency Futures Trading Bot
+2025-08-29 23:20:52 | INFO | Trading Pair: BTCUSDT
+2025-08-29 23:20:52 | ERROR | Fatal error in main loop: type object 'Config' has no attribute 'LEVERAGE'
+2025-08-29 23:22:51 | INFO | Starting Cryptocurrency Futures Trading Bot
+2025-08-29 23:22:51 | INFO | Trading Pairs: BTCUSDT, ETHUSDT, SOLUSDT
+2025-08-29 23:22:51 | INFO | Leverage for BTCUSDT: 10x
+2025-08-29 23:22:51 | INFO | Leverage for ETHUSDT: 10x
+2025-08-29 23:22:51 | INFO | Leverage for SOLUSDT: 10x
+2025-08-29 23:22:51 | INFO | Analysis Interval: 5 minutes
+2025-08-29 23:22:52 | INFO | Message sent to Telegram
+2025-08-29 23:22:52 | INFO | Telegram Bot scheduler running in background
+2025-08-29 23:22:52 | INFO | Trading Bot is now running...
+2025-08-29 23:22:52 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-29 23:22:52 | INFO | All technical indicators calculated successfully
+2025-08-29 23:22:52 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-29 23:22:54 | INFO | Calculated position size: 0.009282 BTC
+2025-08-29 23:22:54 | ERROR | Stop loss is required for take profit calculation
+2025-08-29 23:22:54 | INFO | Generated trade call for BTCUSDT: NEUTRAL signal
+2025-08-29 23:22:54 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-29 23:22:54 | INFO | All technical indicators calculated successfully
+2025-08-29 23:22:55 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-29 23:22:57 | INFO | Calculated position size: 0.232373 ETH
+2025-08-29 23:22:57 | ERROR | Stop loss is required for take profit calculation
+2025-08-29 23:22:57 | INFO | Generated trade call for ETHUSDT: NEUTRAL signal
+2025-08-29 23:22:57 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-29 23:22:57 | INFO | All technical indicators calculated successfully
+2025-08-29 23:22:57 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-29 23:22:59 | INFO | Calculated position size: 4.942177 SOL
+2025-08-29 23:22:59 | INFO | Calculated stop loss: 203.41
+2025-08-29 23:22:59 | INFO | Calculated take profit: 200.20
+2025-08-29 23:22:59 | INFO | Generated trade call for SOLUSDT: BEARISH signal
+2025-08-29 23:22:59 | ERROR | Telegram error: Unknown error in HTTP implementation: RuntimeError('Event loop is closed')
+2025-08-29 23:22:59 | INFO | Saved last signal time: 2025-08-29 23:22:59.365919
+2025-08-29 23:22:59 | INFO | Immediate 1 trade calls sent on startup
+2025-08-29 23:22:59 | INFO | Scheduler started, running every 5 minutes
+2025-08-29 23:24:25 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-29 23:24:25 | INFO | All technical indicators calculated successfully
+2025-08-29 23:24:25 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-29 23:24:26 | INFO | Calculated position size: 0.009280 BTC
+2025-08-29 23:24:26 | ERROR | Stop loss is required for take profit calculation
+2025-08-29 23:24:26 | INFO | Generated trade call for BTCUSDT: NEUTRAL signal
+2025-08-29 23:24:27 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-29 23:24:27 | INFO | All technical indicators calculated successfully
+2025-08-29 23:24:27 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-29 23:24:28 | INFO | Calculated position size: 0.232221 BTC
+2025-08-29 23:24:28 | ERROR | Stop loss is required for take profit calculation
+2025-08-29 23:24:28 | INFO | Generated trade call for ETHUSDT: NEUTRAL signal
+2025-08-29 23:24:29 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-29 23:24:29 | INFO | All technical indicators calculated successfully
+2025-08-29 23:24:29 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-29 23:24:31 | INFO | Calculated position size: 4.936565 BTC
+2025-08-29 23:24:31 | INFO | Calculated stop loss: 203.64
+2025-08-29 23:24:31 | INFO | Calculated take profit: 200.43
+2025-08-29 23:24:31 | INFO | Generated trade call for SOLUSDT: BEARISH signal
+2025-08-29 23:24:31 | ERROR | Telegram error: Unknown error in HTTP implementation: RuntimeError('Event loop is closed')
+2025-08-29 23:24:31 | INFO | Saved last signal time: 2025-08-29 23:24:31.210732
+2025-08-29 23:24:31 | INFO | Sent 1 trade calls
+2025-08-29 23:28:01 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-29 23:28:01 | INFO | All technical indicators calculated successfully
+2025-08-29 23:28:01 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-29 23:28:03 | INFO | Calculated position size: 0.009281 BTC
+2025-08-29 23:28:03 | ERROR | Stop loss is required for take profit calculation
+2025-08-29 23:28:03 | INFO | Generated trade call for BTCUSDT: NEUTRAL signal
+2025-08-29 23:28:03 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-29 23:28:03 | INFO | All technical indicators calculated successfully
+2025-08-29 23:28:03 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-29 23:28:05 | INFO | Calculated position size: 0.232127 ETH
+2025-08-29 23:28:05 | ERROR | Stop loss is required for take profit calculation
+2025-08-29 23:28:05 | INFO | Generated trade call for ETHUSDT: NEUTRAL signal
+2025-08-29 23:28:05 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-29 23:28:05 | INFO | All technical indicators calculated successfully
+2025-08-29 23:28:06 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-29 23:28:07 | INFO | Calculated position size: 4.934860 SOL
+2025-08-29 23:28:07 | ERROR | Stop loss is required for take profit calculation
+2025-08-29 23:28:07 | INFO | Generated trade call for SOLUSDT: NEUTRAL signal
+2025-08-29 23:28:07 | INFO | No trade calls generated at this time
+2025-08-29 23:29:32 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-29 23:29:32 | INFO | All technical indicators calculated successfully
+2025-08-29 23:29:33 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-29 23:29:34 | INFO | Calculated position size: 0.009278 BTC
+2025-08-29 23:29:34 | ERROR | Stop loss is required for take profit calculation
+2025-08-29 23:29:34 | INFO | Generated trade call for BTCUSDT: NEUTRAL signal
+2025-08-29 23:29:34 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-29 23:29:34 | INFO | All technical indicators calculated successfully
+2025-08-29 23:29:35 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-29 23:29:37 | INFO | Calculated position size: 0.232126 BTC
+2025-08-29 23:29:37 | ERROR | Stop loss is required for take profit calculation
+2025-08-29 23:29:37 | INFO | Generated trade call for ETHUSDT: NEUTRAL signal
+2025-08-29 23:29:37 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-29 23:29:37 | INFO | All technical indicators calculated successfully
+2025-08-29 23:29:37 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-29 23:29:39 | INFO | Calculated position size: 4.938515 BTC
+2025-08-29 23:29:39 | ERROR | Stop loss is required for take profit calculation
+2025-08-29 23:29:39 | INFO | Generated trade call for SOLUSDT: NEUTRAL signal
+2025-08-29 23:29:39 | INFO | No trade calls generated at this time
+2025-08-29 23:33:09 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-29 23:33:09 | INFO | All technical indicators calculated successfully
+2025-08-29 23:33:09 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-29 23:33:11 | INFO | Calculated position size: 0.009269 BTC
+2025-08-29 23:33:11 | ERROR | Stop loss is required for take profit calculation
+2025-08-29 23:33:11 | INFO | Generated trade call for BTCUSDT: NEUTRAL signal
+2025-08-29 23:33:11 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-29 23:33:11 | INFO | All technical indicators calculated successfully
+2025-08-29 23:33:11 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-29 23:33:13 | INFO | Calculated position size: 0.231803 ETH
+2025-08-29 23:33:13 | ERROR | Stop loss is required for take profit calculation
+2025-08-29 23:33:13 | INFO | Generated trade call for ETHUSDT: NEUTRAL signal
+2025-08-29 23:33:14 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-29 23:33:14 | INFO | All technical indicators calculated successfully
+2025-08-29 23:33:14 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-29 23:33:16 | INFO | Calculated position size: 4.919565 SOL
+2025-08-29 23:33:16 | ERROR | Stop loss is required for take profit calculation
+2025-08-29 23:33:16 | INFO | Generated trade call for SOLUSDT: NEUTRAL signal
+2025-08-29 23:33:16 | INFO | No trade calls generated at this time
+2025-08-29 23:34:41 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-29 23:34:41 | INFO | All technical indicators calculated successfully
+2025-08-29 23:34:41 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-29 23:34:43 | INFO | Calculated position size: 0.009272 BTC
+2025-08-29 23:34:43 | ERROR | Stop loss is required for take profit calculation
+2025-08-29 23:34:43 | INFO | Generated trade call for BTCUSDT: NEUTRAL signal
+2025-08-29 23:34:43 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-29 23:34:43 | INFO | All technical indicators calculated successfully
+2025-08-29 23:34:43 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-29 23:34:45 | INFO | Calculated position size: 0.232051 BTC
+2025-08-29 23:34:45 | ERROR | Stop loss is required for take profit calculation
+2025-08-29 23:34:45 | INFO | Generated trade call for ETHUSDT: NEUTRAL signal
+2025-08-29 23:34:45 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-29 23:34:45 | INFO | All technical indicators calculated successfully
+2025-08-29 23:34:46 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-29 23:34:47 | INFO | Calculated position size: 4.922471 BTC
+2025-08-29 23:34:47 | ERROR | Stop loss is required for take profit calculation
+2025-08-29 23:34:47 | INFO | Generated trade call for SOLUSDT: NEUTRAL signal
+2025-08-29 23:34:47 | INFO | No trade calls generated at this time
+2025-08-29 23:53:55 | INFO | Starting Cryptocurrency Futures Trading Bot
+2025-08-29 23:53:55 | INFO | Trading Pairs: BTCUSDT, ETHUSDT, SOLUSDT
+2025-08-29 23:53:55 | ERROR | Fatal error in main loop: type object 'Config' has no attribute 'LEVERAGE_MAP'
+2025-08-29 23:55:51 | INFO | Starting Cryptocurrency Futures Trading Bot
+2025-08-29 23:55:51 | INFO | Trading Pairs: BTCUSDT, ETHUSDT, SOLUSDT
+2025-08-29 23:55:51 | INFO | Default Leverage: 10x (intelligent calculation active)
+2025-08-29 23:55:51 | INFO | Analysis Interval: 5 minutes
+2025-08-29 23:55:55 | INFO | Message sent to Telegram
+2025-08-29 23:55:55 | INFO | Telegram Bot scheduler running in background
+2025-08-29 23:55:55 | INFO | Trading Bot is now running...
+2025-08-29 23:55:56 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-29 23:55:56 | INFO | All technical indicators calculated successfully
+2025-08-29 23:55:56 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-29 23:55:57 | INFO | Calculated leverage for BTCUSDT: 25x (Volatility: 0.11%, ADX: 37.5, Hist Vol: 1.5%)
+2025-08-29 23:55:57 | INFO | Calculated position size: 0.009276 BTC with 25x leverage
+2025-08-29 23:55:57 | INFO | No trade call for BTCUSDT: NEUTRAL signal (neutral)
+2025-08-29 23:55:58 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-29 23:55:58 | INFO | All technical indicators calculated successfully
+2025-08-29 23:55:58 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-29 23:56:00 | INFO | Calculated leverage for ETHUSDT: 25x (Volatility: 0.25%, ADX: 34.5, Hist Vol: 3.1%)
+2025-08-29 23:56:00 | INFO | Calculated position size: 0.232469 ETH with 25x leverage
+2025-08-29 23:56:00 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-29 23:56:00 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-29 23:56:00 | INFO | All technical indicators calculated successfully
+2025-08-29 23:56:01 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-29 23:56:03 | INFO | Calculated leverage for SOLUSDT: 22x (Volatility: 0.32%, ADX: 23.2, Hist Vol: 3.4%)
+2025-08-29 23:56:03 | INFO | Calculated position size: 4.924168 SOL with 22x leverage
+2025-08-29 23:56:03 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-29 23:56:03 | INFO | No immediate trade calls generated on startup
+2025-08-29 23:56:03 | INFO | Scheduler started, running every 5 minutes
+2025-08-30 00:01:05 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 00:01:05 | INFO | All technical indicators calculated successfully
+2025-08-30 00:01:06 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 00:01:08 | INFO | Calculated leverage for BTCUSDT: 25x (Volatility: 0.11%, ADX: 38.3, Hist Vol: 1.5%)
+2025-08-30 00:01:08 | INFO | Calculated position size: 0.009283 BTC with 25x leverage
+2025-08-30 00:01:08 | INFO | No trade call for BTCUSDT: NEUTRAL signal (neutral)
+2025-08-30 00:01:08 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 00:01:08 | INFO | All technical indicators calculated successfully
+2025-08-30 00:01:08 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 00:01:10 | INFO | Calculated leverage for ETHUSDT: 25x (Volatility: 0.24%, ADX: 34.1, Hist Vol: 3.1%)
+2025-08-30 00:01:10 | INFO | Calculated position size: 0.232445 ETH with 25x leverage
+2025-08-30 00:01:10 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 00:01:10 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 00:01:10 | INFO | All technical indicators calculated successfully
+2025-08-30 00:01:10 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 00:01:12 | INFO | Calculated leverage for SOLUSDT: 22x (Volatility: 0.32%, ADX: 22.5, Hist Vol: 3.4%)
+2025-08-30 00:01:12 | INFO | Calculated position size: 4.921502 SOL with 22x leverage
+2025-08-30 00:01:12 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 00:01:12 | INFO | No trade calls generated at this time
+2025-08-30 00:02:23 | INFO | Starting Cryptocurrency Futures Trading Bot
+2025-08-30 00:02:23 | INFO | Trading Pairs: BTCUSDT, ETHUSDT, SOLUSDT
+2025-08-30 00:02:23 | INFO | Default Leverage: 10x (intelligent calculation active)
+2025-08-30 00:02:23 | INFO | Analysis Interval: 5 minutes
+2025-08-30 00:02:24 | INFO | Message sent to Telegram
+2025-08-30 00:02:24 | INFO | Telegram Bot scheduler running in background
+2025-08-30 00:02:24 | INFO | Trading Bot is now running...
+2025-08-30 00:02:24 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 00:02:24 | INFO | All technical indicators calculated successfully
+2025-08-30 00:02:25 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 00:02:26 | INFO | Calculated leverage for BTCUSDT: 25x (Volatility: 0.11%, ADX: 38.3, Hist Vol: 1.5%)
+2025-08-30 00:02:26 | INFO | Calculated position size: 0.009281 BTC with 25x leverage
+2025-08-30 00:02:26 | INFO | No trade call for BTCUSDT: NEUTRAL signal (neutral)
+2025-08-30 00:02:26 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 00:02:26 | INFO | All technical indicators calculated successfully
+2025-08-30 00:02:27 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 00:02:28 | INFO | Calculated leverage for ETHUSDT: 25x (Volatility: 0.25%, ADX: 34.1, Hist Vol: 3.1%)
+2025-08-30 00:02:28 | INFO | Calculated position size: 0.232246 ETH with 25x leverage
+2025-08-30 00:02:28 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 00:02:29 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 00:02:29 | INFO | All technical indicators calculated successfully
+2025-08-30 00:02:29 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 00:02:31 | INFO | Calculated leverage for SOLUSDT: 22x (Volatility: 0.32%, ADX: 22.5, Hist Vol: 3.4%)
+2025-08-30 00:02:31 | INFO | Calculated position size: 4.921260 SOL with 22x leverage
+2025-08-30 00:02:31 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 00:02:31 | INFO | No immediate trade calls generated on startup
+2025-08-30 00:02:31 | INFO | Scheduler started, running every 5 minutes
+2025-08-30 00:17:45 | INFO | Starting Cryptocurrency Futures Trading Bot
+2025-08-30 00:17:45 | INFO | Trading Pairs: BTCUSDT, ETHUSDT, SOLUSDT
+2025-08-30 00:17:45 | INFO | Default Leverage: 10x (intelligent calculation active)
+2025-08-30 00:17:45 | INFO | Analysis Interval: 5 minutes
+2025-08-30 00:17:46 | INFO | Message sent to Telegram
+2025-08-30 00:17:46 | INFO | Telegram Bot scheduler running in background
+2025-08-30 00:17:46 | INFO | Trading Bot is now running...
+2025-08-30 00:17:47 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 00:17:47 | INFO | All technical indicators calculated successfully
+2025-08-30 00:17:47 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 00:17:48 | INFO | Calculated leverage for BTCUSDT: 25x (Volatility: 0.11%, ADX: 32.9, Hist Vol: 1.5%)
+2025-08-30 00:17:48 | INFO | Calculated position size: 0.009258 BTC with 25x leverage
+2025-08-30 00:17:48 | INFO | No trade call for BTCUSDT: NEUTRAL signal (neutral)
+2025-08-30 00:17:49 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 00:17:49 | INFO | All technical indicators calculated successfully
+2025-08-30 00:17:49 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 00:17:51 | INFO | Calculated leverage for ETHUSDT: 25x (Volatility: 0.25%, ADX: 27.7, Hist Vol: 3.1%)
+2025-08-30 00:17:51 | INFO | Calculated position size: 0.231009 ETH with 25x leverage
+2025-08-30 00:17:51 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 00:17:51 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 00:17:51 | INFO | All technical indicators calculated successfully
+2025-08-30 00:17:51 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 00:17:53 | INFO | Calculated leverage for SOLUSDT: 22x (Volatility: 0.33%, ADX: 21.3, Hist Vol: 3.5%)
+2025-08-30 00:17:53 | INFO | Calculated position size: 4.875908 SOL with 22x leverage
+2025-08-30 00:17:53 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 00:17:53 | INFO | No immediate trade calls generated on startup
+2025-08-30 00:17:53 | INFO | Scheduler started, running every 5 minutes
+2025-08-30 00:22:50 | INFO | Starting Cryptocurrency Futures Trading Bot
+2025-08-30 00:22:50 | INFO | Trading Pairs: BTCUSDT, ETHUSDT, SOLUSDT
+2025-08-30 00:22:50 | INFO | Default Leverage: 10x (intelligent calculation active)
+2025-08-30 00:22:50 | INFO | Analysis Interval: 5 minutes
+2025-08-30 00:22:51 | INFO | Message sent to Telegram
+2025-08-30 00:22:51 | INFO | Telegram Bot scheduler running in background
+2025-08-30 00:22:51 | INFO | Trading Bot is now running...
+2025-08-30 00:22:51 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 00:22:51 | INFO | All technical indicators calculated successfully
+2025-08-30 00:22:52 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 00:22:53 | INFO | Calculated leverage for BTCUSDT: 25x (Volatility: 0.11%, ADX: 31.1, Hist Vol: 1.5%)
+2025-08-30 00:22:53 | INFO | Calculated position size: 0.009246 BTC with 25x leverage
+2025-08-30 00:22:53 | INFO | No trade call for BTCUSDT: NEUTRAL signal (neutral)
+2025-08-30 00:22:53 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 00:22:53 | INFO | All technical indicators calculated successfully
+2025-08-30 00:22:54 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 00:22:55 | INFO | Calculated leverage for ETHUSDT: 25x (Volatility: 0.27%, ADX: 28.2, Hist Vol: 3.1%)
+2025-08-30 00:22:55 | INFO | Calculated position size: 0.229990 ETH with 25x leverage
+2025-08-30 00:22:55 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 00:22:55 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 00:22:55 | INFO | All technical indicators calculated successfully
+2025-08-30 00:22:56 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 00:22:57 | INFO | Signal quality too low for SOLUSDT, skipping trade call
+2025-08-30 00:22:57 | INFO | No immediate trade calls generated on startup
+2025-08-30 00:22:57 | INFO | Scheduler started, running every 5 minutes
+2025-08-30 11:40:57 | INFO | Starting Cryptocurrency Futures Trading Bot
+2025-08-30 11:40:57 | INFO | Trading Pairs: BTCUSDT, ETHUSDT, SOLUSDT
+2025-08-30 11:40:57 | INFO | Default Leverage: 10x (intelligent calculation active)
+2025-08-30 11:40:57 | INFO | Analysis Interval: 5 minutes
+2025-08-30 11:40:58 | INFO | Message sent to Telegram
+2025-08-30 11:40:58 | INFO | Telegram Bot scheduler running in background
+2025-08-30 11:40:58 | INFO | Trading Bot is now running...
+2025-08-30 11:40:58 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 11:40:58 | INFO | All technical indicators calculated successfully
+2025-08-30 11:40:58 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 11:41:00 | INFO | Calculated leverage for BTCUSDT: 22x (Volatility: 0.07%, ADX: 15.5, Hist Vol: 0.9%)
+2025-08-30 11:41:00 | INFO | Calculated position size: 0.009210 BTC with 22x leverage
+2025-08-30 11:41:00 | INFO | No trade call for BTCUSDT: NEUTRAL signal (neutral)
+2025-08-30 11:41:00 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 11:41:00 | INFO | All technical indicators calculated successfully
+2025-08-30 11:41:00 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 11:41:02 | INFO | Calculated leverage for ETHUSDT: 22x (Volatility: 0.22%, ADX: 21.0, Hist Vol: 2.0%)
+2025-08-30 11:41:02 | INFO | Calculated position size: 0.229388 ETH with 22x leverage
+2025-08-30 11:41:02 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 11:41:02 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 11:41:02 | INFO | All technical indicators calculated successfully
+2025-08-30 11:41:02 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 11:41:04 | INFO | Calculated leverage for SOLUSDT: 25x (Volatility: 0.28%, ADX: 43.9, Hist Vol: 3.0%)
+2025-08-30 11:41:04 | INFO | Calculated position size: 5.014794 SOL with 25x leverage
+2025-08-30 11:41:04 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 11:41:04 | INFO | No immediate trade calls generated on startup
+2025-08-30 11:41:04 | INFO | Scheduler started, running every 5 minutes
+2025-08-30 11:45:14 | INFO | Starting Cryptocurrency Futures Trading Bot
+2025-08-30 11:45:14 | INFO | Trading Pairs: BTCUSDT, ETHUSDT, SOLUSDT
+2025-08-30 11:45:14 | INFO | Default Leverage: 10x (intelligent calculation active)
+2025-08-30 11:45:14 | INFO | Analysis Interval: 5 minutes
+2025-08-30 11:45:14 | ERROR | Error in send_message: Cannot run the event loop while another loop is running
+2025-08-30 11:45:14 | ERROR | Error sending startup message: object bool can't be used in 'await' expression
+2025-08-30 11:45:14 | INFO | Telegram Bot scheduler running in background
+2025-08-30 11:45:14 | INFO | Trading Bot is now running...
+2025-08-30 11:45:15 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 11:45:15 | INFO | All technical indicators calculated successfully
+2025-08-30 11:45:15 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 11:45:16 | INFO | Calculated leverage for BTCUSDT: 22x (Volatility: 0.07%, ADX: 15.3, Hist Vol: 0.9%)
+2025-08-30 11:45:16 | INFO | Calculated position size: 0.009210 BTC with 22x leverage
+2025-08-30 11:45:16 | INFO | No trade call for BTCUSDT: NEUTRAL signal (neutral)
+2025-08-30 11:45:17 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 11:45:17 | INFO | All technical indicators calculated successfully
+2025-08-30 11:45:17 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 11:45:18 | INFO | Calculated leverage for ETHUSDT: 22x (Volatility: 0.21%, ADX: 19.9, Hist Vol: 2.0%)
+2025-08-30 11:45:18 | INFO | Calculated position size: 0.229566 ETH with 22x leverage
+2025-08-30 11:45:18 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 11:45:19 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 11:45:19 | INFO | All technical indicators calculated successfully
+2025-08-30 11:45:19 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 11:45:20 | INFO | Calculated leverage for SOLUSDT: 25x (Volatility: 0.28%, ADX: 41.7, Hist Vol: 3.0%)
+2025-08-30 11:45:20 | INFO | Calculated position size: 5.018065 SOL with 25x leverage
+2025-08-30 11:45:20 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 11:45:20 | INFO | No immediate trade calls generated on startup
+2025-08-30 11:45:20 | INFO | Scheduler started, running every 5 minutes
+2025-08-30 11:46:05 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 11:46:05 | INFO | All technical indicators calculated successfully
+2025-08-30 11:46:06 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 11:46:07 | INFO | Calculated leverage for BTCUSDT: 22x (Volatility: 0.07%, ADX: 15.3, Hist Vol: 0.9%)
+2025-08-30 11:46:07 | INFO | Calculated position size: 0.009208 BTC with 22x leverage
+2025-08-30 11:46:07 | INFO | No trade call for BTCUSDT: NEUTRAL signal (neutral)
+2025-08-30 11:46:07 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 11:46:07 | INFO | All technical indicators calculated successfully
+2025-08-30 11:46:08 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 11:46:09 | INFO | Calculated leverage for ETHUSDT: 22x (Volatility: 0.21%, ADX: 19.9, Hist Vol: 2.0%)
+2025-08-30 11:46:09 | INFO | Calculated position size: 0.229419 ETH with 22x leverage
+2025-08-30 11:46:09 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 11:46:09 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 11:46:09 | INFO | All technical indicators calculated successfully
+2025-08-30 11:46:09 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 11:46:11 | INFO | Calculated leverage for SOLUSDT: 25x (Volatility: 0.28%, ADX: 41.7, Hist Vol: 3.0%)
+2025-08-30 11:46:11 | INFO | Calculated position size: 5.012783 SOL with 25x leverage
+2025-08-30 11:46:11 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 11:46:11 | INFO | No trade calls generated at this time
+2025-08-30 11:46:58 | INFO | Starting Cryptocurrency Futures Trading Bot
+2025-08-30 11:46:58 | INFO | Trading Pairs: BTCUSDT, ETHUSDT, SOLUSDT
+2025-08-30 11:46:58 | INFO | Default Leverage: 10x (intelligent calculation active)
+2025-08-30 11:46:58 | INFO | Analysis Interval: 5 minutes
+2025-08-30 11:46:59 | INFO | Message sent to Telegram
+2025-08-30 11:46:59 | ERROR | Error sending startup message: object bool can't be used in 'await' expression
+2025-08-30 11:46:59 | INFO | Telegram Bot scheduler running in background
+2025-08-30 11:46:59 | INFO | Trading Bot is now running...
+2025-08-30 11:47:00 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 11:47:00 | INFO | All technical indicators calculated successfully
+2025-08-30 11:47:00 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 11:47:01 | INFO | Calculated leverage for BTCUSDT: 22x (Volatility: 0.07%, ADX: 15.5, Hist Vol: 0.9%)
+2025-08-30 11:47:01 | INFO | Calculated position size: 0.009207 BTC with 22x leverage
+2025-08-30 11:47:01 | INFO | No trade call for BTCUSDT: NEUTRAL signal (neutral)
+2025-08-30 11:47:02 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 11:47:02 | INFO | All technical indicators calculated successfully
+2025-08-30 11:47:02 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 11:47:03 | INFO | Calculated leverage for ETHUSDT: 22x (Volatility: 0.22%, ADX: 19.6, Hist Vol: 2.0%)
+2025-08-30 11:47:03 | INFO | Calculated position size: 0.229197 ETH with 22x leverage
+2025-08-30 11:47:03 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 11:47:04 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 11:47:04 | INFO | All technical indicators calculated successfully
+2025-08-30 11:47:04 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 11:47:06 | INFO | Calculated leverage for SOLUSDT: 25x (Volatility: 0.29%, ADX: 41.4, Hist Vol: 3.0%)
+2025-08-30 11:47:06 | INFO | Calculated position size: 5.007511 SOL with 25x leverage
+2025-08-30 11:47:06 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 11:47:06 | INFO | No immediate trade calls generated on startup
+2025-08-30 11:47:06 | INFO | Scheduler started, running every 5 minutes
+2025-08-30 11:50:22 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 11:50:22 | INFO | All technical indicators calculated successfully
+2025-08-30 11:50:22 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 11:50:24 | INFO | Calculated leverage for BTCUSDT: 22x (Volatility: 0.07%, ADX: 16.4, Hist Vol: 0.9%)
+2025-08-30 11:50:24 | INFO | Calculated position size: 0.009204 BTC with 22x leverage
+2025-08-30 11:50:24 | INFO | No trade call for BTCUSDT: NEUTRAL signal (neutral)
+2025-08-30 11:50:24 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 11:50:24 | INFO | All technical indicators calculated successfully
+2025-08-30 11:50:24 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 11:50:26 | INFO | Calculated leverage for ETHUSDT: 22x (Volatility: 0.22%, ADX: 19.1, Hist Vol: 2.0%)
+2025-08-30 11:50:26 | INFO | Calculated position size: 0.229171 ETH with 22x leverage
+2025-08-30 11:50:26 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 11:50:26 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 11:50:26 | INFO | All technical indicators calculated successfully
+2025-08-30 11:50:26 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 11:50:28 | INFO | Calculated leverage for SOLUSDT: 25x (Volatility: 0.29%, ADX: 37.6, Hist Vol: 3.0%)
+2025-08-30 11:50:28 | INFO | Calculated position size: 5.000500 SOL with 25x leverage
+2025-08-30 11:50:28 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 11:50:28 | INFO | No trade calls generated at this time
+2025-08-30 11:51:12 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 11:51:12 | INFO | All technical indicators calculated successfully
+2025-08-30 11:51:12 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 11:51:13 | INFO | Calculated leverage for BTCUSDT: 22x (Volatility: 0.07%, ADX: 16.4, Hist Vol: 0.9%)
+2025-08-30 11:51:13 | INFO | Calculated position size: 0.009202 BTC with 22x leverage
+2025-08-30 11:51:13 | INFO | No trade call for BTCUSDT: NEUTRAL signal (neutral)
+2025-08-30 11:51:14 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 11:51:14 | INFO | All technical indicators calculated successfully
+2025-08-30 11:51:14 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 11:51:16 | INFO | Calculated leverage for ETHUSDT: 22x (Volatility: 0.22%, ADX: 19.1, Hist Vol: 2.0%)
+2025-08-30 11:51:16 | INFO | Calculated position size: 0.229095 ETH with 22x leverage
+2025-08-30 11:51:16 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 11:51:16 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 11:51:16 | INFO | All technical indicators calculated successfully
+2025-08-30 11:51:16 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 11:51:18 | INFO | Calculated leverage for SOLUSDT: 25x (Volatility: 0.30%, ADX: 37.6, Hist Vol: 3.0%)
+2025-08-30 11:51:18 | INFO | Calculated position size: 4.997751 SOL with 25x leverage
+2025-08-30 11:51:18 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 11:51:18 | INFO | No trade calls generated at this time
+2025-08-30 11:52:07 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 11:52:07 | INFO | All technical indicators calculated successfully
+2025-08-30 11:52:07 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 11:52:09 | INFO | Calculated leverage for BTCUSDT: 22x (Volatility: 0.07%, ADX: 16.4, Hist Vol: 0.9%)
+2025-08-30 11:52:09 | INFO | Calculated position size: 0.009206 BTC with 22x leverage
+2025-08-30 11:52:09 | INFO | No trade call for BTCUSDT: NEUTRAL signal (neutral)
+2025-08-30 11:52:09 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 11:52:09 | INFO | All technical indicators calculated successfully
+2025-08-30 11:52:09 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 11:52:11 | INFO | Calculated leverage for ETHUSDT: 22x (Volatility: 0.22%, ADX: 19.1, Hist Vol: 2.0%)
+2025-08-30 11:52:11 | INFO | Calculated position size: 0.229320 ETH with 22x leverage
+2025-08-30 11:52:11 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 11:52:11 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 11:52:11 | INFO | All technical indicators calculated successfully
+2025-08-30 11:52:11 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 11:52:13 | INFO | Calculated leverage for SOLUSDT: 25x (Volatility: 0.30%, ADX: 37.6, Hist Vol: 3.0%)
+2025-08-30 11:52:13 | INFO | Calculated position size: 5.001500 SOL with 25x leverage
+2025-08-30 11:52:13 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 11:52:13 | INFO | No trade calls generated at this time
+2025-08-30 11:55:28 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 11:55:28 | INFO | All technical indicators calculated successfully
+2025-08-30 11:55:29 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 11:55:30 | INFO | Calculated leverage for BTCUSDT: 22x (Volatility: 0.07%, ADX: 16.7, Hist Vol: 0.9%)
+2025-08-30 11:55:30 | INFO | Calculated position size: 0.009205 BTC with 22x leverage
+2025-08-30 11:55:30 | INFO | No trade call for BTCUSDT: NEUTRAL signal (neutral)
+2025-08-30 11:55:30 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 11:55:30 | INFO | All technical indicators calculated successfully
+2025-08-30 11:55:31 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 11:55:32 | INFO | Calculated leverage for ETHUSDT: 22x (Volatility: 0.21%, ADX: 18.2, Hist Vol: 2.0%)
+2025-08-30 11:55:32 | INFO | Calculated position size: 0.229247 ETH with 22x leverage
+2025-08-30 11:55:32 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 11:55:32 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 11:55:32 | INFO | All technical indicators calculated successfully
+2025-08-30 11:55:33 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 11:55:34 | INFO | Calculated leverage for SOLUSDT: 25x (Volatility: 0.30%, ADX: 35.8, Hist Vol: 3.0%)
+2025-08-30 11:55:34 | INFO | Calculated position size: 4.997002 SOL with 25x leverage
+2025-08-30 11:55:34 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 11:55:34 | INFO | No trade calls generated at this time
+2025-08-30 11:56:19 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 11:56:19 | INFO | All technical indicators calculated successfully
+2025-08-30 11:56:19 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 11:56:21 | INFO | Calculated leverage for BTCUSDT: 22x (Volatility: 0.07%, ADX: 16.7, Hist Vol: 0.9%)
+2025-08-30 11:56:21 | INFO | Calculated position size: 0.009205 BTC with 22x leverage
+2025-08-30 11:56:21 | INFO | No trade call for BTCUSDT: NEUTRAL signal (neutral)
+2025-08-30 11:56:21 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 11:56:21 | INFO | All technical indicators calculated successfully
+2025-08-30 11:56:21 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 11:56:23 | INFO | Calculated leverage for ETHUSDT: 22x (Volatility: 0.21%, ADX: 18.2, Hist Vol: 2.0%)
+2025-08-30 11:56:23 | INFO | Calculated position size: 0.229248 ETH with 22x leverage
+2025-08-30 11:56:23 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 11:56:23 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 11:56:23 | INFO | All technical indicators calculated successfully
+2025-08-30 11:56:23 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 11:56:25 | INFO | Calculated leverage for SOLUSDT: 25x (Volatility: 0.30%, ADX: 35.8, Hist Vol: 3.0%)
+2025-08-30 11:56:25 | INFO | Calculated position size: 4.998500 SOL with 25x leverage
+2025-08-30 11:56:25 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 11:56:25 | INFO | No trade calls generated at this time
+2025-08-30 11:56:39 | INFO | Starting Cryptocurrency Futures Trading Bot
+2025-08-30 11:56:39 | INFO | Trading Pairs: BTCUSDT, ETHUSDT, SOLUSDT
+2025-08-30 11:56:39 | INFO | Default Leverage: 10x (intelligent calculation active)
+2025-08-30 11:56:39 | INFO | Analysis Interval: 5 minutes
+2025-08-30 11:56:40 | INFO | Message sent to Telegram
+2025-08-30 11:56:40 | ERROR | Error sending startup message: object bool can't be used in 'await' expression
+2025-08-30 11:56:40 | INFO | Telegram Bot scheduler running in background
+2025-08-30 11:56:40 | INFO | Trading Bot is now running...
+2025-08-30 11:56:40 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 11:56:40 | INFO | All technical indicators calculated successfully
+2025-08-30 11:56:40 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 11:56:42 | INFO | Calculated leverage for BTCUSDT: 22x (Volatility: 0.07%, ADX: 16.7, Hist Vol: 0.9%)
+2025-08-30 11:56:42 | INFO | Calculated position size: 0.009205 BTC with 22x leverage
+2025-08-30 11:56:42 | INFO | No trade call for BTCUSDT: NEUTRAL signal (neutral)
+2025-08-30 11:56:42 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 11:56:42 | INFO | All technical indicators calculated successfully
+2025-08-30 11:56:43 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 11:56:44 | INFO | Calculated leverage for ETHUSDT: 22x (Volatility: 0.21%, ADX: 18.2, Hist Vol: 2.0%)
+2025-08-30 11:56:44 | INFO | Calculated position size: 0.229305 ETH with 22x leverage
+2025-08-30 11:56:44 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 11:56:44 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 11:56:44 | INFO | All technical indicators calculated successfully
+2025-08-30 11:56:45 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 11:56:46 | INFO | Calculated leverage for SOLUSDT: 25x (Volatility: 0.30%, ADX: 35.8, Hist Vol: 3.0%)
+2025-08-30 11:56:46 | INFO | Calculated position size: 5.000750 SOL with 25x leverage
+2025-08-30 11:56:46 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 11:56:46 | INFO | No immediate trade calls generated on startup
+2025-08-30 11:56:46 | INFO | Scheduler started, running every 5 minutes
+2025-08-30 11:57:14 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 11:57:14 | INFO | All technical indicators calculated successfully
+2025-08-30 11:57:15 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 11:57:16 | INFO | Calculated leverage for BTCUSDT: 22x (Volatility: 0.07%, ADX: 16.7, Hist Vol: 0.9%)
+2025-08-30 11:57:16 | INFO | Calculated position size: 0.009203 BTC with 22x leverage
+2025-08-30 11:57:16 | INFO | No trade call for BTCUSDT: NEUTRAL signal (neutral)
+2025-08-30 11:57:16 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 11:57:16 | INFO | All technical indicators calculated successfully
+2025-08-30 11:57:17 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 11:57:18 | INFO | Calculated leverage for ETHUSDT: 22x (Volatility: 0.21%, ADX: 18.2, Hist Vol: 2.0%)
+2025-08-30 11:57:18 | INFO | Calculated position size: 0.229302 ETH with 22x leverage
+2025-08-30 11:57:18 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 11:57:18 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 11:57:18 | INFO | All technical indicators calculated successfully
+2025-08-30 11:57:19 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 11:57:20 | INFO | Calculated leverage for SOLUSDT: 25x (Volatility: 0.30%, ADX: 35.8, Hist Vol: 3.0%)
+2025-08-30 11:57:20 | INFO | Calculated position size: 5.002001 SOL with 25x leverage
+2025-08-30 11:57:20 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 11:57:20 | INFO | No trade calls generated at this time
+2025-08-30 12:00:36 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:00:36 | INFO | All technical indicators calculated successfully
+2025-08-30 12:00:36 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:00:38 | INFO | Calculated leverage for BTCUSDT: 22x (Volatility: 0.07%, ADX: 16.2, Hist Vol: 0.9%)
+2025-08-30 12:00:38 | INFO | Calculated position size: 0.009211 BTC with 22x leverage
+2025-08-30 12:00:38 | INFO | No trade call for BTCUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:00:38 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:00:38 | INFO | All technical indicators calculated successfully
+2025-08-30 12:00:38 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:00:40 | INFO | Calculated leverage for ETHUSDT: 22x (Volatility: 0.21%, ADX: 17.1, Hist Vol: 2.0%)
+2025-08-30 12:00:40 | INFO | Calculated position size: 0.229425 ETH with 22x leverage
+2025-08-30 12:00:40 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:00:40 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:00:40 | INFO | All technical indicators calculated successfully
+2025-08-30 12:00:40 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:00:42 | INFO | Calculated leverage for SOLUSDT: 25x (Volatility: 0.30%, ADX: 33.0, Hist Vol: 3.0%)
+2025-08-30 12:00:42 | INFO | Calculated position size: 5.006258 SOL with 25x leverage
+2025-08-30 12:00:42 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:00:42 | INFO | No trade calls generated at this time
+2025-08-30 12:01:26 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:01:26 | INFO | All technical indicators calculated successfully
+2025-08-30 12:01:26 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:01:27 | INFO | Calculated leverage for BTCUSDT: 22x (Volatility: 0.07%, ADX: 15.9, Hist Vol: 0.9%)
+2025-08-30 12:01:27 | INFO | Calculated position size: 0.009210 BTC with 22x leverage
+2025-08-30 12:01:27 | INFO | Calculated stop loss: 108462.62
+2025-08-30 12:01:27 | INFO | Calculated take profit: 108814.76
+2025-08-30 12:01:27 | INFO | Generated trade call for BTCUSDT: BULLISH signal with 22x leverage
+2025-08-30 12:01:28 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:01:28 | INFO | All technical indicators calculated successfully
+2025-08-30 12:01:28 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:01:29 | INFO | Calculated leverage for ETHUSDT: 22x (Volatility: 0.21%, ADX: 16.9, Hist Vol: 2.0%)
+2025-08-30 12:01:29 | INFO | Calculated position size: 0.229413 ETH with 22x leverage
+2025-08-30 12:01:29 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:01:30 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:01:30 | INFO | All technical indicators calculated successfully
+2025-08-30 12:01:30 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:01:31 | INFO | Calculated leverage for SOLUSDT: 25x (Volatility: 0.30%, ADX: 33.1, Hist Vol: 3.0%)
+2025-08-30 12:01:31 | INFO | Calculated position size: 5.004003 SOL with 25x leverage
+2025-08-30 12:01:31 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:01:31 | ERROR | Telegram error: Unknown error in HTTP implementation: RuntimeError('Event loop is closed')
+2025-08-30 12:01:32 | INFO | Saved last signal time: 2025-08-30 12:01:31.976403
+2025-08-30 12:01:32 | INFO | Sent 1 trade calls
+2025-08-30 12:01:48 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:01:48 | INFO | All technical indicators calculated successfully
+2025-08-30 12:01:49 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:01:50 | INFO | Calculated leverage for BTCUSDT: 22x (Volatility: 0.07%, ADX: 15.9, Hist Vol: 0.9%)
+2025-08-30 12:01:50 | INFO | Calculated position size: 0.009208 BTC with 22x leverage
+2025-08-30 12:01:50 | INFO | Calculated stop loss: 108487.52
+2025-08-30 12:01:50 | INFO | Calculated take profit: 108839.66
+2025-08-30 12:01:50 | INFO | Generated trade call for BTCUSDT: BULLISH signal with 22x leverage
+2025-08-30 12:01:50 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:01:50 | INFO | All technical indicators calculated successfully
+2025-08-30 12:01:51 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:01:52 | INFO | Calculated leverage for ETHUSDT: 22x (Volatility: 0.21%, ADX: 16.9, Hist Vol: 2.0%)
+2025-08-30 12:01:52 | INFO | Calculated position size: 0.229305 ETH with 22x leverage
+2025-08-30 12:01:52 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:01:52 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:01:52 | INFO | All technical indicators calculated successfully
+2025-08-30 12:01:53 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:01:54 | INFO | Calculated leverage for SOLUSDT: 25x (Volatility: 0.30%, ADX: 33.1, Hist Vol: 3.0%)
+2025-08-30 12:01:54 | INFO | Calculated position size: 5.005005 SOL with 25x leverage
+2025-08-30 12:01:54 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:01:54 | ERROR | Telegram error: Unknown error in HTTP implementation: RuntimeError('Event loop is closed')
+2025-08-30 12:01:54 | INFO | Saved last signal time: 2025-08-30 12:01:54.614396
+2025-08-30 12:01:54 | INFO | Sent 1 trade calls
+2025-08-30 12:02:22 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:02:22 | INFO | All technical indicators calculated successfully
+2025-08-30 12:02:22 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:02:24 | INFO | Calculated leverage for BTCUSDT: 22x (Volatility: 0.07%, ADX: 15.9, Hist Vol: 0.9%)
+2025-08-30 12:02:24 | INFO | Calculated position size: 0.009211 BTC with 22x leverage
+2025-08-30 12:02:24 | INFO | No trade call for BTCUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:02:24 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:02:24 | INFO | All technical indicators calculated successfully
+2025-08-30 12:02:24 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:02:26 | INFO | Calculated leverage for ETHUSDT: 22x (Volatility: 0.21%, ADX: 16.9, Hist Vol: 2.0%)
+2025-08-30 12:02:26 | INFO | Calculated position size: 0.229358 ETH with 22x leverage
+2025-08-30 12:02:26 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:02:26 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:02:26 | INFO | All technical indicators calculated successfully
+2025-08-30 12:02:26 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:02:28 | INFO | Calculated leverage for SOLUSDT: 25x (Volatility: 0.30%, ADX: 33.1, Hist Vol: 3.0%)
+2025-08-30 12:02:28 | INFO | Calculated position size: 5.006759 SOL with 25x leverage
+2025-08-30 12:02:28 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:02:28 | INFO | No trade calls generated at this time
+2025-08-30 12:05:44 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:05:44 | INFO | All technical indicators calculated successfully
+2025-08-30 12:05:44 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:05:45 | INFO | Calculated leverage for BTCUSDT: 17x (Volatility: 0.07%, ADX: 14.5, Hist Vol: 0.9%)
+2025-08-30 12:05:45 | INFO | Calculated position size: 0.009217 BTC with 17x leverage
+2025-08-30 12:05:45 | INFO | No trade call for BTCUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:05:46 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:05:46 | INFO | All technical indicators calculated successfully
+2025-08-30 12:05:46 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:05:47 | INFO | Calculated leverage for ETHUSDT: 22x (Volatility: 0.21%, ADX: 15.8, Hist Vol: 2.0%)
+2025-08-30 12:05:47 | INFO | Calculated position size: 0.229604 ETH with 22x leverage
+2025-08-30 12:05:47 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:05:48 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:05:48 | INFO | All technical indicators calculated successfully
+2025-08-30 12:05:48 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:05:49 | INFO | Calculated leverage for SOLUSDT: 25x (Volatility: 0.29%, ADX: 31.3, Hist Vol: 3.0%)
+2025-08-30 12:05:49 | INFO | Calculated position size: 5.013788 SOL with 25x leverage
+2025-08-30 12:05:49 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:05:49 | INFO | No trade calls generated at this time
+2025-08-30 12:06:34 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:06:34 | INFO | All technical indicators calculated successfully
+2025-08-30 12:06:34 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:06:35 | INFO | Calculated leverage for BTCUSDT: 17x (Volatility: 0.07%, ADX: 14.5, Hist Vol: 0.9%)
+2025-08-30 12:06:35 | INFO | Calculated position size: 0.009217 BTC with 17x leverage
+2025-08-30 12:06:35 | INFO | No trade call for BTCUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:06:36 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:06:36 | INFO | All technical indicators calculated successfully
+2025-08-30 12:06:36 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:06:37 | INFO | Calculated leverage for ETHUSDT: 22x (Volatility: 0.21%, ADX: 15.8, Hist Vol: 2.0%)
+2025-08-30 12:06:37 | INFO | Calculated position size: 0.229573 ETH with 22x leverage
+2025-08-30 12:06:37 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:06:38 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:06:38 | INFO | All technical indicators calculated successfully
+2025-08-30 12:06:38 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:06:39 | INFO | Calculated leverage for SOLUSDT: 25x (Volatility: 0.29%, ADX: 31.4, Hist Vol: 3.0%)
+2025-08-30 12:06:39 | INFO | Calculated position size: 5.013788 SOL with 25x leverage
+2025-08-30 12:06:39 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:06:39 | INFO | No trade calls generated at this time
+2025-08-30 12:06:56 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:06:56 | INFO | All technical indicators calculated successfully
+2025-08-30 12:06:57 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:06:58 | INFO | Calculated leverage for BTCUSDT: 17x (Volatility: 0.07%, ADX: 14.5, Hist Vol: 0.9%)
+2025-08-30 12:06:58 | INFO | Calculated position size: 0.009217 BTC with 17x leverage
+2025-08-30 12:06:58 | INFO | No trade call for BTCUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:06:58 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:06:58 | INFO | All technical indicators calculated successfully
+2025-08-30 12:06:59 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:07:00 | INFO | Calculated leverage for ETHUSDT: 22x (Volatility: 0.21%, ADX: 15.8, Hist Vol: 2.0%)
+2025-08-30 12:07:00 | INFO | Calculated position size: 0.229594 ETH with 22x leverage
+2025-08-30 12:07:00 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:07:00 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:07:00 | INFO | All technical indicators calculated successfully
+2025-08-30 12:07:01 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:07:02 | INFO | Calculated leverage for SOLUSDT: 25x (Volatility: 0.29%, ADX: 31.4, Hist Vol: 3.0%)
+2025-08-30 12:07:02 | INFO | Calculated position size: 5.014794 SOL with 25x leverage
+2025-08-30 12:07:02 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:07:02 | INFO | No trade calls generated at this time
+2025-08-30 12:07:29 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:07:29 | INFO | All technical indicators calculated successfully
+2025-08-30 12:07:29 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:07:31 | INFO | Calculated leverage for BTCUSDT: 17x (Volatility: 0.07%, ADX: 14.5, Hist Vol: 0.9%)
+2025-08-30 12:07:31 | INFO | Calculated position size: 0.009214 BTC with 17x leverage
+2025-08-30 12:07:31 | INFO | No trade call for BTCUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:07:31 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:07:31 | INFO | All technical indicators calculated successfully
+2025-08-30 12:07:31 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:07:33 | INFO | Calculated leverage for ETHUSDT: 22x (Volatility: 0.21%, ADX: 15.8, Hist Vol: 2.0%)
+2025-08-30 12:07:33 | INFO | Calculated position size: 0.229385 ETH with 22x leverage
+2025-08-30 12:07:33 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:07:33 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:07:33 | INFO | All technical indicators calculated successfully
+2025-08-30 12:07:33 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:07:35 | INFO | Calculated leverage for SOLUSDT: 25x (Volatility: 0.29%, ADX: 31.4, Hist Vol: 3.0%)
+2025-08-30 12:07:35 | INFO | Calculated position size: 5.008264 SOL with 25x leverage
+2025-08-30 12:07:35 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:07:35 | INFO | No trade calls generated at this time
+2025-08-30 12:10:51 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:10:51 | INFO | All technical indicators calculated successfully
+2025-08-30 12:10:51 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:10:52 | INFO | Calculated leverage for BTCUSDT: 17x (Volatility: 0.07%, ADX: 13.5, Hist Vol: 0.9%)
+2025-08-30 12:10:52 | INFO | Calculated position size: 0.009211 BTC with 17x leverage
+2025-08-30 12:10:52 | INFO | No trade call for BTCUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:10:53 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:10:53 | INFO | All technical indicators calculated successfully
+2025-08-30 12:10:53 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:10:54 | INFO | Calculated leverage for ETHUSDT: 17x (Volatility: 0.21%, ADX: 14.7, Hist Vol: 2.1%)
+2025-08-30 12:10:54 | INFO | Calculated position size: 0.229247 ETH with 17x leverage
+2025-08-30 12:10:54 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:10:55 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:10:55 | INFO | All technical indicators calculated successfully
+2025-08-30 12:10:55 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:10:56 | INFO | Calculated leverage for SOLUSDT: 25x (Volatility: 0.30%, ADX: 29.4, Hist Vol: 3.0%)
+2025-08-30 12:10:56 | INFO | Calculated position size: 5.004003 SOL with 25x leverage
+2025-08-30 12:10:56 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:10:56 | INFO | No trade calls generated at this time
+2025-08-30 12:11:40 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:11:40 | INFO | All technical indicators calculated successfully
+2025-08-30 12:11:41 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:11:42 | INFO | Calculated leverage for BTCUSDT: 17x (Volatility: 0.07%, ADX: 13.5, Hist Vol: 0.9%)
+2025-08-30 12:11:42 | INFO | Calculated position size: 0.009211 BTC with 17x leverage
+2025-08-30 12:11:42 | INFO | No trade call for BTCUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:11:42 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:11:42 | INFO | All technical indicators calculated successfully
+2025-08-30 12:11:43 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:11:44 | INFO | Calculated leverage for ETHUSDT: 17x (Volatility: 0.21%, ADX: 14.7, Hist Vol: 2.1%)
+2025-08-30 12:11:44 | INFO | Calculated position size: 0.229230 ETH with 17x leverage
+2025-08-30 12:11:44 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:11:44 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:11:44 | INFO | All technical indicators calculated successfully
+2025-08-30 12:11:45 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:11:46 | INFO | Calculated leverage for SOLUSDT: 25x (Volatility: 0.30%, ADX: 29.4, Hist Vol: 3.0%)
+2025-08-30 12:11:46 | INFO | Calculated position size: 5.005506 SOL with 25x leverage
+2025-08-30 12:11:46 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:11:46 | INFO | No trade calls generated at this time
+2025-08-30 12:12:03 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:12:03 | INFO | All technical indicators calculated successfully
+2025-08-30 12:12:03 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:12:04 | INFO | Calculated leverage for BTCUSDT: 17x (Volatility: 0.07%, ADX: 13.5, Hist Vol: 0.9%)
+2025-08-30 12:12:04 | INFO | Calculated position size: 0.009212 BTC with 17x leverage
+2025-08-30 12:12:04 | INFO | No trade call for BTCUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:12:05 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:12:05 | INFO | All technical indicators calculated successfully
+2025-08-30 12:12:05 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:12:06 | INFO | Calculated leverage for ETHUSDT: 17x (Volatility: 0.21%, ADX: 14.7, Hist Vol: 2.1%)
+2025-08-30 12:12:06 | INFO | Calculated position size: 0.229258 ETH with 17x leverage
+2025-08-30 12:12:06 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:12:07 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:12:07 | INFO | All technical indicators calculated successfully
+2025-08-30 12:12:07 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:12:08 | INFO | Calculated leverage for SOLUSDT: 25x (Volatility: 0.30%, ADX: 29.4, Hist Vol: 3.0%)
+2025-08-30 12:12:08 | INFO | Calculated position size: 5.000750 SOL with 25x leverage
+2025-08-30 12:12:08 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:12:08 | INFO | No trade calls generated at this time
+2025-08-30 12:12:36 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:12:36 | INFO | All technical indicators calculated successfully
+2025-08-30 12:12:37 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:12:38 | INFO | Calculated leverage for BTCUSDT: 17x (Volatility: 0.07%, ADX: 13.5, Hist Vol: 0.9%)
+2025-08-30 12:12:38 | INFO | Calculated position size: 0.009212 BTC with 17x leverage
+2025-08-30 12:12:38 | INFO | No trade call for BTCUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:12:39 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:12:39 | INFO | All technical indicators calculated successfully
+2025-08-30 12:12:39 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:12:40 | INFO | Calculated leverage for ETHUSDT: 17x (Volatility: 0.21%, ADX: 14.7, Hist Vol: 2.1%)
+2025-08-30 12:12:40 | INFO | Calculated position size: 0.229340 ETH with 17x leverage
+2025-08-30 12:12:40 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:12:41 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:12:41 | INFO | All technical indicators calculated successfully
+2025-08-30 12:12:41 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:12:42 | INFO | Calculated leverage for SOLUSDT: 25x (Volatility: 0.30%, ADX: 29.4, Hist Vol: 3.0%)
+2025-08-30 12:12:42 | INFO | Calculated position size: 5.005256 SOL with 25x leverage
+2025-08-30 12:12:42 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:12:42 | INFO | No trade calls generated at this time
+2025-08-30 12:15:57 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:15:57 | INFO | All technical indicators calculated successfully
+2025-08-30 12:15:58 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:15:59 | INFO | Calculated leverage for BTCUSDT: 17x (Volatility: 0.08%, ADX: 12.9, Hist Vol: 0.9%)
+2025-08-30 12:15:59 | INFO | Calculated position size: 0.009205 BTC with 17x leverage
+2025-08-30 12:15:59 | INFO | No trade call for BTCUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:16:00 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:16:00 | INFO | All technical indicators calculated successfully
+2025-08-30 12:16:00 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:16:01 | INFO | Calculated leverage for ETHUSDT: 17x (Volatility: 0.21%, ADX: 13.7, Hist Vol: 2.1%)
+2025-08-30 12:16:01 | INFO | Calculated position size: 0.229055 ETH with 17x leverage
+2025-08-30 12:16:01 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:16:01 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:16:02 | INFO | All technical indicators calculated successfully
+2025-08-30 12:16:02 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:16:03 | INFO | Calculated leverage for SOLUSDT: 25x (Volatility: 0.29%, ADX: 27.6, Hist Vol: 3.0%)
+2025-08-30 12:16:03 | INFO | Calculated position size: 4.995005 SOL with 25x leverage
+2025-08-30 12:16:03 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:16:03 | INFO | No trade calls generated at this time
+2025-08-30 12:16:48 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:16:48 | INFO | All technical indicators calculated successfully
+2025-08-30 12:16:48 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:16:49 | INFO | Calculated leverage for BTCUSDT: 17x (Volatility: 0.08%, ADX: 13.2, Hist Vol: 0.9%)
+2025-08-30 12:16:49 | INFO | Calculated position size: 0.009205 BTC with 17x leverage
+2025-08-30 12:16:49 | INFO | No trade call for BTCUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:16:50 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:16:50 | INFO | All technical indicators calculated successfully
+2025-08-30 12:16:50 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:16:51 | INFO | Calculated leverage for ETHUSDT: 17x (Volatility: 0.21%, ADX: 13.9, Hist Vol: 2.1%)
+2025-08-30 12:16:51 | INFO | Calculated position size: 0.228986 ETH with 17x leverage
+2025-08-30 12:16:51 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:16:52 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:16:52 | INFO | All technical indicators calculated successfully
+2025-08-30 12:16:52 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:16:53 | INFO | Calculated leverage for SOLUSDT: 25x (Volatility: 0.29%, ADX: 27.4, Hist Vol: 3.0%)
+2025-08-30 12:16:53 | INFO | Calculated position size: 4.992760 SOL with 25x leverage
+2025-08-30 12:16:53 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:16:53 | INFO | No trade calls generated at this time
+2025-08-30 12:17:09 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:17:09 | INFO | All technical indicators calculated successfully
+2025-08-30 12:17:10 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:17:11 | INFO | Calculated leverage for BTCUSDT: 17x (Volatility: 0.08%, ADX: 13.2, Hist Vol: 0.9%)
+2025-08-30 12:17:11 | INFO | Calculated position size: 0.009205 BTC with 17x leverage
+2025-08-30 12:17:11 | INFO | No trade call for BTCUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:17:11 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:17:11 | INFO | All technical indicators calculated successfully
+2025-08-30 12:17:12 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:17:13 | INFO | Calculated leverage for ETHUSDT: 17x (Volatility: 0.21%, ADX: 14.1, Hist Vol: 2.1%)
+2025-08-30 12:17:13 | INFO | Calculated position size: 0.228910 ETH with 17x leverage
+2025-08-30 12:17:13 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:17:13 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:17:13 | INFO | All technical indicators calculated successfully
+2025-08-30 12:17:14 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:17:15 | INFO | Calculated leverage for SOLUSDT: 25x (Volatility: 0.29%, ADX: 27.4, Hist Vol: 3.0%)
+2025-08-30 12:17:15 | INFO | Calculated position size: 4.991514 SOL with 25x leverage
+2025-08-30 12:17:15 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:17:15 | INFO | No trade calls generated at this time
+2025-08-30 12:17:43 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:17:43 | INFO | All technical indicators calculated successfully
+2025-08-30 12:17:43 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:17:45 | INFO | Calculated leverage for BTCUSDT: 17x (Volatility: 0.08%, ADX: 13.2, Hist Vol: 0.9%)
+2025-08-30 12:17:45 | INFO | Calculated position size: 0.009206 BTC with 17x leverage
+2025-08-30 12:17:45 | INFO | No trade call for BTCUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:17:45 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:17:45 | INFO | All technical indicators calculated successfully
+2025-08-30 12:17:45 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:17:47 | INFO | Calculated leverage for ETHUSDT: 17x (Volatility: 0.21%, ADX: 14.1, Hist Vol: 2.1%)
+2025-08-30 12:17:47 | INFO | Calculated position size: 0.229095 ETH with 17x leverage
+2025-08-30 12:17:47 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:17:47 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:17:47 | INFO | All technical indicators calculated successfully
+2025-08-30 12:17:47 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:17:49 | INFO | Calculated leverage for SOLUSDT: 25x (Volatility: 0.29%, ADX: 27.4, Hist Vol: 3.0%)
+2025-08-30 12:17:49 | INFO | Calculated position size: 4.995005 SOL with 25x leverage
+2025-08-30 12:17:49 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:17:49 | INFO | No trade calls generated at this time
+2025-08-30 12:19:05 | INFO | Starting Cryptocurrency Futures Trading Bot
+2025-08-30 12:19:05 | INFO | Trading Pairs: BTCUSDT, ETHUSDT, SOLUSDT
+2025-08-30 12:19:05 | INFO | Default Leverage: 10x (intelligent calculation active)
+2025-08-30 12:19:05 | INFO | Analysis Interval: 5 minutes
+2025-08-30 12:19:06 | INFO | Message sent to Telegram
+2025-08-30 12:19:06 | ERROR | Error sending startup message: object bool can't be used in 'await' expression
+2025-08-30 12:19:07 | INFO | Telegram Bot scheduler running in background
+2025-08-30 12:19:07 | INFO | Trading Bot is now running...
+2025-08-30 12:19:07 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:19:07 | INFO | All technical indicators calculated successfully
+2025-08-30 12:19:08 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:19:09 | INFO | Calculated leverage for BTCUSDT: 17x (Volatility: 0.08%, ADX: 13.2, Hist Vol: 0.9%)
+2025-08-30 12:19:09 | INFO | Calculated position size: 0.009205 BTC with 17x leverage
+2025-08-30 12:19:09 | INFO | No trade call for BTCUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:19:09 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:19:09 | INFO | All technical indicators calculated successfully
+2025-08-30 12:19:10 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:19:11 | INFO | Calculated leverage for ETHUSDT: 17x (Volatility: 0.21%, ADX: 14.1, Hist Vol: 2.1%)
+2025-08-30 12:19:11 | INFO | Calculated position size: 0.229092 ETH with 17x leverage
+2025-08-30 12:19:11 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:19:11 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:19:11 | INFO | All technical indicators calculated successfully
+2025-08-30 12:19:12 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:19:13 | INFO | Calculated leverage for SOLUSDT: 25x (Volatility: 0.29%, ADX: 27.4, Hist Vol: 3.0%)
+2025-08-30 12:19:13 | INFO | Calculated position size: 4.997002 SOL with 25x leverage
+2025-08-30 12:19:13 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:19:13 | INFO | No immediate trade calls generated on startup
+2025-08-30 12:19:13 | INFO | Scheduler started, running every 5 minutes
+2025-08-30 12:21:05 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:21:05 | INFO | All technical indicators calculated successfully
+2025-08-30 12:21:05 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:21:06 | INFO | Calculated leverage for BTCUSDT: 17x (Volatility: 0.07%, ADX: 13.3, Hist Vol: 0.9%)
+2025-08-30 12:21:06 | INFO | Calculated position size: 0.009202 BTC with 17x leverage
+2025-08-30 12:21:06 | INFO | No trade call for BTCUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:21:07 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:21:07 | INFO | All technical indicators calculated successfully
+2025-08-30 12:21:07 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:21:08 | INFO | Calculated leverage for ETHUSDT: 17x (Volatility: 0.20%, ADX: 13.6, Hist Vol: 2.1%)
+2025-08-30 12:21:08 | INFO | Calculated position size: 0.228955 ETH with 17x leverage
+2025-08-30 12:21:08 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:21:09 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:21:09 | INFO | All technical indicators calculated successfully
+2025-08-30 12:21:09 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:21:11 | INFO | Calculated leverage for SOLUSDT: 25x (Volatility: 0.28%, ADX: 25.5, Hist Vol: 3.0%)
+2025-08-30 12:21:11 | INFO | Calculated position size: 4.994756 SOL with 25x leverage
+2025-08-30 12:21:11 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:21:11 | INFO | No trade calls generated at this time
+2025-08-30 12:21:54 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:21:54 | INFO | All technical indicators calculated successfully
+2025-08-30 12:21:55 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:21:56 | INFO | Calculated leverage for BTCUSDT: 17x (Volatility: 0.08%, ADX: 13.9, Hist Vol: 0.9%)
+2025-08-30 12:21:56 | INFO | Calculated position size: 0.009199 BTC with 17x leverage
+2025-08-30 12:21:56 | INFO | No trade call for BTCUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:21:57 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:21:57 | INFO | All technical indicators calculated successfully
+2025-08-30 12:21:57 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:21:58 | INFO | Calculated leverage for ETHUSDT: 17x (Volatility: 0.21%, ADX: 14.1, Hist Vol: 2.1%)
+2025-08-30 12:21:59 | INFO | Calculated position size: 0.228742 ETH with 17x leverage
+2025-08-30 12:21:59 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:21:59 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:21:59 | INFO | All technical indicators calculated successfully
+2025-08-30 12:21:59 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:22:01 | INFO | Calculated leverage for SOLUSDT: 25x (Volatility: 0.28%, ADX: 25.5, Hist Vol: 3.0%)
+2025-08-30 12:22:01 | INFO | Calculated position size: 4.992013 SOL with 25x leverage
+2025-08-30 12:22:01 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:22:01 | INFO | No trade calls generated at this time
+2025-08-30 12:22:16 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:22:16 | INFO | All technical indicators calculated successfully
+2025-08-30 12:22:17 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:22:18 | INFO | Calculated leverage for BTCUSDT: 17x (Volatility: 0.08%, ADX: 13.9, Hist Vol: 0.9%)
+2025-08-30 12:22:18 | INFO | Calculated position size: 0.009199 BTC with 17x leverage
+2025-08-30 12:22:18 | INFO | No trade call for BTCUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:22:18 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:22:18 | INFO | All technical indicators calculated successfully
+2025-08-30 12:22:19 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:22:20 | INFO | Calculated leverage for ETHUSDT: 17x (Volatility: 0.21%, ADX: 14.1, Hist Vol: 2.1%)
+2025-08-30 12:22:20 | INFO | Calculated position size: 0.228708 ETH with 17x leverage
+2025-08-30 12:22:20 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:22:20 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:22:20 | INFO | All technical indicators calculated successfully
+2025-08-30 12:22:20 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:22:22 | INFO | Calculated leverage for SOLUSDT: 25x (Volatility: 0.29%, ADX: 25.9, Hist Vol: 3.0%)
+2025-08-30 12:22:22 | INFO | Calculated position size: 4.987531 SOL with 25x leverage
+2025-08-30 12:22:22 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:22:22 | INFO | No trade calls generated at this time
+2025-08-30 12:22:50 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:22:50 | INFO | All technical indicators calculated successfully
+2025-08-30 12:22:51 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:22:52 | INFO | Calculated leverage for BTCUSDT: 17x (Volatility: 0.08%, ADX: 13.9, Hist Vol: 0.9%)
+2025-08-30 12:22:52 | INFO | Calculated position size: 0.009201 BTC with 17x leverage
+2025-08-30 12:22:52 | INFO | No trade call for BTCUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:22:52 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:22:52 | INFO | All technical indicators calculated successfully
+2025-08-30 12:22:53 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:22:54 | INFO | Calculated leverage for ETHUSDT: 17x (Volatility: 0.21%, ADX: 14.2, Hist Vol: 2.1%)
+2025-08-30 12:22:54 | INFO | Calculated position size: 0.228650 ETH with 17x leverage
+2025-08-30 12:22:54 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:22:55 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:22:55 | INFO | All technical indicators calculated successfully
+2025-08-30 12:22:55 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:22:56 | INFO | Calculated leverage for SOLUSDT: 25x (Volatility: 0.29%, ADX: 25.9, Hist Vol: 3.0%)
+2025-08-30 12:22:56 | INFO | Calculated position size: 4.988029 SOL with 25x leverage
+2025-08-30 12:22:56 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:22:56 | INFO | No trade calls generated at this time
+2025-08-30 12:24:14 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:24:14 | INFO | All technical indicators calculated successfully
+2025-08-30 12:24:14 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:24:16 | INFO | Calculated leverage for BTCUSDT: 17x (Volatility: 0.08%, ADX: 13.9, Hist Vol: 0.9%)
+2025-08-30 12:24:16 | INFO | Calculated position size: 0.009201 BTC with 17x leverage
+2025-08-30 12:24:16 | INFO | No trade call for BTCUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:24:16 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:24:16 | INFO | All technical indicators calculated successfully
+2025-08-30 12:24:17 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:24:18 | INFO | Calculated leverage for ETHUSDT: 17x (Volatility: 0.21%, ADX: 14.5, Hist Vol: 2.1%)
+2025-08-30 12:24:18 | INFO | Calculated position size: 0.228751 ETH with 17x leverage
+2025-08-30 12:24:18 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:24:18 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:24:18 | INFO | All technical indicators calculated successfully
+2025-08-30 12:24:19 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:24:20 | INFO | Calculated leverage for SOLUSDT: 25x (Volatility: 0.29%, ADX: 26.1, Hist Vol: 3.0%)
+2025-08-30 12:24:20 | INFO | Calculated position size: 4.992760 SOL with 25x leverage
+2025-08-30 12:24:20 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:24:20 | INFO | No trade calls generated at this time
+2025-08-30 12:26:13 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:26:13 | INFO | All technical indicators calculated successfully
+2025-08-30 12:26:13 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:26:15 | INFO | Calculated leverage for BTCUSDT: 22x (Volatility: 0.08%, ADX: 15.2, Hist Vol: 0.9%)
+2025-08-30 12:26:15 | INFO | Calculated position size: 0.009193 BTC with 22x leverage
+2025-08-30 12:26:15 | INFO | Calculated stop loss: 108645.87
+2025-08-30 12:26:15 | INFO | Calculated take profit: 109038.66
+2025-08-30 12:26:15 | INFO | Generated trade call for BTCUSDT: BULLISH signal with 22x leverage
+2025-08-30 12:26:15 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:26:15 | INFO | All technical indicators calculated successfully
+2025-08-30 12:26:16 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:26:17 | INFO | Calculated leverage for ETHUSDT: 17x (Volatility: 0.21%, ADX: 14.8, Hist Vol: 2.1%)
+2025-08-30 12:26:17 | INFO | Calculated position size: 0.228597 ETH with 17x leverage
+2025-08-30 12:26:17 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:26:17 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:26:17 | INFO | All technical indicators calculated successfully
+2025-08-30 12:26:18 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:26:19 | INFO | Calculated leverage for SOLUSDT: 25x (Volatility: 0.29%, ADX: 25.0, Hist Vol: 3.0%)
+2025-08-30 12:26:19 | INFO | Calculated position size: 4.992511 SOL with 25x leverage
+2025-08-30 12:26:19 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:26:20 | INFO | Message sent to Telegram
+2025-08-30 12:26:20 | INFO | Saved last signal time: 2025-08-30 12:26:20.817628
+2025-08-30 12:26:20 | INFO | Sent 1 trade calls
+2025-08-30 12:27:02 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:27:02 | INFO | All technical indicators calculated successfully
+2025-08-30 12:27:03 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:27:04 | INFO | Calculated leverage for BTCUSDT: 22x (Volatility: 0.08%, ADX: 15.2, Hist Vol: 0.9%)
+2025-08-30 12:27:04 | INFO | Calculated position size: 0.009193 BTC with 22x leverage
+2025-08-30 12:27:04 | INFO | Calculated stop loss: 108644.07
+2025-08-30 12:27:04 | INFO | Calculated take profit: 109036.86
+2025-08-30 12:27:04 | INFO | Generated trade call for BTCUSDT: BULLISH signal with 22x leverage
+2025-08-30 12:27:05 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:27:05 | INFO | All technical indicators calculated successfully
+2025-08-30 12:27:05 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:27:06 | INFO | Calculated leverage for ETHUSDT: 17x (Volatility: 0.21%, ADX: 14.8, Hist Vol: 2.1%)
+2025-08-30 12:27:06 | INFO | Calculated position size: 0.228571 ETH with 17x leverage
+2025-08-30 12:27:06 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:27:07 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:27:07 | INFO | All technical indicators calculated successfully
+2025-08-30 12:27:07 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:27:09 | INFO | Calculated leverage for SOLUSDT: 25x (Volatility: 0.29%, ADX: 25.0, Hist Vol: 3.0%)
+2025-08-30 12:27:09 | INFO | Calculated position size: 4.991514 SOL with 25x leverage
+2025-08-30 12:27:09 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:27:10 | ERROR | Telegram error: Pool timeout: All connections in the connection pool are occupied. Request was *not* sent to Telegram. Consider adjusting the connection pool size or the pool timeout.
+2025-08-30 12:27:10 | INFO | Saved last signal time: 2025-08-30 12:27:10.200538
+2025-08-30 12:27:10 | INFO | Sent 1 trade calls
+2025-08-30 12:27:23 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:27:23 | INFO | All technical indicators calculated successfully
+2025-08-30 12:27:24 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:27:25 | INFO | Calculated leverage for BTCUSDT: 22x (Volatility: 0.08%, ADX: 15.2, Hist Vol: 0.9%)
+2025-08-30 12:27:25 | INFO | Calculated position size: 0.009199 BTC with 22x leverage
+2025-08-30 12:27:25 | INFO | Calculated stop loss: 108577.47
+2025-08-30 12:27:25 | INFO | Calculated take profit: 108970.26
+2025-08-30 12:27:25 | INFO | Generated trade call for BTCUSDT: BULLISH signal with 22x leverage
+2025-08-30 12:27:25 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:27:25 | INFO | All technical indicators calculated successfully
+2025-08-30 12:27:26 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:27:27 | INFO | Calculated leverage for ETHUSDT: 17x (Volatility: 0.21%, ADX: 14.8, Hist Vol: 2.1%)
+2025-08-30 12:27:27 | INFO | Calculated position size: 0.228785 ETH with 17x leverage
+2025-08-30 12:27:27 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:27:27 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:27:27 | INFO | All technical indicators calculated successfully
+2025-08-30 12:27:28 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:27:29 | INFO | Calculated leverage for SOLUSDT: 25x (Volatility: 0.29%, ADX: 25.0, Hist Vol: 3.0%)
+2025-08-30 12:27:29 | INFO | Calculated position size: 4.992760 SOL with 25x leverage
+2025-08-30 12:27:29 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:27:30 | ERROR | Telegram error: Pool timeout: All connections in the connection pool are occupied. Request was *not* sent to Telegram. Consider adjusting the connection pool size or the pool timeout.
+2025-08-30 12:27:30 | INFO | Saved last signal time: 2025-08-30 12:27:30.797671
+2025-08-30 12:27:30 | INFO | Sent 1 trade calls
+2025-08-30 12:27:57 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:27:57 | INFO | All technical indicators calculated successfully
+2025-08-30 12:27:58 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:27:59 | INFO | Calculated leverage for BTCUSDT: 22x (Volatility: 0.08%, ADX: 15.2, Hist Vol: 0.9%)
+2025-08-30 12:27:59 | INFO | Calculated position size: 0.009195 BTC with 22x leverage
+2025-08-30 12:27:59 | INFO | Calculated stop loss: 108624.77
+2025-08-30 12:27:59 | INFO | Calculated take profit: 109017.56
+2025-08-30 12:27:59 | INFO | Generated trade call for BTCUSDT: BULLISH signal with 22x leverage
+2025-08-30 12:27:59 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:27:59 | INFO | All technical indicators calculated successfully
+2025-08-30 12:28:00 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:28:01 | INFO | Calculated leverage for ETHUSDT: 17x (Volatility: 0.21%, ADX: 14.8, Hist Vol: 2.1%)
+2025-08-30 12:28:01 | INFO | Calculated position size: 0.228798 ETH with 17x leverage
+2025-08-30 12:28:01 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:28:01 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:28:01 | INFO | All technical indicators calculated successfully
+2025-08-30 12:28:02 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:28:03 | INFO | Calculated leverage for SOLUSDT: 25x (Volatility: 0.29%, ADX: 25.0, Hist Vol: 3.0%)
+2025-08-30 12:28:03 | INFO | Calculated position size: 4.994506 SOL with 25x leverage
+2025-08-30 12:28:03 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:28:03 | ERROR | Telegram error: Unknown error in HTTP implementation: RuntimeError('Event loop is closed')
+2025-08-30 12:28:03 | INFO | Saved last signal time: 2025-08-30 12:28:03.779991
+2025-08-30 12:28:03 | INFO | Sent 1 trade calls
+2025-08-30 12:29:22 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:29:22 | INFO | All technical indicators calculated successfully
+2025-08-30 12:29:22 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:29:23 | INFO | Signal quality too low for BTCUSDT, skipping trade call
+2025-08-30 12:29:24 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:29:24 | INFO | All technical indicators calculated successfully
+2025-08-30 12:29:24 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:29:25 | INFO | Calculated leverage for ETHUSDT: 17x (Volatility: 0.21%, ADX: 14.8, Hist Vol: 2.1%)
+2025-08-30 12:29:25 | INFO | Calculated position size: 0.228859 ETH with 17x leverage
+2025-08-30 12:29:25 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:29:26 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:29:26 | INFO | All technical indicators calculated successfully
+2025-08-30 12:29:26 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:29:27 | INFO | Calculated leverage for SOLUSDT: 25x (Volatility: 0.29%, ADX: 25.0, Hist Vol: 3.0%)
+2025-08-30 12:29:27 | INFO | Calculated position size: 4.994756 SOL with 25x leverage
+2025-08-30 12:29:27 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:29:27 | INFO | No trade calls generated at this time
+2025-08-30 12:31:22 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:31:23 | INFO | All technical indicators calculated successfully
+2025-08-30 12:31:23 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:31:24 | INFO | Calculated leverage for BTCUSDT: 22x (Volatility: 0.08%, ADX: 15.7, Hist Vol: 0.9%)
+2025-08-30 12:31:24 | INFO | Calculated position size: 0.009205 BTC with 22x leverage
+2025-08-30 12:31:24 | INFO | No trade call for BTCUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:31:25 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:31:25 | INFO | All technical indicators calculated successfully
+2025-08-30 12:31:25 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:31:26 | INFO | Calculated leverage for ETHUSDT: 17x (Volatility: 0.20%, ADX: 14.8, Hist Vol: 2.1%)
+2025-08-30 12:31:26 | INFO | Calculated position size: 0.228977 ETH with 17x leverage
+2025-08-30 12:31:26 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:31:27 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:31:27 | INFO | All technical indicators calculated successfully
+2025-08-30 12:31:27 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:31:28 | INFO | Calculated leverage for SOLUSDT: 22x (Volatility: 0.28%, ADX: 23.6, Hist Vol: 3.0%)
+2025-08-30 12:31:28 | INFO | Calculated position size: 5.001000 SOL with 22x leverage
+2025-08-30 12:31:28 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:31:28 | INFO | No trade calls generated at this time
+2025-08-30 12:32:11 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:32:11 | INFO | All technical indicators calculated successfully
+2025-08-30 12:32:12 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:32:13 | INFO | Calculated leverage for BTCUSDT: 22x (Volatility: 0.08%, ADX: 15.1, Hist Vol: 0.9%)
+2025-08-30 12:32:13 | INFO | Calculated position size: 0.009207 BTC with 22x leverage
+2025-08-30 12:32:13 | INFO | No trade call for BTCUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:32:14 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:32:14 | INFO | All technical indicators calculated successfully
+2025-08-30 12:32:14 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:32:15 | INFO | Calculated leverage for ETHUSDT: 17x (Volatility: 0.20%, ADX: 14.5, Hist Vol: 2.1%)
+2025-08-30 12:32:15 | INFO | Calculated position size: 0.229087 ETH with 17x leverage
+2025-08-30 12:32:15 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:32:15 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:32:15 | INFO | All technical indicators calculated successfully
+2025-08-30 12:32:16 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:32:17 | INFO | Calculated leverage for SOLUSDT: 22x (Volatility: 0.29%, ADX: 23.3, Hist Vol: 3.0%)
+2025-08-30 12:32:17 | INFO | Calculated position size: 5.006007 SOL with 22x leverage
+2025-08-30 12:32:17 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:32:17 | INFO | No trade calls generated at this time
+2025-08-30 12:32:31 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:32:31 | INFO | All technical indicators calculated successfully
+2025-08-30 12:32:32 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:32:33 | INFO | Calculated leverage for BTCUSDT: 22x (Volatility: 0.08%, ADX: 15.1, Hist Vol: 0.9%)
+2025-08-30 12:32:33 | INFO | Calculated position size: 0.009208 BTC with 22x leverage
+2025-08-30 12:32:33 | INFO | No trade call for BTCUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:32:33 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:32:33 | INFO | All technical indicators calculated successfully
+2025-08-30 12:32:34 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:32:35 | INFO | Calculated leverage for ETHUSDT: 17x (Volatility: 0.21%, ADX: 14.2, Hist Vol: 2.1%)
+2025-08-30 12:32:35 | INFO | Calculated position size: 0.229178 ETH with 17x leverage
+2025-08-30 12:32:35 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:32:35 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:32:35 | INFO | All technical indicators calculated successfully
+2025-08-30 12:32:36 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:32:37 | INFO | Calculated leverage for SOLUSDT: 22x (Volatility: 0.29%, ADX: 23.4, Hist Vol: 3.1%)
+2025-08-30 12:32:37 | INFO | Calculated position size: 5.008013 SOL with 22x leverage
+2025-08-30 12:32:37 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:32:37 | INFO | No trade calls generated at this time
+2025-08-30 12:33:05 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:33:05 | INFO | All technical indicators calculated successfully
+2025-08-30 12:33:05 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:33:06 | INFO | Calculated leverage for BTCUSDT: 22x (Volatility: 0.08%, ADX: 15.1, Hist Vol: 0.9%)
+2025-08-30 12:33:06 | INFO | Calculated position size: 0.009205 BTC with 22x leverage
+2025-08-30 12:33:06 | INFO | No trade call for BTCUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:33:07 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:33:07 | INFO | All technical indicators calculated successfully
+2025-08-30 12:33:07 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:33:08 | INFO | Calculated leverage for ETHUSDT: 17x (Volatility: 0.21%, ADX: 14.2, Hist Vol: 2.1%)
+2025-08-30 12:33:08 | INFO | Calculated position size: 0.229019 ETH with 17x leverage
+2025-08-30 12:33:08 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:33:09 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:33:09 | INFO | All technical indicators calculated successfully
+2025-08-30 12:33:09 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:33:10 | INFO | Calculated leverage for SOLUSDT: 22x (Volatility: 0.29%, ADX: 23.4, Hist Vol: 3.0%)
+2025-08-30 12:33:10 | INFO | Calculated position size: 5.002251 SOL with 22x leverage
+2025-08-30 12:33:10 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:33:10 | INFO | No trade calls generated at this time
+2025-08-30 12:34:29 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:34:29 | INFO | All technical indicators calculated successfully
+2025-08-30 12:34:29 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:34:31 | INFO | Signal quality too low for BTCUSDT, skipping trade call
+2025-08-30 12:34:31 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:34:31 | INFO | All technical indicators calculated successfully
+2025-08-30 12:34:31 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:34:33 | INFO | Calculated leverage for ETHUSDT: 17x (Volatility: 0.21%, ADX: 14.2, Hist Vol: 2.1%)
+2025-08-30 12:34:33 | INFO | Calculated position size: 0.228855 ETH with 17x leverage
+2025-08-30 12:34:33 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:34:33 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:34:33 | INFO | All technical indicators calculated successfully
+2025-08-30 12:34:33 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:34:35 | INFO | Calculated leverage for SOLUSDT: 22x (Volatility: 0.29%, ADX: 23.4, Hist Vol: 3.0%)
+2025-08-30 12:34:35 | INFO | Calculated position size: 5.000000 SOL with 22x leverage
+2025-08-30 12:34:35 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:34:35 | INFO | No trade calls generated at this time
+2025-08-30 12:36:30 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:36:30 | INFO | All technical indicators calculated successfully
+2025-08-30 12:36:30 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:36:31 | INFO | Calculated leverage for BTCUSDT: 22x (Volatility: 0.08%, ADX: 15.1, Hist Vol: 0.9%)
+2025-08-30 12:36:31 | INFO | Calculated position size: 0.009203 BTC with 22x leverage
+2025-08-30 12:36:31 | INFO | No trade call for BTCUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:36:32 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:36:32 | INFO | All technical indicators calculated successfully
+2025-08-30 12:36:32 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:36:33 | INFO | Calculated leverage for ETHUSDT: 17x (Volatility: 0.20%, ADX: 13.7, Hist Vol: 2.0%)
+2025-08-30 12:36:33 | INFO | Calculated position size: 0.228907 ETH with 17x leverage
+2025-08-30 12:36:33 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:36:34 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:36:34 | INFO | All technical indicators calculated successfully
+2025-08-30 12:36:34 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:36:35 | INFO | Calculated leverage for SOLUSDT: 22x (Volatility: 0.27%, ADX: 21.9, Hist Vol: 3.0%)
+2025-08-30 12:36:35 | INFO | Calculated position size: 4.998750 SOL with 22x leverage
+2025-08-30 12:36:35 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:36:36 | INFO | No trade calls generated at this time
+2025-08-30 12:37:18 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:37:18 | INFO | All technical indicators calculated successfully
+2025-08-30 12:37:19 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:37:20 | INFO | Calculated leverage for BTCUSDT: 22x (Volatility: 0.08%, ADX: 15.1, Hist Vol: 0.9%)
+2025-08-30 12:37:20 | INFO | Calculated position size: 0.009198 BTC with 22x leverage
+2025-08-30 12:37:20 | INFO | Calculated stop loss: 108581.75
+2025-08-30 12:37:20 | INFO | Calculated take profit: 108980.00
+2025-08-30 12:37:20 | INFO | Generated trade call for BTCUSDT: BULLISH signal with 22x leverage
+2025-08-30 12:37:21 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:37:21 | INFO | All technical indicators calculated successfully
+2025-08-30 12:37:21 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:37:22 | INFO | Calculated leverage for ETHUSDT: 17x (Volatility: 0.20%, ADX: 13.7, Hist Vol: 2.0%)
+2025-08-30 12:37:22 | INFO | Calculated position size: 0.228728 ETH with 17x leverage
+2025-08-30 12:37:22 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:37:23 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:37:23 | INFO | All technical indicators calculated successfully
+2025-08-30 12:37:23 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:37:24 | INFO | Calculated leverage for SOLUSDT: 22x (Volatility: 0.28%, ADX: 21.9, Hist Vol: 3.0%)
+2025-08-30 12:37:24 | INFO | Calculated position size: 4.994506 SOL with 22x leverage
+2025-08-30 12:37:24 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:37:25 | ERROR | Telegram error: Pool timeout: All connections in the connection pool are occupied. Request was *not* sent to Telegram. Consider adjusting the connection pool size or the pool timeout.
+2025-08-30 12:37:25 | INFO | Saved last signal time: 2025-08-30 12:37:25.708870
+2025-08-30 12:37:25 | INFO | Sent 1 trade calls
+2025-08-30 12:37:39 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:37:39 | INFO | All technical indicators calculated successfully
+2025-08-30 12:37:39 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:37:42 | INFO | Calculated leverage for BTCUSDT: 22x (Volatility: 0.08%, ADX: 15.2, Hist Vol: 0.9%)
+2025-08-30 12:37:42 | INFO | Calculated position size: 0.009197 BTC with 22x leverage
+2025-08-30 12:37:42 | INFO | Calculated stop loss: 108599.34
+2025-08-30 12:37:42 | INFO | Calculated take profit: 109001.82
+2025-08-30 12:37:42 | INFO | Generated trade call for BTCUSDT: BULLISH signal with 22x leverage
+2025-08-30 12:37:42 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:37:42 | INFO | All technical indicators calculated successfully
+2025-08-30 12:37:42 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:37:44 | INFO | Calculated leverage for ETHUSDT: 17x (Volatility: 0.20%, ADX: 13.8, Hist Vol: 2.1%)
+2025-08-30 12:37:44 | INFO | Calculated position size: 0.228676 ETH with 17x leverage
+2025-08-30 12:37:44 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:37:44 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:37:44 | INFO | All technical indicators calculated successfully
+2025-08-30 12:37:44 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:37:46 | INFO | Calculated leverage for SOLUSDT: 22x (Volatility: 0.28%, ADX: 21.8, Hist Vol: 3.0%)
+2025-08-30 12:37:46 | INFO | Calculated position size: 4.992760 SOL with 22x leverage
+2025-08-30 12:37:46 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:37:47 | ERROR | Telegram error: Pool timeout: All connections in the connection pool are occupied. Request was *not* sent to Telegram. Consider adjusting the connection pool size or the pool timeout.
+2025-08-30 12:37:47 | INFO | Saved last signal time: 2025-08-30 12:37:47.237957
+2025-08-30 12:37:47 | INFO | Sent 1 trade calls
+2025-08-30 12:38:12 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:38:12 | INFO | All technical indicators calculated successfully
+2025-08-30 12:38:12 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:38:13 | INFO | Calculated leverage for BTCUSDT: 22x (Volatility: 0.08%, ADX: 15.4, Hist Vol: 0.9%)
+2025-08-30 12:38:13 | INFO | Calculated position size: 0.009195 BTC with 22x leverage
+2025-08-30 12:38:13 | INFO | Calculated stop loss: 108618.88
+2025-08-30 12:38:13 | INFO | Calculated take profit: 109028.44
+2025-08-30 12:38:13 | INFO | Generated trade call for BTCUSDT: BULLISH signal with 22x leverage
+2025-08-30 12:38:14 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:38:14 | INFO | All technical indicators calculated successfully
+2025-08-30 12:38:14 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:38:15 | INFO | Calculated leverage for ETHUSDT: 17x (Volatility: 0.20%, ADX: 13.9, Hist Vol: 2.1%)
+2025-08-30 12:38:15 | INFO | Calculated position size: 0.228637 ETH with 17x leverage
+2025-08-30 12:38:15 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:38:16 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:38:16 | INFO | All technical indicators calculated successfully
+2025-08-30 12:38:16 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:38:17 | INFO | Calculated leverage for SOLUSDT: 22x (Volatility: 0.28%, ADX: 21.9, Hist Vol: 3.1%)
+2025-08-30 12:38:17 | INFO | Calculated position size: 4.990269 SOL with 22x leverage
+2025-08-30 12:38:17 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:38:18 | ERROR | Telegram error: Pool timeout: All connections in the connection pool are occupied. Request was *not* sent to Telegram. Consider adjusting the connection pool size or the pool timeout.
+2025-08-30 12:38:18 | INFO | Saved last signal time: 2025-08-30 12:38:18.803895
+2025-08-30 12:38:18 | INFO | Sent 1 trade calls
+2025-08-30 12:39:36 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:39:36 | INFO | All technical indicators calculated successfully
+2025-08-30 12:39:36 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:39:37 | INFO | Calculated leverage for BTCUSDT: 22x (Volatility: 0.09%, ADX: 16.0, Hist Vol: 0.9%)
+2025-08-30 12:39:37 | INFO | Calculated position size: 0.009188 BTC with 22x leverage
+2025-08-30 12:39:37 | INFO | Calculated stop loss: 108693.33
+2025-08-30 12:39:37 | INFO | Calculated take profit: 109130.04
+2025-08-30 12:39:37 | INFO | Generated trade call for BTCUSDT: BULLISH signal with 22x leverage
+2025-08-30 12:39:38 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:39:38 | INFO | All technical indicators calculated successfully
+2025-08-30 12:39:38 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:39:39 | INFO | Calculated leverage for ETHUSDT: 17x (Volatility: 0.21%, ADX: 14.2, Hist Vol: 2.1%)
+2025-08-30 12:39:39 | INFO | Calculated position size: 0.228571 ETH with 17x leverage
+2025-08-30 12:39:39 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:39:40 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:39:40 | INFO | All technical indicators calculated successfully
+2025-08-30 12:39:40 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:39:41 | INFO | Calculated leverage for SOLUSDT: 22x (Volatility: 0.29%, ADX: 22.2, Hist Vol: 3.1%)
+2025-08-30 12:39:41 | INFO | Calculated position size: 4.986785 SOL with 22x leverage
+2025-08-30 12:39:41 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:39:42 | INFO | Message sent to Telegram
+2025-08-30 12:39:42 | INFO | Saved last signal time: 2025-08-30 12:39:42.950409
+2025-08-30 12:39:42 | INFO | Sent 1 trade calls
+2025-08-30 12:41:36 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:41:36 | INFO | All technical indicators calculated successfully
+2025-08-30 12:41:37 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:41:38 | INFO | Calculated leverage for BTCUSDT: 22x (Volatility: 0.09%, ADX: 17.4, Hist Vol: 1.0%)
+2025-08-30 12:41:38 | INFO | Calculated position size: 0.009189 BTC with 22x leverage
+2025-08-30 12:41:38 | INFO | No trade call for BTCUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:41:38 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:41:38 | INFO | All technical indicators calculated successfully
+2025-08-30 12:41:39 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:41:40 | INFO | Calculated leverage for ETHUSDT: 17x (Volatility: 0.20%, ADX: 14.1, Hist Vol: 2.0%)
+2025-08-30 12:41:40 | INFO | Calculated position size: 0.228611 ETH with 17x leverage
+2025-08-30 12:41:40 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:41:40 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:41:40 | INFO | All technical indicators calculated successfully
+2025-08-30 12:41:41 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:41:42 | INFO | Calculated leverage for SOLUSDT: 22x (Volatility: 0.28%, ADX: 21.6, Hist Vol: 3.1%)
+2025-08-30 12:41:42 | INFO | Calculated position size: 4.983058 SOL with 22x leverage
+2025-08-30 12:41:42 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:41:42 | INFO | No trade calls generated at this time
+2025-08-30 12:42:27 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:42:27 | INFO | All technical indicators calculated successfully
+2025-08-30 12:42:27 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:42:29 | INFO | Calculated leverage for BTCUSDT: 22x (Volatility: 0.09%, ADX: 17.4, Hist Vol: 1.0%)
+2025-08-30 12:42:29 | INFO | Calculated position size: 0.009189 BTC with 22x leverage
+2025-08-30 12:42:29 | INFO | No trade call for BTCUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:42:29 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:42:29 | INFO | All technical indicators calculated successfully
+2025-08-30 12:42:29 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:42:31 | INFO | Calculated leverage for ETHUSDT: 17x (Volatility: 0.20%, ADX: 14.1, Hist Vol: 2.0%)
+2025-08-30 12:42:31 | INFO | Calculated position size: 0.228563 ETH with 17x leverage
+2025-08-30 12:42:31 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:42:31 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:42:31 | INFO | All technical indicators calculated successfully
+2025-08-30 12:42:31 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:42:33 | INFO | Calculated leverage for SOLUSDT: 22x (Volatility: 0.29%, ADX: 22.0, Hist Vol: 3.1%)
+2025-08-30 12:42:33 | INFO | Calculated position size: 4.980080 SOL with 22x leverage
+2025-08-30 12:42:33 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:42:33 | INFO | No trade calls generated at this time
+2025-08-30 12:42:48 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:42:48 | INFO | All technical indicators calculated successfully
+2025-08-30 12:42:49 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:42:50 | INFO | Signal quality too low for BTCUSDT, skipping trade call
+2025-08-30 12:42:50 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:42:50 | INFO | All technical indicators calculated successfully
+2025-08-30 12:42:51 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:42:52 | INFO | Calculated leverage for ETHUSDT: 17x (Volatility: 0.20%, ADX: 14.1, Hist Vol: 2.0%)
+2025-08-30 12:42:52 | INFO | Calculated position size: 0.228571 ETH with 17x leverage
+2025-08-30 12:42:52 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:42:53 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:42:53 | INFO | All technical indicators calculated successfully
+2025-08-30 12:42:53 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:42:54 | INFO | Calculated leverage for SOLUSDT: 22x (Volatility: 0.29%, ADX: 22.0, Hist Vol: 3.1%)
+2025-08-30 12:42:54 | INFO | Calculated position size: 4.977849 SOL with 22x leverage
+2025-08-30 12:42:54 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:42:54 | INFO | No trade calls generated at this time
+2025-08-30 12:43:20 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:43:20 | INFO | All technical indicators calculated successfully
+2025-08-30 12:43:20 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:43:22 | INFO | Signal quality too low for BTCUSDT, skipping trade call
+2025-08-30 12:43:22 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:43:22 | INFO | All technical indicators calculated successfully
+2025-08-30 12:43:22 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:43:24 | INFO | Calculated leverage for ETHUSDT: 17x (Volatility: 0.20%, ADX: 14.1, Hist Vol: 2.0%)
+2025-08-30 12:43:24 | INFO | Calculated position size: 0.228622 ETH with 17x leverage
+2025-08-30 12:43:24 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:43:24 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:43:24 | INFO | All technical indicators calculated successfully
+2025-08-30 12:43:24 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:43:26 | INFO | Calculated leverage for SOLUSDT: 22x (Volatility: 0.29%, ADX: 22.0, Hist Vol: 3.1%)
+2025-08-30 12:43:26 | INFO | Calculated position size: 4.982561 SOL with 22x leverage
+2025-08-30 12:43:26 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:43:26 | INFO | No trade calls generated at this time
+2025-08-30 12:44:45 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:44:45 | INFO | All technical indicators calculated successfully
+2025-08-30 12:44:45 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:44:46 | INFO | Signal quality too low for BTCUSDT, skipping trade call
+2025-08-30 12:44:47 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:44:47 | INFO | All technical indicators calculated successfully
+2025-08-30 12:44:47 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:44:48 | INFO | Calculated leverage for ETHUSDT: 17x (Volatility: 0.20%, ADX: 14.1, Hist Vol: 2.0%)
+2025-08-30 12:44:48 | INFO | Calculated position size: 0.228623 ETH with 17x leverage
+2025-08-30 12:44:48 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:44:49 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:44:49 | INFO | All technical indicators calculated successfully
+2025-08-30 12:44:49 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:44:50 | INFO | Calculated leverage for SOLUSDT: 22x (Volatility: 0.29%, ADX: 22.1, Hist Vol: 3.1%)
+2025-08-30 12:44:50 | INFO | Calculated position size: 4.977105 SOL with 22x leverage
+2025-08-30 12:44:50 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:44:50 | INFO | No trade calls generated at this time
+2025-08-30 12:46:44 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:46:44 | INFO | All technical indicators calculated successfully
+2025-08-30 12:46:44 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:46:45 | INFO | Calculated leverage for BTCUSDT: 22x (Volatility: 0.09%, ADX: 18.3, Hist Vol: 0.9%)
+2025-08-30 12:46:45 | INFO | Calculated position size: 0.009190 BTC with 22x leverage
+2025-08-30 12:46:45 | INFO | No trade call for BTCUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:46:46 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:46:46 | INFO | All technical indicators calculated successfully
+2025-08-30 12:46:46 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:46:48 | INFO | Calculated leverage for ETHUSDT: 17x (Volatility: 0.20%, ADX: 14.7, Hist Vol: 2.0%)
+2025-08-30 12:46:48 | INFO | Calculated position size: 0.228558 ETH with 17x leverage
+2025-08-30 12:46:48 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:46:48 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:46:48 | INFO | All technical indicators calculated successfully
+2025-08-30 12:46:48 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:46:50 | INFO | Calculated leverage for SOLUSDT: 22x (Volatility: 0.30%, ADX: 22.9, Hist Vol: 3.1%)
+2025-08-30 12:46:50 | INFO | Calculated position size: 4.974877 SOL with 22x leverage
+2025-08-30 12:46:50 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:46:50 | INFO | No trade calls generated at this time
+2025-08-30 12:47:34 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:47:34 | INFO | All technical indicators calculated successfully
+2025-08-30 12:47:35 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:47:36 | INFO | Calculated leverage for BTCUSDT: 22x (Volatility: 0.09%, ADX: 18.3, Hist Vol: 0.9%)
+2025-08-30 12:47:36 | INFO | Calculated position size: 0.009190 BTC with 22x leverage
+2025-08-30 12:47:36 | INFO | No trade call for BTCUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:47:36 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:47:36 | INFO | All technical indicators calculated successfully
+2025-08-30 12:47:37 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:47:38 | INFO | Calculated leverage for ETHUSDT: 17x (Volatility: 0.20%, ADX: 14.7, Hist Vol: 2.0%)
+2025-08-30 12:47:38 | INFO | Calculated position size: 0.228480 ETH with 17x leverage
+2025-08-30 12:47:38 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:47:38 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:47:38 | INFO | All technical indicators calculated successfully
+2025-08-30 12:47:39 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:47:40 | INFO | Calculated leverage for SOLUSDT: 22x (Volatility: 0.30%, ADX: 22.9, Hist Vol: 3.1%)
+2025-08-30 12:47:40 | INFO | Calculated position size: 4.976610 SOL with 22x leverage
+2025-08-30 12:47:40 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:47:40 | INFO | No trade calls generated at this time
+2025-08-30 12:47:56 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:47:56 | INFO | All technical indicators calculated successfully
+2025-08-30 12:47:57 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:47:58 | INFO | Calculated leverage for BTCUSDT: 22x (Volatility: 0.09%, ADX: 18.2, Hist Vol: 0.9%)
+2025-08-30 12:47:58 | INFO | Calculated position size: 0.009191 BTC with 22x leverage
+2025-08-30 12:47:58 | INFO | No trade call for BTCUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:47:58 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:47:58 | INFO | All technical indicators calculated successfully
+2025-08-30 12:47:59 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:48:00 | INFO | Calculated leverage for ETHUSDT: 17x (Volatility: 0.20%, ADX: 14.7, Hist Vol: 2.0%)
+2025-08-30 12:48:00 | INFO | Calculated position size: 0.228694 ETH with 17x leverage
+2025-08-30 12:48:00 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:48:00 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:48:00 | INFO | All technical indicators calculated successfully
+2025-08-30 12:48:01 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:48:02 | INFO | Calculated leverage for SOLUSDT: 22x (Volatility: 0.31%, ADX: 22.9, Hist Vol: 3.1%)
+2025-08-30 12:48:02 | INFO | Calculated position size: 4.981816 SOL with 22x leverage
+2025-08-30 12:48:02 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:48:02 | INFO | No trade calls generated at this time
+2025-08-30 12:48:27 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:48:27 | INFO | All technical indicators calculated successfully
+2025-08-30 12:48:28 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:48:29 | INFO | Calculated leverage for BTCUSDT: 22x (Volatility: 0.09%, ADX: 18.2, Hist Vol: 0.9%)
+2025-08-30 12:48:29 | INFO | Calculated position size: 0.009190 BTC with 22x leverage
+2025-08-30 12:48:29 | INFO | No trade call for BTCUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:48:30 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:48:30 | INFO | All technical indicators calculated successfully
+2025-08-30 12:48:30 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:48:31 | INFO | Calculated leverage for ETHUSDT: 17x (Volatility: 0.20%, ADX: 14.7, Hist Vol: 2.0%)
+2025-08-30 12:48:31 | INFO | Calculated position size: 0.228622 ETH with 17x leverage
+2025-08-30 12:48:31 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:48:32 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:48:32 | INFO | All technical indicators calculated successfully
+2025-08-30 12:48:32 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:48:33 | INFO | Calculated leverage for SOLUSDT: 22x (Volatility: 0.31%, ADX: 22.9, Hist Vol: 3.1%)
+2025-08-30 12:48:33 | INFO | Calculated position size: 4.978344 SOL with 22x leverage
+2025-08-30 12:48:33 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:48:33 | INFO | No trade calls generated at this time
+2025-08-30 12:49:51 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:49:51 | INFO | All technical indicators calculated successfully
+2025-08-30 12:49:51 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:49:53 | INFO | Calculated leverage for BTCUSDT: 22x (Volatility: 0.09%, ADX: 18.2, Hist Vol: 0.9%)
+2025-08-30 12:49:53 | INFO | Calculated position size: 0.009187 BTC with 22x leverage
+2025-08-30 12:49:53 | INFO | No trade call for BTCUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:49:53 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:49:53 | INFO | All technical indicators calculated successfully
+2025-08-30 12:49:53 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:49:55 | INFO | Calculated leverage for ETHUSDT: 17x (Volatility: 0.20%, ADX: 14.7, Hist Vol: 2.0%)
+2025-08-30 12:49:55 | INFO | Calculated position size: 0.228530 ETH with 17x leverage
+2025-08-30 12:49:55 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:49:55 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:49:55 | INFO | All technical indicators calculated successfully
+2025-08-30 12:49:55 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:49:57 | INFO | Calculated leverage for SOLUSDT: 22x (Volatility: 0.31%, ADX: 22.9, Hist Vol: 3.1%)
+2025-08-30 12:49:57 | INFO | Calculated position size: 4.973887 SOL with 22x leverage
+2025-08-30 12:49:57 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:49:57 | INFO | No trade calls generated at this time
+2025-08-30 12:51:51 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:51:51 | INFO | All technical indicators calculated successfully
+2025-08-30 12:51:51 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:51:52 | INFO | Calculated leverage for BTCUSDT: 22x (Volatility: 0.08%, ADX: 18.9, Hist Vol: 0.9%)
+2025-08-30 12:51:52 | INFO | Calculated position size: 0.009189 BTC with 22x leverage
+2025-08-30 12:51:52 | INFO | No trade call for BTCUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:51:53 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:51:53 | INFO | All technical indicators calculated successfully
+2025-08-30 12:51:53 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:51:54 | INFO | Calculated leverage for ETHUSDT: 17x (Volatility: 0.19%, ADX: 14.7, Hist Vol: 2.1%)
+2025-08-30 12:51:54 | INFO | Calculated position size: 0.228864 ETH with 17x leverage
+2025-08-30 12:51:54 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:51:55 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:51:55 | INFO | All technical indicators calculated successfully
+2025-08-30 12:51:55 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:51:56 | INFO | Calculated leverage for SOLUSDT: 22x (Volatility: 0.30%, ADX: 23.2, Hist Vol: 3.1%)
+2025-08-30 12:51:56 | INFO | Calculated position size: 4.981816 SOL with 22x leverage
+2025-08-30 12:51:56 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:51:56 | INFO | No trade calls generated at this time
+2025-08-30 12:52:41 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:52:41 | INFO | All technical indicators calculated successfully
+2025-08-30 12:52:42 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:52:43 | INFO | Calculated leverage for BTCUSDT: 22x (Volatility: 0.08%, ADX: 18.9, Hist Vol: 0.9%)
+2025-08-30 12:52:43 | INFO | Calculated position size: 0.009190 BTC with 22x leverage
+2025-08-30 12:52:43 | INFO | No trade call for BTCUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:52:44 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:52:44 | INFO | All technical indicators calculated successfully
+2025-08-30 12:52:44 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:52:45 | INFO | Calculated leverage for ETHUSDT: 17x (Volatility: 0.19%, ADX: 14.7, Hist Vol: 2.0%)
+2025-08-30 12:52:45 | INFO | Calculated position size: 0.228832 ETH with 17x leverage
+2025-08-30 12:52:45 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:52:46 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:52:46 | INFO | All technical indicators calculated successfully
+2025-08-30 12:52:46 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:52:48 | INFO | Calculated leverage for SOLUSDT: 22x (Volatility: 0.30%, ADX: 23.2, Hist Vol: 3.1%)
+2025-08-30 12:52:48 | INFO | Calculated position size: 4.983058 SOL with 22x leverage
+2025-08-30 12:52:48 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:52:48 | INFO | No trade calls generated at this time
+2025-08-30 12:53:03 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:53:03 | INFO | All technical indicators calculated successfully
+2025-08-30 12:53:04 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:53:05 | INFO | Calculated leverage for BTCUSDT: 22x (Volatility: 0.09%, ADX: 18.9, Hist Vol: 0.9%)
+2025-08-30 12:53:05 | INFO | Calculated position size: 0.009191 BTC with 22x leverage
+2025-08-30 12:53:05 | INFO | No trade call for BTCUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:53:05 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:53:05 | INFO | All technical indicators calculated successfully
+2025-08-30 12:53:06 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:53:07 | INFO | Calculated leverage for ETHUSDT: 17x (Volatility: 0.19%, ADX: 14.7, Hist Vol: 2.0%)
+2025-08-30 12:53:07 | INFO | Calculated position size: 0.228851 ETH with 17x leverage
+2025-08-30 12:53:07 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:53:07 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:53:07 | INFO | All technical indicators calculated successfully
+2025-08-30 12:53:08 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:53:09 | INFO | Calculated leverage for SOLUSDT: 22x (Volatility: 0.30%, ADX: 23.1, Hist Vol: 3.1%)
+2025-08-30 12:53:09 | INFO | Calculated position size: 4.984051 SOL with 22x leverage
+2025-08-30 12:53:09 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:53:09 | INFO | No trade calls generated at this time
+2025-08-30 12:53:34 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:53:34 | INFO | All technical indicators calculated successfully
+2025-08-30 12:53:35 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:53:36 | INFO | Calculated leverage for BTCUSDT: 22x (Volatility: 0.09%, ADX: 18.9, Hist Vol: 0.9%)
+2025-08-30 12:53:36 | INFO | Calculated position size: 0.009189 BTC with 22x leverage
+2025-08-30 12:53:36 | INFO | No trade call for BTCUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:53:36 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:53:36 | INFO | All technical indicators calculated successfully
+2025-08-30 12:53:37 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:53:38 | INFO | Calculated leverage for ETHUSDT: 17x (Volatility: 0.19%, ADX: 14.7, Hist Vol: 2.0%)
+2025-08-30 12:53:38 | INFO | Calculated position size: 0.228840 ETH with 17x leverage
+2025-08-30 12:53:38 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:53:39 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:53:39 | INFO | All technical indicators calculated successfully
+2025-08-30 12:53:39 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:53:40 | INFO | Calculated leverage for SOLUSDT: 22x (Volatility: 0.30%, ADX: 23.1, Hist Vol: 3.1%)
+2025-08-30 12:53:40 | INFO | Calculated position size: 4.983058 SOL with 22x leverage
+2025-08-30 12:53:40 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:53:40 | INFO | No trade calls generated at this time
+2025-08-30 12:54:58 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:54:58 | INFO | All technical indicators calculated successfully
+2025-08-30 12:54:59 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:55:00 | INFO | Calculated leverage for BTCUSDT: 22x (Volatility: 0.09%, ADX: 18.9, Hist Vol: 0.9%)
+2025-08-30 12:55:00 | INFO | Calculated position size: 0.009191 BTC with 22x leverage
+2025-08-30 12:55:00 | INFO | No trade call for BTCUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:55:00 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:55:00 | INFO | All technical indicators calculated successfully
+2025-08-30 12:55:01 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:55:02 | INFO | Calculated leverage for ETHUSDT: 17x (Volatility: 0.20%, ADX: 14.6, Hist Vol: 2.1%)
+2025-08-30 12:55:02 | INFO | Calculated position size: 0.228873 ETH with 17x leverage
+2025-08-30 12:55:02 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:55:02 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:55:02 | INFO | All technical indicators calculated successfully
+2025-08-30 12:55:03 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:55:04 | INFO | Calculated leverage for SOLUSDT: 22x (Volatility: 0.28%, ADX: 23.3, Hist Vol: 3.1%)
+2025-08-30 12:55:04 | INFO | Calculated position size: 4.985790 SOL with 22x leverage
+2025-08-30 12:55:04 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:55:04 | INFO | No trade calls generated at this time
+2025-08-30 12:56:57 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:56:57 | INFO | All technical indicators calculated successfully
+2025-08-30 12:56:57 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:56:59 | INFO | Calculated leverage for BTCUSDT: 22x (Volatility: 0.08%, ADX: 19.3, Hist Vol: 0.9%)
+2025-08-30 12:56:59 | INFO | Calculated position size: 0.009192 BTC with 22x leverage
+2025-08-30 12:56:59 | INFO | No trade call for BTCUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:56:59 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:56:59 | INFO | All technical indicators calculated successfully
+2025-08-30 12:56:59 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:57:01 | INFO | Calculated leverage for ETHUSDT: 17x (Volatility: 0.19%, ADX: 14.5, Hist Vol: 2.0%)
+2025-08-30 12:57:01 | INFO | Calculated position size: 0.228729 ETH with 17x leverage
+2025-08-30 12:57:01 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:57:01 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:57:01 | INFO | All technical indicators calculated successfully
+2025-08-30 12:57:01 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:57:03 | INFO | Calculated leverage for SOLUSDT: 22x (Volatility: 0.29%, ADX: 23.2, Hist Vol: 3.1%)
+2025-08-30 12:57:03 | INFO | Calculated position size: 4.980080 SOL with 22x leverage
+2025-08-30 12:57:03 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:57:03 | INFO | No trade calls generated at this time
+2025-08-30 12:57:49 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:57:49 | INFO | All technical indicators calculated successfully
+2025-08-30 12:57:49 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:57:50 | INFO | Calculated leverage for BTCUSDT: 22x (Volatility: 0.08%, ADX: 19.2, Hist Vol: 0.9%)
+2025-08-30 12:57:50 | INFO | Calculated position size: 0.009193 BTC with 22x leverage
+2025-08-30 12:57:50 | INFO | No trade call for BTCUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:57:51 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:57:51 | INFO | All technical indicators calculated successfully
+2025-08-30 12:57:51 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:57:52 | INFO | Calculated leverage for ETHUSDT: 17x (Volatility: 0.19%, ADX: 14.5, Hist Vol: 2.0%)
+2025-08-30 12:57:52 | INFO | Calculated position size: 0.228833 ETH with 17x leverage
+2025-08-30 12:57:52 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:57:53 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:57:53 | INFO | All technical indicators calculated successfully
+2025-08-30 12:57:53 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:57:54 | INFO | Calculated leverage for SOLUSDT: 22x (Volatility: 0.29%, ADX: 23.2, Hist Vol: 3.1%)
+2025-08-30 12:57:54 | INFO | Calculated position size: 4.982561 SOL with 22x leverage
+2025-08-30 12:57:54 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:57:54 | INFO | No trade calls generated at this time
+2025-08-30 12:58:11 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:58:11 | INFO | All technical indicators calculated successfully
+2025-08-30 12:58:11 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:58:13 | INFO | Calculated leverage for BTCUSDT: 22x (Volatility: 0.08%, ADX: 19.2, Hist Vol: 0.9%)
+2025-08-30 12:58:13 | INFO | Calculated position size: 0.009193 BTC with 22x leverage
+2025-08-30 12:58:13 | INFO | No trade call for BTCUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:58:13 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:58:13 | INFO | All technical indicators calculated successfully
+2025-08-30 12:58:13 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:58:15 | INFO | Calculated leverage for ETHUSDT: 17x (Volatility: 0.19%, ADX: 14.5, Hist Vol: 2.0%)
+2025-08-30 12:58:15 | INFO | Calculated position size: 0.228871 ETH with 17x leverage
+2025-08-30 12:58:15 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:58:15 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:58:15 | INFO | All technical indicators calculated successfully
+2025-08-30 12:58:15 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:58:17 | INFO | Calculated leverage for SOLUSDT: 22x (Volatility: 0.29%, ADX: 23.2, Hist Vol: 3.1%)
+2025-08-30 12:58:17 | INFO | Calculated position size: 4.983306 SOL with 22x leverage
+2025-08-30 12:58:17 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:58:17 | INFO | No trade calls generated at this time
+2025-08-30 12:58:42 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:58:42 | INFO | All technical indicators calculated successfully
+2025-08-30 12:58:42 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:58:43 | INFO | Calculated leverage for BTCUSDT: 22x (Volatility: 0.08%, ADX: 19.2, Hist Vol: 0.9%)
+2025-08-30 12:58:43 | INFO | Calculated position size: 0.009193 BTC with 22x leverage
+2025-08-30 12:58:43 | INFO | No trade call for BTCUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:58:44 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:58:44 | INFO | All technical indicators calculated successfully
+2025-08-30 12:58:44 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:58:45 | INFO | Calculated leverage for ETHUSDT: 17x (Volatility: 0.19%, ADX: 14.5, Hist Vol: 2.0%)
+2025-08-30 12:58:45 | INFO | Calculated position size: 0.228764 ETH with 17x leverage
+2025-08-30 12:58:45 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:58:46 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:58:46 | INFO | All technical indicators calculated successfully
+2025-08-30 12:58:46 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:58:48 | INFO | Calculated leverage for SOLUSDT: 22x (Volatility: 0.29%, ADX: 23.2, Hist Vol: 3.1%)
+2025-08-30 12:58:48 | INFO | Calculated position size: 4.980080 SOL with 22x leverage
+2025-08-30 12:58:48 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:58:48 | INFO | No trade calls generated at this time
+2025-08-30 13:00:06 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 13:00:06 | INFO | All technical indicators calculated successfully
+2025-08-30 13:00:07 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 13:00:08 | INFO | Calculated leverage for BTCUSDT: 22x (Volatility: 0.08%, ADX: 19.5, Hist Vol: 0.9%)
+2025-08-30 13:00:08 | INFO | Calculated position size: 0.009189 BTC with 22x leverage
+2025-08-30 13:00:08 | INFO | No trade call for BTCUSDT: NEUTRAL signal (neutral)
+2025-08-30 13:00:08 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 13:00:08 | INFO | All technical indicators calculated successfully
+2025-08-30 13:00:09 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 13:00:10 | INFO | Calculated leverage for ETHUSDT: 17x (Volatility: 0.18%, ADX: 14.4, Hist Vol: 2.0%)
+2025-08-30 13:00:10 | INFO | Calculated position size: 0.228773 ETH with 17x leverage
+2025-08-30 13:00:10 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 13:00:10 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 13:00:10 | INFO | All technical indicators calculated successfully
+2025-08-30 13:00:11 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 13:00:12 | INFO | Calculated leverage for SOLUSDT: 22x (Volatility: 0.28%, ADX: 23.1, Hist Vol: 3.1%)
+2025-08-30 13:00:12 | INFO | Calculated position size: 4.979336 SOL with 22x leverage
+2025-08-30 13:00:12 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 13:00:12 | INFO | No trade calls generated at this time
+2025-08-30 13:02:04 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 13:02:04 | INFO | All technical indicators calculated successfully
+2025-08-30 13:02:05 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 13:02:06 | INFO | Calculated leverage for BTCUSDT: 22x (Volatility: 0.08%, ADX: 19.3, Hist Vol: 0.9%)
+2025-08-30 13:02:06 | INFO | Calculated position size: 0.009193 BTC with 22x leverage
+2025-08-30 13:02:06 | INFO | No trade call for BTCUSDT: NEUTRAL signal (neutral)
+2025-08-30 13:02:06 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 13:02:06 | INFO | All technical indicators calculated successfully
+2025-08-30 13:02:07 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 13:02:08 | INFO | Calculated leverage for ETHUSDT: 17x (Volatility: 0.19%, ADX: 14.2, Hist Vol: 2.0%)
+2025-08-30 13:02:08 | INFO | Calculated position size: 0.228985 ETH with 17x leverage
+2025-08-30 13:02:08 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 13:02:08 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 13:02:08 | INFO | All technical indicators calculated successfully
+2025-08-30 13:02:09 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 13:02:10 | INFO | Calculated leverage for SOLUSDT: 22x (Volatility: 0.30%, ADX: 22.6, Hist Vol: 3.1%)
+2025-08-30 13:02:10 | INFO | Calculated position size: 4.993010 SOL with 22x leverage
+2025-08-30 13:02:10 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 13:02:10 | INFO | No trade calls generated at this time
+2025-08-30 13:02:55 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 13:02:56 | INFO | All technical indicators calculated successfully
+2025-08-30 13:02:56 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 13:02:57 | INFO | Calculated leverage for BTCUSDT: 22x (Volatility: 0.08%, ADX: 19.3, Hist Vol: 0.9%)
+2025-08-30 13:02:57 | INFO | Calculated position size: 0.009192 BTC with 22x leverage
+2025-08-30 13:02:57 | INFO | Calculated stop loss: 108657.97
+2025-08-30 13:02:57 | INFO | Calculated take profit: 109052.86
+2025-08-30 13:02:57 | INFO | Generated trade call for BTCUSDT: BULLISH signal with 22x leverage
+2025-08-30 13:02:58 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 13:02:58 | INFO | All technical indicators calculated successfully
+2025-08-30 13:02:58 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 13:02:59 | INFO | Calculated leverage for ETHUSDT: 17x (Volatility: 0.19%, ADX: 14.2, Hist Vol: 2.0%)
+2025-08-30 13:02:59 | INFO | Calculated position size: 0.228853 ETH with 17x leverage
+2025-08-30 13:02:59 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 13:03:00 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 13:03:00 | INFO | All technical indicators calculated successfully
+2025-08-30 13:03:00 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 13:03:01 | INFO | Calculated leverage for SOLUSDT: 22x (Volatility: 0.30%, ADX: 22.6, Hist Vol: 3.1%)
+2025-08-30 13:03:01 | INFO | Calculated position size: 4.988278 SOL with 22x leverage
+2025-08-30 13:03:01 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 13:03:02 | ERROR | Telegram error: Pool timeout: All connections in the connection pool are occupied. Request was *not* sent to Telegram. Consider adjusting the connection pool size or the pool timeout.
+2025-08-30 13:03:03 | INFO | Saved last signal time: 2025-08-30 13:03:02.960354
+2025-08-30 13:03:03 | INFO | Sent 1 trade calls
+2025-08-30 13:03:18 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 13:03:18 | INFO | All technical indicators calculated successfully
+2025-08-30 13:03:18 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 13:03:19 | INFO | Calculated leverage for BTCUSDT: 22x (Volatility: 0.08%, ADX: 19.3, Hist Vol: 0.9%)
+2025-08-30 13:03:19 | INFO | Calculated position size: 0.009191 BTC with 22x leverage
+2025-08-30 13:03:19 | INFO | No trade call for BTCUSDT: NEUTRAL signal (neutral)
+2025-08-30 13:03:20 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 13:03:20 | INFO | All technical indicators calculated successfully
+2025-08-30 13:03:20 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 13:03:21 | INFO | Calculated leverage for ETHUSDT: 17x (Volatility: 0.19%, ADX: 14.2, Hist Vol: 2.0%)
+2025-08-30 13:03:21 | INFO | Calculated position size: 0.228812 ETH with 17x leverage
+2025-08-30 13:03:21 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 13:03:22 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 13:03:22 | INFO | All technical indicators calculated successfully
+2025-08-30 13:03:22 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 13:03:23 | INFO | Calculated leverage for SOLUSDT: 22x (Volatility: 0.30%, ADX: 22.6, Hist Vol: 3.1%)
+2025-08-30 13:03:23 | INFO | Calculated position size: 4.989522 SOL with 22x leverage
+2025-08-30 13:03:23 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 13:03:23 | INFO | No trade calls generated at this time
+2025-08-30 13:03:49 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 13:03:49 | INFO | All technical indicators calculated successfully
+2025-08-30 13:03:49 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 13:03:51 | INFO | Calculated leverage for BTCUSDT: 22x (Volatility: 0.08%, ADX: 19.3, Hist Vol: 0.9%)
+2025-08-30 13:03:51 | INFO | Calculated position size: 0.009192 BTC with 22x leverage
+2025-08-30 13:03:51 | INFO | Calculated stop loss: 108655.22
+2025-08-30 13:03:51 | INFO | Calculated take profit: 109051.16
+2025-08-30 13:03:51 | INFO | Generated trade call for BTCUSDT: BULLISH signal with 22x leverage
+2025-08-30 13:03:51 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 13:03:51 | INFO | All technical indicators calculated successfully
+2025-08-30 13:03:51 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 13:03:53 | INFO | Calculated leverage for ETHUSDT: 17x (Volatility: 0.19%, ADX: 14.2, Hist Vol: 2.0%)
+2025-08-30 13:03:53 | INFO | Calculated position size: 0.228755 ETH with 17x leverage
+2025-08-30 13:03:53 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 13:03:53 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 13:03:53 | INFO | All technical indicators calculated successfully
+2025-08-30 13:03:53 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 13:03:55 | INFO | Calculated leverage for SOLUSDT: 22x (Volatility: 0.30%, ADX: 22.6, Hist Vol: 3.1%)
+2025-08-30 13:03:55 | INFO | Calculated position size: 4.987034 SOL with 22x leverage
+2025-08-30 13:03:55 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 13:03:56 | ERROR | Telegram error: Pool timeout: All connections in the connection pool are occupied. Request was *not* sent to Telegram. Consider adjusting the connection pool size or the pool timeout.
+2025-08-30 13:03:56 | INFO | Saved last signal time: 2025-08-30 13:03:56.351795
+2025-08-30 13:03:56 | INFO | Sent 1 trade calls
+2025-08-30 13:05:14 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 13:05:14 | INFO | All technical indicators calculated successfully
+2025-08-30 13:05:14 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 13:05:15 | INFO | Calculated leverage for BTCUSDT: 22x (Volatility: 0.08%, ADX: 19.3, Hist Vol: 0.9%)
+2025-08-30 13:05:15 | INFO | Calculated position size: 0.009193 BTC with 22x leverage
+2025-08-30 13:05:15 | INFO | No trade call for BTCUSDT: NEUTRAL signal (neutral)
+2025-08-30 13:05:16 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 13:05:16 | INFO | All technical indicators calculated successfully
+2025-08-30 13:05:16 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 13:05:17 | INFO | Calculated leverage for ETHUSDT: 17x (Volatility: 0.18%, ADX: 13.7, Hist Vol: 2.0%)
+2025-08-30 13:05:17 | INFO | Calculated position size: 0.228841 ETH with 17x leverage
+2025-08-30 13:05:17 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 13:05:18 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 13:05:18 | INFO | All technical indicators calculated successfully
+2025-08-30 13:05:18 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 13:05:19 | INFO | Calculated leverage for SOLUSDT: 22x (Volatility: 0.29%, ADX: 22.0, Hist Vol: 3.1%)
+2025-08-30 13:05:19 | INFO | Calculated position size: 4.988278 SOL with 22x leverage
+2025-08-30 13:05:19 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 13:05:19 | INFO | No trade calls generated at this time
+2025-08-30 13:07:11 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 13:07:11 | INFO | All technical indicators calculated successfully
+2025-08-30 13:07:12 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 13:07:13 | INFO | Calculated leverage for BTCUSDT: 22x (Volatility: 0.08%, ADX: 18.9, Hist Vol: 0.9%)
+2025-08-30 13:07:13 | INFO | Calculated position size: 0.009196 BTC with 22x leverage
+2025-08-30 13:07:13 | INFO | Calculated stop loss: 108611.13
+2025-08-30 13:07:13 | INFO | Calculated take profit: 108995.34
+2025-08-30 13:07:13 | INFO | Generated trade call for BTCUSDT: BULLISH signal with 22x leverage
+2025-08-30 13:07:13 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 13:07:13 | INFO | All technical indicators calculated successfully
+2025-08-30 13:07:14 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 13:07:15 | INFO | Calculated leverage for ETHUSDT: 17x (Volatility: 0.19%, ADX: 13.5, Hist Vol: 2.0%)
+2025-08-30 13:07:15 | INFO | Calculated position size: 0.228927 ETH with 17x leverage
+2025-08-30 13:07:15 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 13:07:15 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 13:07:15 | INFO | All technical indicators calculated successfully
+2025-08-30 13:07:16 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 13:07:17 | INFO | Calculated leverage for SOLUSDT: 22x (Volatility: 0.30%, ADX: 21.7, Hist Vol: 3.1%)
+2025-08-30 13:07:17 | INFO | Calculated position size: 4.988278 SOL with 22x leverage
+2025-08-30 13:07:17 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 13:07:17 | ERROR | Telegram error: Unknown error in HTTP implementation: RuntimeError('Event loop is closed')
+2025-08-30 13:07:17 | INFO | Saved last signal time: 2025-08-30 13:07:17.657986
+2025-08-30 13:07:17 | INFO | Sent 1 trade calls
+2025-08-30 13:08:04 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 13:08:04 | INFO | All technical indicators calculated successfully
+2025-08-30 13:08:05 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 13:08:06 | INFO | Calculated leverage for BTCUSDT: 22x (Volatility: 0.08%, ADX: 18.9, Hist Vol: 0.9%)
+2025-08-30 13:08:06 | INFO | Calculated position size: 0.009194 BTC with 22x leverage
+2025-08-30 13:08:06 | INFO | Calculated stop loss: 108642.03
+2025-08-30 13:08:06 | INFO | Calculated take profit: 109026.24
+2025-08-30 13:08:06 | INFO | Generated trade call for BTCUSDT: BULLISH signal with 22x leverage
+2025-08-30 13:08:07 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 13:08:07 | INFO | All technical indicators calculated successfully
+2025-08-30 13:08:07 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 13:08:08 | INFO | Calculated leverage for ETHUSDT: 17x (Volatility: 0.19%, ADX: 13.5, Hist Vol: 2.0%)
+2025-08-30 13:08:08 | INFO | Calculated position size: 0.228760 ETH with 17x leverage
+2025-08-30 13:08:08 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 13:08:09 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 13:08:09 | INFO | All technical indicators calculated successfully
+2025-08-30 13:08:09 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 13:08:11 | INFO | Calculated leverage for SOLUSDT: 22x (Volatility: 0.30%, ADX: 21.7, Hist Vol: 3.1%)
+2025-08-30 13:08:11 | INFO | Calculated position size: 4.985790 SOL with 22x leverage
+2025-08-30 13:08:11 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 13:08:12 | ERROR | Telegram error: Pool timeout: All connections in the connection pool are occupied. Request was *not* sent to Telegram. Consider adjusting the connection pool size or the pool timeout.
+2025-08-30 13:08:12 | INFO | Saved last signal time: 2025-08-30 13:08:12.218580
+2025-08-30 13:08:12 | INFO | Sent 1 trade calls
+2025-08-30 13:08:25 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 13:08:25 | INFO | All technical indicators calculated successfully
+2025-08-30 13:08:25 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 13:08:27 | INFO | Calculated leverage for BTCUSDT: 22x (Volatility: 0.08%, ADX: 18.9, Hist Vol: 0.9%)
+2025-08-30 13:08:27 | INFO | Calculated position size: 0.009193 BTC with 22x leverage
+2025-08-30 13:08:27 | INFO | Calculated stop loss: 108651.56
+2025-08-30 13:08:27 | INFO | Calculated take profit: 109037.18
+2025-08-30 13:08:27 | INFO | Generated trade call for BTCUSDT: BULLISH signal with 22x leverage
+2025-08-30 13:08:27 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 13:08:27 | INFO | All technical indicators calculated successfully
+2025-08-30 13:08:27 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 13:08:29 | INFO | Calculated leverage for ETHUSDT: 17x (Volatility: 0.19%, ADX: 13.5, Hist Vol: 2.0%)
+2025-08-30 13:08:29 | INFO | Calculated position size: 0.228934 ETH with 17x leverage
+2025-08-30 13:08:29 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 13:08:29 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 13:08:29 | INFO | All technical indicators calculated successfully
+2025-08-30 13:08:29 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 13:08:31 | INFO | Calculated leverage for SOLUSDT: 22x (Volatility: 0.30%, ADX: 21.7, Hist Vol: 3.1%)
+2025-08-30 13:08:31 | INFO | Calculated position size: 4.989024 SOL with 22x leverage
+2025-08-30 13:08:31 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 13:08:32 | ERROR | Telegram error: Pool timeout: All connections in the connection pool are occupied. Request was *not* sent to Telegram. Consider adjusting the connection pool size or the pool timeout.
+2025-08-30 13:08:32 | INFO | Saved last signal time: 2025-08-30 13:08:32.238480
+2025-08-30 13:08:32 | INFO | Sent 1 trade calls
+2025-08-30 13:08:58 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 13:08:58 | INFO | All technical indicators calculated successfully
+2025-08-30 13:08:58 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 13:09:00 | INFO | Calculated leverage for BTCUSDT: 22x (Volatility: 0.08%, ADX: 18.9, Hist Vol: 0.9%)
+2025-08-30 13:09:00 | INFO | Calculated position size: 0.009194 BTC with 22x leverage
+2025-08-30 13:09:00 | INFO | Calculated stop loss: 108642.76
+2025-08-30 13:09:00 | INFO | Calculated take profit: 109028.38
+2025-08-30 13:09:00 | INFO | Generated trade call for BTCUSDT: BULLISH signal with 22x leverage
+2025-08-30 13:09:00 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 13:09:00 | INFO | All technical indicators calculated successfully
+2025-08-30 13:09:00 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 13:09:02 | INFO | Calculated leverage for ETHUSDT: 17x (Volatility: 0.19%, ADX: 13.5, Hist Vol: 2.0%)
+2025-08-30 13:09:02 | INFO | Calculated position size: 0.228847 ETH with 17x leverage
+2025-08-30 13:09:02 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 13:09:02 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 13:09:02 | INFO | All technical indicators calculated successfully
+2025-08-30 13:09:03 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 13:09:04 | INFO | Calculated leverage for SOLUSDT: 22x (Volatility: 0.30%, ADX: 21.7, Hist Vol: 3.1%)
+2025-08-30 13:09:04 | INFO | Calculated position size: 4.985542 SOL with 22x leverage
+2025-08-30 13:09:04 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 13:09:05 | ERROR | Telegram error: Pool timeout: All connections in the connection pool are occupied. Request was *not* sent to Telegram. Consider adjusting the connection pool size or the pool timeout.
+2025-08-30 13:09:05 | INFO | Saved last signal time: 2025-08-30 13:09:05.660165
+2025-08-30 13:09:05 | INFO | Sent 1 trade calls
+2025-08-30 13:10:22 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 13:10:22 | INFO | All technical indicators calculated successfully
+2025-08-30 13:10:22 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 13:10:23 | INFO | Calculated leverage for BTCUSDT: 22x (Volatility: 0.08%, ADX: 18.5, Hist Vol: 0.9%)
+2025-08-30 13:10:23 | INFO | Calculated position size: 0.009194 BTC with 22x leverage
+2025-08-30 13:10:23 | INFO | No trade call for BTCUSDT: NEUTRAL signal (neutral)
+2025-08-30 13:10:24 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 13:10:24 | INFO | All technical indicators calculated successfully
+2025-08-30 13:10:24 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 13:10:25 | INFO | Calculated leverage for ETHUSDT: 17x (Volatility: 0.18%, ADX: 12.9, Hist Vol: 2.0%)
+2025-08-30 13:10:25 | INFO | Calculated position size: 0.228932 ETH with 17x leverage
+2025-08-30 13:10:25 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 13:10:26 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 13:10:26 | INFO | All technical indicators calculated successfully
+2025-08-30 13:10:26 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 13:10:27 | INFO | Calculated leverage for SOLUSDT: 22x (Volatility: 0.29%, ADX: 20.9, Hist Vol: 3.1%)
+2025-08-30 13:10:27 | INFO | Calculated position size: 4.988526 SOL with 22x leverage
+2025-08-30 13:10:27 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 13:10:27 | INFO | No trade calls generated at this time
+2025-08-30 13:12:20 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 13:12:20 | INFO | All technical indicators calculated successfully
+2025-08-30 13:12:20 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 13:12:22 | INFO | Calculated leverage for BTCUSDT: 22x (Volatility: 0.08%, ADX: 18.0, Hist Vol: 1.0%)
+2025-08-30 13:12:22 | INFO | Calculated position size: 0.009200 BTC with 22x leverage
+2025-08-30 13:12:22 | INFO | No trade call for BTCUSDT: NEUTRAL signal (neutral)
+2025-08-30 13:12:22 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 13:12:22 | INFO | All technical indicators calculated successfully
+2025-08-30 13:12:22 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 13:12:24 | INFO | Calculated leverage for ETHUSDT: 17x (Volatility: 0.19%, ADX: 12.5, Hist Vol: 2.0%)
+2025-08-30 13:12:24 | INFO | Calculated position size: 0.229106 ETH with 17x leverage
+2025-08-30 13:12:24 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 13:12:24 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 13:12:24 | INFO | All technical indicators calculated successfully
+2025-08-30 13:12:24 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 13:12:26 | INFO | Calculated leverage for SOLUSDT: 22x (Volatility: 0.31%, ADX: 20.2, Hist Vol: 3.1%)
+2025-08-30 13:12:26 | INFO | Calculated position size: 4.999500 SOL with 22x leverage
+2025-08-30 13:12:26 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 13:12:26 | INFO | No trade calls generated at this time
+2025-08-30 13:13:13 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 13:13:13 | INFO | All technical indicators calculated successfully
+2025-08-30 13:13:14 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 13:13:15 | INFO | Calculated leverage for BTCUSDT: 22x (Volatility: 0.08%, ADX: 17.6, Hist Vol: 1.0%)
+2025-08-30 13:13:15 | INFO | Calculated position size: 0.009205 BTC with 22x leverage
+2025-08-30 13:13:15 | INFO | No trade call for BTCUSDT: NEUTRAL signal (neutral)
+2025-08-30 13:13:15 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 13:13:15 | INFO | All technical indicators calculated successfully
+2025-08-30 13:13:15 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 13:13:17 | INFO | Calculated leverage for ETHUSDT: 17x (Volatility: 0.19%, ADX: 13.0, Hist Vol: 2.0%)
+2025-08-30 13:13:17 | INFO | Calculated position size: 0.229288 ETH with 17x leverage
+2025-08-30 13:13:17 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 13:13:17 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 13:13:17 | INFO | All technical indicators calculated successfully
+2025-08-30 13:13:17 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 13:13:19 | INFO | Calculated leverage for SOLUSDT: 22x (Volatility: 0.31%, ADX: 20.2, Hist Vol: 3.1%)
+2025-08-30 13:13:19 | INFO | Calculated position size: 5.002752 SOL with 22x leverage
+2025-08-30 13:13:19 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 13:13:19 | INFO | No trade calls generated at this time
+2025-08-30 13:13:33 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 13:13:33 | INFO | All technical indicators calculated successfully
+2025-08-30 13:13:33 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 13:13:34 | INFO | Calculated leverage for BTCUSDT: 22x (Volatility: 0.08%, ADX: 17.6, Hist Vol: 1.0%)
+2025-08-30 13:13:34 | INFO | Calculated position size: 0.009205 BTC with 22x leverage
+2025-08-30 13:13:34 | INFO | No trade call for BTCUSDT: NEUTRAL signal (neutral)
+2025-08-30 13:13:35 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 13:13:35 | INFO | All technical indicators calculated successfully
+2025-08-30 13:13:35 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 13:13:36 | INFO | Calculated leverage for ETHUSDT: 17x (Volatility: 0.19%, ADX: 13.0, Hist Vol: 2.0%)
+2025-08-30 13:13:36 | INFO | Calculated position size: 0.229312 ETH with 17x leverage
+2025-08-30 13:13:36 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 13:13:37 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 13:13:37 | INFO | All technical indicators calculated successfully
+2025-08-30 13:13:37 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 13:13:38 | INFO | Calculated leverage for SOLUSDT: 22x (Volatility: 0.31%, ADX: 20.2, Hist Vol: 3.1%)
+2025-08-30 13:13:38 | INFO | Calculated position size: 5.003002 SOL with 22x leverage
+2025-08-30 13:13:38 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 13:13:38 | INFO | No trade calls generated at this time
+2025-08-30 13:14:07 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 13:14:07 | INFO | All technical indicators calculated successfully
+2025-08-30 13:14:07 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 13:14:09 | INFO | Calculated leverage for BTCUSDT: 22x (Volatility: 0.08%, ADX: 17.6, Hist Vol: 1.0%)
+2025-08-30 13:14:09 | INFO | Calculated position size: 0.009205 BTC with 22x leverage
+2025-08-30 13:14:09 | INFO | No trade call for BTCUSDT: NEUTRAL signal (neutral)
+2025-08-30 13:14:09 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 13:14:09 | INFO | All technical indicators calculated successfully
+2025-08-30 13:14:09 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 13:14:11 | INFO | Calculated leverage for ETHUSDT: 17x (Volatility: 0.19%, ADX: 13.0, Hist Vol: 2.0%)
+2025-08-30 13:14:11 | INFO | Calculated position size: 0.229310 ETH with 17x leverage
+2025-08-30 13:14:11 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 13:14:11 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 13:14:11 | INFO | All technical indicators calculated successfully
+2025-08-30 13:14:11 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 13:14:13 | INFO | Calculated leverage for SOLUSDT: 22x (Volatility: 0.31%, ADX: 20.2, Hist Vol: 3.1%)
+2025-08-30 13:14:13 | INFO | Calculated position size: 5.000250 SOL with 22x leverage
+2025-08-30 13:14:13 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 13:14:13 | INFO | No trade calls generated at this time
+2025-08-30 13:15:30 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 13:15:30 | INFO | All technical indicators calculated successfully
+2025-08-30 13:15:30 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 13:15:31 | INFO | Calculated leverage for BTCUSDT: 22x (Volatility: 0.08%, ADX: 16.8, Hist Vol: 1.0%)
+2025-08-30 13:15:31 | INFO | Calculated position size: 0.009206 BTC with 22x leverage
+2025-08-30 13:15:31 | INFO | No trade call for BTCUSDT: NEUTRAL signal (neutral)
+2025-08-30 13:15:32 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 13:15:32 | INFO | All technical indicators calculated successfully
+2025-08-30 13:15:32 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 13:15:33 | INFO | Calculated leverage for ETHUSDT: 17x (Volatility: 0.18%, ADX: 12.9, Hist Vol: 2.0%)
+2025-08-30 13:15:33 | INFO | Calculated position size: 0.229497 ETH with 17x leverage
+2025-08-30 13:15:33 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 13:15:34 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 13:15:34 | INFO | All technical indicators calculated successfully
+2025-08-30 13:15:34 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 13:15:35 | INFO | Calculated leverage for SOLUSDT: 22x (Volatility: 0.30%, ADX: 18.9, Hist Vol: 3.1%)
+2025-08-30 13:15:35 | INFO | Calculated position size: 5.007261 SOL with 22x leverage
+2025-08-30 13:15:35 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 13:15:35 | INFO | No trade calls generated at this time
+2025-08-30 14:51:50 | INFO | Starting Cryptocurrency Futures Trading Bot
+2025-08-30 14:51:50 | INFO | Trading Pairs: BTCUSDT, ETHUSDT, SOLUSDT, ADAUSDT, DOTUSDT, AVAXUSDT, MATICUSDT, XRPUSDT, LINKUSDT, DOGEUSDT, LTCUSDT, BNBUSDT, ATOMUSDT
+2025-08-30 14:51:50 | INFO | Default Leverage: 10x (intelligent calculation active)
+2025-08-30 14:51:50 | INFO | Analysis Interval: 5 minutes
+2025-08-30 14:51:51 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-30 14:51:51 | ERROR | Fatal error in main loop: An asyncio.Future, a coroutine or an awaitable is required
+2025-08-30 14:52:31 | INFO | Starting Cryptocurrency Futures Trading Bot
+2025-08-30 14:52:31 | INFO | Trading Pairs: BTCUSDT, ETHUSDT, SOLUSDT, ADAUSDT, DOTUSDT, AVAXUSDT, MATICUSDT, XRPUSDT, LINKUSDT, DOGEUSDT, LTCUSDT, BNBUSDT, ATOMUSDT
+2025-08-30 14:52:31 | INFO | Default Leverage: 10x (intelligent calculation active)
+2025-08-30 14:52:31 | INFO | Analysis Interval: 5 minutes
+2025-08-30 14:52:32 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-30 14:52:32 | INFO | Telegram Bot scheduler running in background
+2025-08-30 14:52:32 | INFO | Trading Bot is now running...
+2025-08-30 14:52:33 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 14:52:33 | INFO | All technical indicators calculated successfully
+2025-08-30 14:52:34 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 14:52:35 | INFO | Intelligent leverage for BTCUSDT: 24x (Vol: 0.06%, ADX: 17.5, Hist Vol: 1.0%, RSI: 43.0)
+2025-08-30 14:52:35 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 14:52:35 | INFO | All technical indicators calculated successfully
+2025-08-30 14:52:36 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 14:52:37 | INFO | Intelligent leverage for ETHUSDT: 19x (Vol: 0.16%, ADX: 13.2, Hist Vol: 1.9%, RSI: 43.1)
+2025-08-30 14:52:37 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 14:52:38 | INFO | All technical indicators calculated successfully
+2025-08-30 14:52:38 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 14:52:39 | INFO | Intelligent leverage for SOLUSDT: 24x (Vol: 0.25%, ADX: 15.2, Hist Vol: 3.0%, RSI: 50.9)
+2025-08-30 14:52:40 | INFO | Fetched 100 candles for ADAUSDT on 5m timeframe
+2025-08-30 14:52:40 | INFO | All technical indicators calculated successfully
+2025-08-30 14:52:40 | INFO | Fetched 50 candles for ADAUSDT on 5m timeframe
+2025-08-30 14:52:42 | INFO | Intelligent leverage for ADAUSDT: 27x (Vol: 0.22%, ADX: 16.7, Hist Vol: 2.6%, RSI: 41.3)
+2025-08-30 14:52:43 | INFO | Fetched 100 candles for DOTUSDT on 5m timeframe
+2025-08-30 14:52:43 | INFO | All technical indicators calculated successfully
+2025-08-30 14:52:43 | INFO | Fetched 50 candles for DOTUSDT on 5m timeframe
+2025-08-30 14:52:44 | INFO | Intelligent leverage for DOTUSDT: 29x (Vol: 0.21%, ADX: 16.6, Hist Vol: 2.3%, RSI: 50.6)
+2025-08-30 14:52:45 | INFO | Fetched 100 candles for AVAXUSDT on 5m timeframe
+2025-08-30 14:52:45 | INFO | All technical indicators calculated successfully
+2025-08-30 14:52:45 | INFO | Fetched 50 candles for AVAXUSDT on 5m timeframe
+2025-08-30 14:52:47 | INFO | Intelligent leverage for AVAXUSDT: 24x (Vol: 0.21%, ADX: 19.9, Hist Vol: 2.6%, RSI: 40.7)
+2025-08-30 14:52:47 | INFO | Fetched 100 candles for MATICUSDT on 5m timeframe
+2025-08-30 14:52:47 | INFO | All technical indicators calculated successfully
+2025-08-30 14:52:47 | INFO | Fetched 50 candles for MATICUSDT on 5m timeframe
+2025-08-30 14:52:48 | ERROR | Error fetching funding rate: binance fetchFundingRate() supports linear and inverse contracts only
+2025-08-30 14:52:48 | ERROR | Error generating multiple trade calls for MATICUSDT: '>' not supported between instances of 'NoneType' and 'float'
+2025-08-30 14:52:49 | INFO | Fetched 100 candles for XRPUSDT on 5m timeframe
+2025-08-30 14:52:49 | INFO | All technical indicators calculated successfully
+2025-08-30 14:52:49 | INFO | Fetched 50 candles for XRPUSDT on 5m timeframe
+2025-08-30 14:52:50 | INFO | Intelligent leverage for XRPUSDT: 28x (Vol: 0.15%, ADX: 18.2, Hist Vol: 1.9%, RSI: 45.6)
+2025-08-30 14:52:51 | INFO | Fetched 100 candles for LINKUSDT on 5m timeframe
+2025-08-30 14:52:51 | INFO | All technical indicators calculated successfully
+2025-08-30 14:52:51 | INFO | Fetched 50 candles for LINKUSDT on 5m timeframe
+2025-08-30 14:52:53 | INFO | Intelligent leverage for LINKUSDT: 20x (Vol: 0.21%, ADX: 18.1, Hist Vol: 2.6%, RSI: 51.3)
+2025-08-30 14:52:53 | INFO | Fetched 100 candles for DOGEUSDT on 5m timeframe
+2025-08-30 14:52:53 | INFO | All technical indicators calculated successfully
+2025-08-30 14:52:54 | INFO | Fetched 50 candles for DOGEUSDT on 5m timeframe
+2025-08-30 14:52:55 | INFO | Intelligent leverage for DOGEUSDT: 19x (Vol: 0.20%, ADX: 11.1, Hist Vol: 2.3%, RSI: 42.0)
+2025-08-30 14:52:55 | INFO | Fetched 100 candles for LTCUSDT on 5m timeframe
+2025-08-30 14:52:55 | INFO | All technical indicators calculated successfully
+2025-08-30 14:52:56 | INFO | Fetched 50 candles for LTCUSDT on 5m timeframe
+2025-08-30 14:52:57 | INFO | Intelligent leverage for LTCUSDT: 27x (Vol: 0.15%, ADX: 18.6, Hist Vol: 1.8%, RSI: 40.4)
+2025-08-30 14:52:57 | INFO | Fetched 100 candles for BNBUSDT on 5m timeframe
+2025-08-30 14:52:57 | INFO | All technical indicators calculated successfully
+2025-08-30 14:52:58 | INFO | Fetched 50 candles for BNBUSDT on 5m timeframe
+2025-08-30 14:52:59 | INFO | Intelligent leverage for BNBUSDT: 14x (Vol: 0.10%, ADX: 11.1, Hist Vol: 1.2%, RSI: 50.8)
+2025-08-30 14:53:00 | INFO | Fetched 100 candles for ATOMUSDT on 5m timeframe
+2025-08-30 14:53:00 | INFO | All technical indicators calculated successfully
+2025-08-30 14:53:00 | INFO | Fetched 50 candles for ATOMUSDT on 5m timeframe
+2025-08-30 14:53:01 | INFO | Intelligent leverage for ATOMUSDT: 27x (Vol: 0.20%, ADX: 17.7, Hist Vol: 2.2%, RSI: 42.3)
+2025-08-30 14:53:01 | INFO | No immediate trade calls generated on startup
+2025-08-30 14:53:01 | INFO | Scheduler started, running every 5 minutes
+2025-08-30 14:58:03 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 14:58:03 | INFO | All technical indicators calculated successfully
+2025-08-30 14:58:03 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 14:58:04 | INFO | Intelligent leverage for BTCUSDT: 27x (Vol: 0.06%, ADX: 16.5, Hist Vol: 1.0%, RSI: 49.5)
+2025-08-30 14:58:05 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 14:58:05 | INFO | All technical indicators calculated successfully
+2025-08-30 14:58:05 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 14:58:06 | WARNING | Model not trained yet
+2025-08-30 14:58:06 | INFO | ML confidence for BEARISH signal: 0.5000
+2025-08-30 14:58:06 | INFO | Intelligent leverage for ETHUSDT: 22x (Vol: 0.17%, ADX: 13.4, Hist Vol: 1.9%, RSI: 47.3)
+2025-08-30 14:58:06 | INFO | Calculated position size: 0.229397 ETH with 22x leverage
+2025-08-30 14:58:06 | INFO | Calculated stop loss: 4370.12
+2025-08-30 14:58:06 | INFO | Calculated take profit: 4337.51
+2025-08-30 14:58:06 | INFO | Generated regular trade call for ETHUSDT: BEARISH signal with 22x leverage
+2025-08-30 14:58:07 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 14:58:07 | INFO | All technical indicators calculated successfully
+2025-08-30 14:58:07 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 14:58:09 | INFO | Intelligent leverage for SOLUSDT: 15x (Vol: 0.25%, ADX: 14.0, Hist Vol: 3.0%, RSI: 52.5)
+2025-08-30 14:58:09 | INFO | Fetched 100 candles for ADAUSDT on 5m timeframe
+2025-08-30 14:58:09 | INFO | All technical indicators calculated successfully
+2025-08-30 14:58:09 | INFO | Fetched 50 candles for ADAUSDT on 5m timeframe
+2025-08-30 14:58:11 | INFO | Intelligent leverage for ADAUSDT: 27x (Vol: 0.21%, ADX: 16.6, Hist Vol: 2.6%, RSI: 44.2)
+2025-08-30 14:58:11 | INFO | Fetched 100 candles for DOTUSDT on 5m timeframe
+2025-08-30 14:58:11 | INFO | All technical indicators calculated successfully
+2025-08-30 14:58:11 | INFO | Fetched 50 candles for DOTUSDT on 5m timeframe
+2025-08-30 14:58:13 | WARNING | Model not trained yet
+2025-08-30 14:58:13 | INFO | ML confidence for BULLISH signal: 0.5000
+2025-08-30 14:58:13 | INFO | Intelligent leverage for DOTUSDT: 30x (Vol: 0.21%, ADX: 15.6, Hist Vol: 2.3%, RSI: 53.7)
+2025-08-30 14:58:13 | INFO | Calculated position size: 265.181649 DOT with 30x leverage
+2025-08-30 14:58:13 | INFO | Calculated stop loss: 3.76
+2025-08-30 14:58:13 | INFO | Calculated take profit: 3.79
+2025-08-30 14:58:13 | INFO | Generated regular trade call for DOTUSDT: BULLISH signal with 30x leverage
+2025-08-30 14:58:13 | INFO | Fetched 100 candles for AVAXUSDT on 5m timeframe
+2025-08-30 14:58:13 | INFO | All technical indicators calculated successfully
+2025-08-30 14:58:13 | INFO | Fetched 50 candles for AVAXUSDT on 5m timeframe
+2025-08-30 14:58:15 | INFO | Intelligent leverage for AVAXUSDT: 29x (Vol: 0.21%, ADX: 19.6, Hist Vol: 2.6%, RSI: 43.2)
+2025-08-30 14:58:15 | INFO | Fetched 100 candles for MATICUSDT on 5m timeframe
+2025-08-30 14:58:16 | INFO | All technical indicators calculated successfully
+2025-08-30 14:58:16 | INFO | Fetched 50 candles for MATICUSDT on 5m timeframe
+2025-08-30 14:58:16 | ERROR | Error fetching funding rate: binance fetchFundingRate() supports linear and inverse contracts only
+2025-08-30 14:58:17 | ERROR | Error generating multiple trade calls for MATICUSDT: '>' not supported between instances of 'NoneType' and 'float'
+2025-08-30 14:58:17 | INFO | Fetched 100 candles for XRPUSDT on 5m timeframe
+2025-08-30 14:58:17 | INFO | All technical indicators calculated successfully
+2025-08-30 14:58:18 | INFO | Fetched 50 candles for XRPUSDT on 5m timeframe
+2025-08-30 14:58:19 | INFO | Intelligent leverage for XRPUSDT: 30x (Vol: 0.14%, ADX: 18.2, Hist Vol: 1.9%, RSI: 44.6)
+2025-08-30 14:58:19 | INFO | Fetched 100 candles for LINKUSDT on 5m timeframe
+2025-08-30 14:58:19 | INFO | All technical indicators calculated successfully
+2025-08-30 14:58:20 | INFO | Fetched 50 candles for LINKUSDT on 5m timeframe
+2025-08-30 14:58:21 | INFO | Intelligent leverage for LINKUSDT: 22x (Vol: 0.22%, ADX: 16.6, Hist Vol: 2.6%, RSI: 53.4)
+2025-08-30 14:58:21 | INFO | Fetched 100 candles for DOGEUSDT on 5m timeframe
+2025-08-30 14:58:21 | INFO | All technical indicators calculated successfully
+2025-08-30 14:58:22 | INFO | Fetched 50 candles for DOGEUSDT on 5m timeframe
+2025-08-30 14:58:23 | INFO | Intelligent leverage for DOGEUSDT: 19x (Vol: 0.19%, ADX: 11.3, Hist Vol: 2.3%, RSI: 45.5)
+2025-08-30 14:58:23 | INFO | Fetched 100 candles for LTCUSDT on 5m timeframe
+2025-08-30 14:58:23 | INFO | All technical indicators calculated successfully
+2025-08-30 14:58:24 | INFO | Fetched 50 candles for LTCUSDT on 5m timeframe
+2025-08-30 14:58:25 | INFO | Intelligent leverage for LTCUSDT: 27x (Vol: 0.15%, ADX: 18.7, Hist Vol: 1.8%, RSI: 39.4)
+2025-08-30 14:58:25 | INFO | Fetched 100 candles for BNBUSDT on 5m timeframe
+2025-08-30 14:58:25 | INFO | All technical indicators calculated successfully
+2025-08-30 14:58:26 | INFO | Fetched 50 candles for BNBUSDT on 5m timeframe
+2025-08-30 14:58:27 | INFO | Intelligent leverage for BNBUSDT: 15x (Vol: 0.10%, ADX: 10.3, Hist Vol: 1.2%, RSI: 52.5)
+2025-08-30 14:58:27 | INFO | Fetched 100 candles for ATOMUSDT on 5m timeframe
+2025-08-30 14:58:28 | INFO | All technical indicators calculated successfully
+2025-08-30 14:58:28 | INFO | Fetched 50 candles for ATOMUSDT on 5m timeframe
+2025-08-30 14:58:29 | WARNING | Model not trained yet
+2025-08-30 14:58:29 | INFO | ML confidence for BEARISH signal: 0.5000
+2025-08-30 14:58:29 | INFO | Intelligent leverage for ATOMUSDT: 30x (Vol: 0.19%, ADX: 17.6, Hist Vol: 2.2%, RSI: 44.4)
+2025-08-30 14:58:29 | INFO | Calculated position size: 223.264121 ATOM with 30x leverage
+2025-08-30 14:58:29 | INFO | Calculated stop loss: 4.49
+2025-08-30 14:58:29 | INFO | Calculated take profit: 4.46
+2025-08-30 14:58:29 | INFO | Generated regular trade call for ATOMUSDT: BEARISH signal with 30x leverage
+2025-08-30 14:58:30 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-30 14:58:31 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-30 14:58:31 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-30 14:58:31 | INFO | Saved last signal time: 2025-08-30 14:58:31.612314
+2025-08-30 14:58:31 | INFO | Sent 3 trade calls
+2025-08-30 15:03:33 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 15:03:33 | INFO | All technical indicators calculated successfully
+2025-08-30 15:03:33 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 15:03:34 | INFO | Intelligent leverage for BTCUSDT: 27x (Vol: 0.06%, ADX: 15.4, Hist Vol: 1.0%, RSI: 53.1)
+2025-08-30 15:03:35 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 15:03:35 | INFO | All technical indicators calculated successfully
+2025-08-30 15:03:35 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 15:03:37 | INFO | Intelligent leverage for ETHUSDT: 20x (Vol: 0.16%, ADX: 13.4, Hist Vol: 1.9%, RSI: 52.5)
+2025-08-30 15:03:37 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 15:03:37 | INFO | All technical indicators calculated successfully
+2025-08-30 15:03:37 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 15:03:39 | INFO | Intelligent leverage for SOLUSDT: 27x (Vol: 0.26%, ADX: 14.1, Hist Vol: 3.0%, RSI: 59.3)
+2025-08-30 15:03:39 | INFO | Fetched 100 candles for ADAUSDT on 5m timeframe
+2025-08-30 15:03:39 | INFO | All technical indicators calculated successfully
+2025-08-30 15:03:39 | INFO | Fetched 50 candles for ADAUSDT on 5m timeframe
+2025-08-30 15:03:41 | INFO | Intelligent leverage for ADAUSDT: 29x (Vol: 0.22%, ADX: 15.8, Hist Vol: 2.6%, RSI: 50.3)
+2025-08-30 15:03:41 | INFO | Fetched 100 candles for DOTUSDT on 5m timeframe
+2025-08-30 15:03:41 | INFO | All technical indicators calculated successfully
+2025-08-30 15:03:41 | INFO | Fetched 50 candles for DOTUSDT on 5m timeframe
+2025-08-30 15:03:43 | WARNING | Model not trained yet
+2025-08-30 15:03:43 | INFO | ML confidence for BULLISH signal: 0.5000
+2025-08-30 15:03:43 | INFO | Intelligent leverage for DOTUSDT: 29x (Vol: 0.21%, ADX: 14.5, Hist Vol: 2.3%, RSI: 59.0)
+2025-08-30 15:03:43 | INFO | Calculated position size: 264.760392 DOT with 29x leverage
+2025-08-30 15:03:43 | INFO | Calculated stop loss: 3.77
+2025-08-30 15:03:43 | INFO | Calculated take profit: 3.79
+2025-08-30 15:03:43 | INFO | Generated regular trade call for DOTUSDT: BULLISH signal with 29x leverage
+2025-08-30 15:03:43 | INFO | Fetched 100 candles for AVAXUSDT on 5m timeframe
+2025-08-30 15:03:43 | INFO | All technical indicators calculated successfully
+2025-08-30 15:03:44 | INFO | Fetched 50 candles for AVAXUSDT on 5m timeframe
+2025-08-30 15:03:45 | INFO | Intelligent leverage for AVAXUSDT: 29x (Vol: 0.21%, ADX: 18.0, Hist Vol: 2.6%, RSI: 50.7)
+2025-08-30 15:03:46 | INFO | Fetched 100 candles for MATICUSDT on 5m timeframe
+2025-08-30 15:03:46 | INFO | All technical indicators calculated successfully
+2025-08-30 15:03:46 | INFO | Fetched 50 candles for MATICUSDT on 5m timeframe
+2025-08-30 15:03:47 | ERROR | Error fetching funding rate: binance fetchFundingRate() supports linear and inverse contracts only
+2025-08-30 15:03:47 | ERROR | Error generating multiple trade calls for MATICUSDT: '>' not supported between instances of 'NoneType' and 'float'
+2025-08-30 15:03:48 | INFO | Fetched 100 candles for XRPUSDT on 5m timeframe
+2025-08-30 15:03:48 | INFO | All technical indicators calculated successfully
+2025-08-30 15:03:48 | INFO | Fetched 50 candles for XRPUSDT on 5m timeframe
+2025-08-30 15:03:49 | INFO | Intelligent leverage for XRPUSDT: 20x (Vol: 0.15%, ADX: 17.2, Hist Vol: 1.9%, RSI: 50.8)
+2025-08-30 15:03:50 | INFO | Fetched 100 candles for LINKUSDT on 5m timeframe
+2025-08-30 15:03:50 | INFO | All technical indicators calculated successfully
+2025-08-30 15:03:50 | INFO | Fetched 50 candles for LINKUSDT on 5m timeframe
+2025-08-30 15:03:52 | INFO | Intelligent leverage for LINKUSDT: 30x (Vol: 0.22%, ADX: 15.9, Hist Vol: 2.6%, RSI: 57.4)
+2025-08-30 15:03:52 | INFO | Fetched 100 candles for DOGEUSDT on 5m timeframe
+2025-08-30 15:03:52 | INFO | All technical indicators calculated successfully
+2025-08-30 15:03:52 | INFO | Fetched 50 candles for DOGEUSDT on 5m timeframe
+2025-08-30 15:03:54 | INFO | Intelligent leverage for DOGEUSDT: 20x (Vol: 0.19%, ADX: 10.6, Hist Vol: 2.3%, RSI: 49.3)
+2025-08-30 15:03:54 | INFO | Fetched 100 candles for LTCUSDT on 5m timeframe
+2025-08-30 15:03:54 | INFO | All technical indicators calculated successfully
+2025-08-30 15:03:54 | INFO | Fetched 50 candles for LTCUSDT on 5m timeframe
+2025-08-30 15:03:56 | INFO | Intelligent leverage for LTCUSDT: 29x (Vol: 0.15%, ADX: 18.4, Hist Vol: 1.8%, RSI: 45.9)
+2025-08-30 15:03:56 | INFO | Fetched 100 candles for BNBUSDT on 5m timeframe
+2025-08-30 15:03:56 | INFO | All technical indicators calculated successfully
+2025-08-30 15:03:56 | INFO | Fetched 50 candles for BNBUSDT on 5m timeframe
+2025-08-30 15:03:58 | INFO | Intelligent leverage for BNBUSDT: 27x (Vol: 0.10%, ADX: 11.2, Hist Vol: 1.2%, RSI: 56.6)
+2025-08-30 15:03:58 | INFO | Fetched 100 candles for ATOMUSDT on 5m timeframe
+2025-08-30 15:03:58 | INFO | All technical indicators calculated successfully
+2025-08-30 15:03:59 | INFO | Fetched 50 candles for ATOMUSDT on 5m timeframe
+2025-08-30 15:04:00 | WARNING | Model not trained yet
+2025-08-30 15:04:00 | INFO | ML confidence for BEARISH signal: 0.5000
+2025-08-30 15:04:00 | INFO | Intelligent leverage for ATOMUSDT: 30x (Vol: 0.19%, ADX: 16.9, Hist Vol: 2.2%, RSI: 46.1)
+2025-08-30 15:04:00 | INFO | Calculated position size: 223.164472 ATOM with 30x leverage
+2025-08-30 15:04:00 | INFO | Calculated stop loss: 4.49
+2025-08-30 15:04:00 | INFO | Calculated take profit: 4.46
+2025-08-30 15:04:00 | INFO | Generated regular trade call for ATOMUSDT: BEARISH signal with 30x leverage
+2025-08-30 15:04:01 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-30 15:04:01 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-30 15:04:01 | INFO | Saved last signal time: 2025-08-30 15:04:01.799290
+2025-08-30 15:04:01 | INFO | Sent 2 trade calls

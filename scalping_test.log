@@ -1,0 +1,696 @@
+2025-08-30 12:36:47 | INFO | Testing scalping strategy across all trading pairs...
+2025-08-30 12:36:47 | INFO | Configured pairs: ['BTCUSDT', 'ETHUSDT', 'SOLUSDT', 'ADAUSDT', 'DOTUSDT', 'AVAXUSDT', 'MATICUSDT', 'XRPUSDT', 'LINKUSDT', 'DOGEUSDT', 'LTCUSDT', 'BNBUSDT', 'ATOMUSDT']
+2025-08-30 12:36:53 | INFO | Binance Futures exchange initialized
+2025-08-30 12:36:53 | INFO | Trading Signals module initialized. Last signal time: 2025-08-30 12:28:03.779991
+2025-08-30 12:36:53 | INFO | 
+=== Testing BTCUSDT ===
+2025-08-30 12:36:54 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:36:54 | INFO | All technical indicators calculated successfully
+2025-08-30 12:36:55 | ERROR | Error calculating intelligent leverage for BTCUSDT: 'ema_50'
+2025-08-30 12:36:55 | ERROR | Error testing BTCUSDT: TradingSignals._generate_single_trade_call() takes 2 positional arguments but 4 were given
+2025-08-30 12:36:55 | INFO | 
+=== Testing ETHUSDT ===
+2025-08-30 12:36:55 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:36:55 | INFO | All technical indicators calculated successfully
+2025-08-30 12:36:55 | ERROR | Error calculating intelligent leverage for ETHUSDT: 'ema_50'
+2025-08-30 12:36:55 | ERROR | Error testing ETHUSDT: TradingSignals._generate_single_trade_call() takes 2 positional arguments but 4 were given
+2025-08-30 12:36:55 | INFO | 
+=== Testing SOLUSDT ===
+2025-08-30 12:36:55 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:36:56 | INFO | All technical indicators calculated successfully
+2025-08-30 12:36:56 | ERROR | Error calculating intelligent leverage for SOLUSDT: 'ema_50'
+2025-08-30 12:36:56 | ERROR | Error testing SOLUSDT: TradingSignals._generate_single_trade_call() takes 2 positional arguments but 4 were given
+2025-08-30 12:36:56 | INFO | 
+=== Testing ADAUSDT ===
+2025-08-30 12:36:56 | INFO | Fetched 100 candles for ADAUSDT on 5m timeframe
+2025-08-30 12:36:56 | INFO | All technical indicators calculated successfully
+2025-08-30 12:36:56 | ERROR | Error calculating intelligent leverage for ADAUSDT: 'ema_50'
+2025-08-30 12:36:56 | ERROR | Error testing ADAUSDT: TradingSignals._generate_single_trade_call() takes 2 positional arguments but 4 were given
+2025-08-30 12:36:56 | INFO | 
+=== Testing DOTUSDT ===
+2025-08-30 12:36:56 | INFO | Fetched 100 candles for DOTUSDT on 5m timeframe
+2025-08-30 12:36:56 | INFO | All technical indicators calculated successfully
+2025-08-30 12:36:56 | ERROR | Error calculating intelligent leverage for DOTUSDT: 'ema_50'
+2025-08-30 12:36:56 | ERROR | Error testing DOTUSDT: TradingSignals._generate_single_trade_call() takes 2 positional arguments but 4 were given
+2025-08-30 12:36:56 | INFO | 
+=== Testing AVAXUSDT ===
+2025-08-30 12:36:57 | INFO | Fetched 100 candles for AVAXUSDT on 5m timeframe
+2025-08-30 12:36:57 | INFO | All technical indicators calculated successfully
+2025-08-30 12:36:57 | ERROR | Error calculating intelligent leverage for AVAXUSDT: 'ema_50'
+2025-08-30 12:36:57 | ERROR | Error testing AVAXUSDT: TradingSignals._generate_single_trade_call() takes 2 positional arguments but 4 were given
+2025-08-30 12:36:57 | INFO | 
+=== Testing MATICUSDT ===
+2025-08-30 12:36:57 | INFO | Fetched 100 candles for MATICUSDT on 5m timeframe
+2025-08-30 12:36:57 | INFO | All technical indicators calculated successfully
+2025-08-30 12:36:57 | ERROR | Error calculating intelligent leverage for MATICUSDT: 'ema_50'
+2025-08-30 12:36:57 | ERROR | Error testing MATICUSDT: TradingSignals._generate_single_trade_call() takes 2 positional arguments but 4 were given
+2025-08-30 12:36:57 | INFO | 
+=== Testing XRPUSDT ===
+2025-08-30 12:36:57 | INFO | Fetched 100 candles for XRPUSDT on 5m timeframe
+2025-08-30 12:36:57 | INFO | All technical indicators calculated successfully
+2025-08-30 12:36:57 | ERROR | Error calculating intelligent leverage for XRPUSDT: 'ema_50'
+2025-08-30 12:36:57 | ERROR | Error testing XRPUSDT: TradingSignals._generate_single_trade_call() takes 2 positional arguments but 4 were given
+2025-08-30 12:36:57 | INFO | 
+=== Testing LINKUSDT ===
+2025-08-30 12:36:58 | INFO | Fetched 100 candles for LINKUSDT on 5m timeframe
+2025-08-30 12:36:58 | INFO | All technical indicators calculated successfully
+2025-08-30 12:36:58 | ERROR | Error calculating intelligent leverage for LINKUSDT: 'ema_50'
+2025-08-30 12:36:58 | ERROR | Error testing LINKUSDT: TradingSignals._generate_single_trade_call() takes 2 positional arguments but 4 were given
+2025-08-30 12:36:58 | INFO | 
+=== Testing DOGEUSDT ===
+2025-08-30 12:36:58 | INFO | Fetched 100 candles for DOGEUSDT on 5m timeframe
+2025-08-30 12:36:58 | INFO | All technical indicators calculated successfully
+2025-08-30 12:36:58 | ERROR | Error calculating intelligent leverage for DOGEUSDT: 'ema_50'
+2025-08-30 12:36:58 | ERROR | Error testing DOGEUSDT: TradingSignals._generate_single_trade_call() takes 2 positional arguments but 4 were given
+2025-08-30 12:36:58 | INFO | 
+=== Testing LTCUSDT ===
+2025-08-30 12:36:59 | INFO | Fetched 100 candles for LTCUSDT on 5m timeframe
+2025-08-30 12:36:59 | INFO | All technical indicators calculated successfully
+2025-08-30 12:36:59 | ERROR | Error calculating intelligent leverage for LTCUSDT: 'ema_50'
+2025-08-30 12:36:59 | ERROR | Error testing LTCUSDT: TradingSignals._generate_single_trade_call() takes 2 positional arguments but 4 were given
+2025-08-30 12:36:59 | INFO | 
+=== Testing BNBUSDT ===
+2025-08-30 12:36:59 | INFO | Fetched 100 candles for BNBUSDT on 5m timeframe
+2025-08-30 12:36:59 | INFO | All technical indicators calculated successfully
+2025-08-30 12:36:59 | ERROR | Error calculating intelligent leverage for BNBUSDT: 'ema_50'
+2025-08-30 12:36:59 | ERROR | Error testing BNBUSDT: TradingSignals._generate_single_trade_call() takes 2 positional arguments but 4 were given
+2025-08-30 12:36:59 | INFO | 
+=== Testing ATOMUSDT ===
+2025-08-30 12:36:59 | INFO | Fetched 100 candles for ATOMUSDT on 5m timeframe
+2025-08-30 12:36:59 | INFO | All technical indicators calculated successfully
+2025-08-30 12:36:59 | ERROR | Error calculating intelligent leverage for ATOMUSDT: 'ema_50'
+2025-08-30 12:36:59 | ERROR | Error testing ATOMUSDT: TradingSignals._generate_single_trade_call() takes 2 positional arguments but 4 were given
+2025-08-30 12:36:59 | INFO | 
+=== Scalping Strategy Test Complete ===
+2025-08-30 12:37:17 | INFO | Testing scalping strategy across all trading pairs...
+2025-08-30 12:37:17 | INFO | Configured pairs: ['BTCUSDT', 'ETHUSDT', 'SOLUSDT', 'ADAUSDT', 'DOTUSDT', 'AVAXUSDT', 'MATICUSDT', 'XRPUSDT', 'LINKUSDT', 'DOGEUSDT', 'LTCUSDT', 'BNBUSDT', 'ATOMUSDT']
+2025-08-30 12:37:22 | INFO | Binance Futures exchange initialized
+2025-08-30 12:37:22 | INFO | Trading Signals module initialized. Last signal time: 2025-08-30 12:28:03.779991
+2025-08-30 12:37:22 | INFO | 
+=== Testing BTCUSDT ===
+2025-08-30 12:37:23 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:37:23 | INFO | All technical indicators calculated successfully
+2025-08-30 12:37:23 | ERROR | Error calculating intelligent leverage for BTCUSDT: 'ema_50'
+2025-08-30 12:37:23 | ERROR | Error testing BTCUSDT: TradingSignals._generate_single_trade_call() takes 2 positional arguments but 4 were given
+2025-08-30 12:37:23 | INFO | 
+=== Testing ETHUSDT ===
+2025-08-30 12:37:23 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:37:23 | INFO | All technical indicators calculated successfully
+2025-08-30 12:37:23 | ERROR | Error calculating intelligent leverage for ETHUSDT: 'ema_50'
+2025-08-30 12:37:23 | ERROR | Error testing ETHUSDT: TradingSignals._generate_single_trade_call() takes 2 positional arguments but 4 were given
+2025-08-30 12:37:23 | INFO | 
+=== Testing SOLUSDT ===
+2025-08-30 12:37:24 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:37:24 | INFO | All technical indicators calculated successfully
+2025-08-30 12:37:24 | ERROR | Error calculating intelligent leverage for SOLUSDT: 'ema_50'
+2025-08-30 12:37:24 | ERROR | Error testing SOLUSDT: TradingSignals._generate_single_trade_call() takes 2 positional arguments but 4 were given
+2025-08-30 12:37:24 | INFO | 
+=== Testing ADAUSDT ===
+2025-08-30 12:37:24 | INFO | Fetched 100 candles for ADAUSDT on 5m timeframe
+2025-08-30 12:37:24 | INFO | All technical indicators calculated successfully
+2025-08-30 12:37:24 | ERROR | Error calculating intelligent leverage for ADAUSDT: 'ema_50'
+2025-08-30 12:37:24 | ERROR | Error testing ADAUSDT: TradingSignals._generate_single_trade_call() takes 2 positional arguments but 4 were given
+2025-08-30 12:37:24 | INFO | 
+=== Testing DOTUSDT ===
+2025-08-30 12:37:24 | INFO | Fetched 100 candles for DOTUSDT on 5m timeframe
+2025-08-30 12:37:24 | INFO | All technical indicators calculated successfully
+2025-08-30 12:37:24 | ERROR | Error calculating intelligent leverage for DOTUSDT: 'ema_50'
+2025-08-30 12:37:24 | ERROR | Error testing DOTUSDT: TradingSignals._generate_single_trade_call() takes 2 positional arguments but 4 were given
+2025-08-30 12:37:24 | INFO | 
+=== Testing AVAXUSDT ===
+2025-08-30 12:37:25 | INFO | Fetched 100 candles for AVAXUSDT on 5m timeframe
+2025-08-30 12:37:25 | INFO | All technical indicators calculated successfully
+2025-08-30 12:37:25 | ERROR | Error calculating intelligent leverage for AVAXUSDT: 'ema_50'
+2025-08-30 12:37:25 | ERROR | Error testing AVAXUSDT: TradingSignals._generate_single_trade_call() takes 2 positional arguments but 4 were given
+2025-08-30 12:37:25 | INFO | 
+=== Testing MATICUSDT ===
+2025-08-30 12:37:25 | INFO | Fetched 100 candles for MATICUSDT on 5m timeframe
+2025-08-30 12:37:25 | INFO | All technical indicators calculated successfully
+2025-08-30 12:37:25 | ERROR | Error calculating intelligent leverage for MATICUSDT: 'ema_50'
+2025-08-30 12:37:25 | ERROR | Error testing MATICUSDT: TradingSignals._generate_single_trade_call() takes 2 positional arguments but 4 were given
+2025-08-30 12:37:25 | INFO | 
+=== Testing XRPUSDT ===
+2025-08-30 12:37:25 | INFO | Fetched 100 candles for XRPUSDT on 5m timeframe
+2025-08-30 12:37:25 | INFO | All technical indicators calculated successfully
+2025-08-30 12:37:25 | ERROR | Error calculating intelligent leverage for XRPUSDT: 'ema_50'
+2025-08-30 12:37:25 | ERROR | Error testing XRPUSDT: TradingSignals._generate_single_trade_call() takes 2 positional arguments but 4 were given
+2025-08-30 12:37:25 | INFO | 
+=== Testing LINKUSDT ===
+2025-08-30 12:37:26 | INFO | Fetched 100 candles for LINKUSDT on 5m timeframe
+2025-08-30 12:37:26 | INFO | All technical indicators calculated successfully
+2025-08-30 12:37:26 | ERROR | Error calculating intelligent leverage for LINKUSDT: 'ema_50'
+2025-08-30 12:37:26 | ERROR | Error testing LINKUSDT: TradingSignals._generate_single_trade_call() takes 2 positional arguments but 4 were given
+2025-08-30 12:37:26 | INFO | 
+=== Testing DOGEUSDT ===
+2025-08-30 12:37:26 | INFO | Fetched 100 candles for DOGEUSDT on 5m timeframe
+2025-08-30 12:37:26 | INFO | All technical indicators calculated successfully
+2025-08-30 12:37:26 | ERROR | Error calculating intelligent leverage for DOGEUSDT: 'ema_50'
+2025-08-30 12:37:26 | ERROR | Error testing DOGEUSDT: TradingSignals._generate_single_trade_call() takes 2 positional arguments but 4 were given
+2025-08-30 12:37:26 | INFO | 
+=== Testing LTCUSDT ===
+2025-08-30 12:37:26 | INFO | Fetched 100 candles for LTCUSDT on 5m timeframe
+2025-08-30 12:37:26 | INFO | All technical indicators calculated successfully
+2025-08-30 12:37:26 | ERROR | Error calculating intelligent leverage for LTCUSDT: 'ema_50'
+2025-08-30 12:37:26 | ERROR | Error testing LTCUSDT: TradingSignals._generate_single_trade_call() takes 2 positional arguments but 4 were given
+2025-08-30 12:37:26 | INFO | 
+=== Testing BNBUSDT ===
+2025-08-30 12:37:27 | INFO | Fetched 100 candles for BNBUSDT on 5m timeframe
+2025-08-30 12:37:27 | INFO | All technical indicators calculated successfully
+2025-08-30 12:37:27 | ERROR | Error calculating intelligent leverage for BNBUSDT: 'ema_50'
+2025-08-30 12:37:27 | ERROR | Error testing BNBUSDT: TradingSignals._generate_single_trade_call() takes 2 positional arguments but 4 were given
+2025-08-30 12:37:27 | INFO | 
+=== Testing ATOMUSDT ===
+2025-08-30 12:37:27 | INFO | Fetched 100 candles for ATOMUSDT on 5m timeframe
+2025-08-30 12:37:27 | INFO | All technical indicators calculated successfully
+2025-08-30 12:37:27 | ERROR | Error calculating intelligent leverage for ATOMUSDT: 'ema_50'
+2025-08-30 12:37:27 | ERROR | Error testing ATOMUSDT: TradingSignals._generate_single_trade_call() takes 2 positional arguments but 4 were given
+2025-08-30 12:37:27 | INFO | 
+=== Scalping Strategy Test Complete ===
+2025-08-30 12:40:56 | INFO | Testing scalping strategy across all trading pairs...
+2025-08-30 12:40:56 | INFO | Configured pairs: ['BTCUSDT', 'ETHUSDT', 'SOLUSDT', 'ADAUSDT', 'DOTUSDT', 'AVAXUSDT', 'MATICUSDT', 'XRPUSDT', 'LINKUSDT', 'DOGEUSDT', 'LTCUSDT', 'BNBUSDT', 'ATOMUSDT']
+2025-08-30 12:41:01 | INFO | Binance Futures exchange initialized
+2025-08-30 12:41:01 | INFO | Trading Signals module initialized. Last signal time: 2025-08-30 12:39:42.950409
+2025-08-30 12:41:01 | INFO | 
+=== Testing BTCUSDT ===
+2025-08-30 12:41:01 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:41:01 | INFO | All technical indicators calculated successfully
+2025-08-30 12:41:01 | INFO | Intelligent leverage for BTCUSDT: 30x (Vol: 0.09%, ADX: 17.4, Hist Vol: 1.0%, RSI: 63.0)
+2025-08-30 12:41:02 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:41:02 | INFO | All technical indicators calculated successfully
+2025-08-30 12:41:02 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 12:41:03 | INFO | Intelligent leverage for BTCUSDT: 30x (Vol: 0.09%, ADX: 17.4, Hist Vol: 1.0%, RSI: 63.0)
+2025-08-30 12:41:03 | INFO | Calculated position size: 0.009191 BTC with 30x leverage
+2025-08-30 12:41:03 | INFO | Calculated stop loss: 108662.25
+2025-08-30 12:41:03 | INFO | Calculated take profit: 109099.50
+2025-08-30 12:41:03 | INFO | Generated trade call for BTCUSDT: BULLISH signal with 30x leverage
+2025-08-30 12:41:03 | INFO | Price: 108807.90
+2025-08-30 12:41:03 | INFO | EMA 5/10/20: 108754.35/108693.63/108620.49
+2025-08-30 12:41:03 | INFO | RSI: 63.0, CCI: 164.5
+2025-08-30 12:41:03 | INFO | ADX: 17.4, Volatility: 0.09%
+2025-08-30 12:41:03 | INFO | Scalp Signal: NEUTRAL
+2025-08-30 12:41:03 | INFO | Overall Signal: BULLISH
+2025-08-30 12:41:03 | INFO | Intelligent Leverage: 30x
+2025-08-30 12:41:03 | ERROR | Error testing BTCUSDT: string indices must be integers
+2025-08-30 12:41:03 | INFO | 
+=== Testing ETHUSDT ===
+2025-08-30 12:41:04 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:41:04 | INFO | All technical indicators calculated successfully
+2025-08-30 12:41:04 | INFO | Intelligent leverage for ETHUSDT: 24x (Vol: 0.20%, ADX: 14.1, Hist Vol: 2.0%, RSI: 58.6)
+2025-08-30 12:41:04 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:41:04 | INFO | All technical indicators calculated successfully
+2025-08-30 12:41:04 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 12:41:06 | INFO | Intelligent leverage for ETHUSDT: 24x (Vol: 0.20%, ADX: 14.1, Hist Vol: 2.0%, RSI: 57.9)
+2025-08-30 12:41:06 | INFO | Calculated position size: 0.228674 ETH with 24x leverage
+2025-08-30 12:41:06 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:41:06 | INFO | Price: 4373.03
+2025-08-30 12:41:06 | INFO | EMA 5/10/20: 4371.10/4367.73/4363.62
+2025-08-30 12:41:06 | INFO | RSI: 58.6, CCI: 116.6
+2025-08-30 12:41:06 | INFO | ADX: 14.1, Volatility: 0.20%
+2025-08-30 12:41:06 | INFO | Scalp Signal: NEUTRAL
+2025-08-30 12:41:06 | INFO | Overall Signal: NEUTRAL
+2025-08-30 12:41:06 | INFO | Intelligent Leverage: 24x
+2025-08-30 12:41:06 | INFO | No trade call generated
+2025-08-30 12:41:06 | INFO | 
+=== Testing SOLUSDT ===
+2025-08-30 12:41:06 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:41:06 | INFO | All technical indicators calculated successfully
+2025-08-30 12:41:06 | INFO | Intelligent leverage for SOLUSDT: 30x (Vol: 0.28%, ADX: 21.5, Hist Vol: 3.1%, RSI: 59.2)
+2025-08-30 12:41:06 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:41:06 | INFO | All technical indicators calculated successfully
+2025-08-30 12:41:07 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 12:41:08 | INFO | Intelligent leverage for SOLUSDT: 30x (Vol: 0.28%, ADX: 21.5, Hist Vol: 3.1%, RSI: 59.2)
+2025-08-30 12:41:08 | INFO | Calculated position size: 4.985542 SOL with 30x leverage
+2025-08-30 12:41:08 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:41:08 | INFO | Price: 200.55
+2025-08-30 12:41:08 | INFO | EMA 5/10/20: 200.34/200.14/199.88
+2025-08-30 12:41:08 | INFO | RSI: 59.2, CCI: 107.4
+2025-08-30 12:41:08 | INFO | ADX: 21.5, Volatility: 0.28%
+2025-08-30 12:41:08 | INFO | Scalp Signal: NEUTRAL
+2025-08-30 12:41:08 | INFO | Overall Signal: NEUTRAL
+2025-08-30 12:41:08 | INFO | Intelligent Leverage: 30x
+2025-08-30 12:41:08 | INFO | No trade call generated
+2025-08-30 12:41:08 | INFO | 
+=== Testing ADAUSDT ===
+2025-08-30 12:41:09 | INFO | Fetched 100 candles for ADAUSDT on 5m timeframe
+2025-08-30 12:41:09 | INFO | All technical indicators calculated successfully
+2025-08-30 12:41:09 | INFO | Intelligent leverage for ADAUSDT: 30x (Vol: 0.25%, ADX: 29.4, Hist Vol: 2.6%, RSI: 67.8)
+2025-08-30 12:41:09 | INFO | Fetched 100 candles for ADAUSDT on 5m timeframe
+2025-08-30 12:41:09 | INFO | All technical indicators calculated successfully
+2025-08-30 12:41:09 | INFO | Fetched 50 candles for ADAUSDT on 5m timeframe
+2025-08-30 12:41:11 | INFO | Intelligent leverage for ADAUSDT: 30x (Vol: 0.25%, ADX: 29.4, Hist Vol: 2.6%, RSI: 67.8)
+2025-08-30 12:41:11 | INFO | Calculated position size: 1218.175174 ADA with 30x leverage
+2025-08-30 12:41:11 | INFO | No trade call for ADAUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:41:11 | INFO | Price: 0.82
+2025-08-30 12:41:11 | INFO | EMA 5/10/20: 0.82/0.82/0.82
+2025-08-30 12:41:11 | INFO | RSI: 67.8, CCI: 113.8
+2025-08-30 12:41:11 | INFO | ADX: 29.4, Volatility: 0.25%
+2025-08-30 12:41:11 | INFO | Scalp Signal: NEUTRAL
+2025-08-30 12:41:11 | INFO | Overall Signal: NEUTRAL
+2025-08-30 12:41:11 | INFO | Intelligent Leverage: 30x
+2025-08-30 12:41:11 | INFO | No trade call generated
+2025-08-30 12:41:11 | INFO | 
+=== Testing DOTUSDT ===
+2025-08-30 12:41:11 | INFO | Fetched 100 candles for DOTUSDT on 5m timeframe
+2025-08-30 12:41:11 | INFO | All technical indicators calculated successfully
+2025-08-30 12:41:11 | INFO | Intelligent leverage for DOTUSDT: 30x (Vol: 0.22%, ADX: 22.4, Hist Vol: 2.2%, RSI: 65.9)
+2025-08-30 12:41:11 | INFO | Fetched 100 candles for DOTUSDT on 5m timeframe
+2025-08-30 12:41:11 | INFO | All technical indicators calculated successfully
+2025-08-30 12:41:12 | INFO | Fetched 50 candles for DOTUSDT on 5m timeframe
+2025-08-30 12:41:13 | INFO | Intelligent leverage for DOTUSDT: 30x (Vol: 0.22%, ADX: 22.4, Hist Vol: 2.2%, RSI: 65.9)
+2025-08-30 12:41:13 | INFO | Calculated position size: 264.410365 DOT with 30x leverage
+2025-08-30 12:41:13 | INFO | No trade call for DOTUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:41:13 | INFO | Price: 3.78
+2025-08-30 12:41:13 | INFO | EMA 5/10/20: 3.78/3.77/3.77
+2025-08-30 12:41:13 | INFO | RSI: 65.9, CCI: 133.6
+2025-08-30 12:41:13 | INFO | ADX: 22.4, Volatility: 0.22%
+2025-08-30 12:41:13 | INFO | Scalp Signal: NEUTRAL
+2025-08-30 12:41:13 | INFO | Overall Signal: NEUTRAL
+2025-08-30 12:41:13 | INFO | Intelligent Leverage: 30x
+2025-08-30 12:41:13 | INFO | No trade call generated
+2025-08-30 12:41:13 | INFO | 
+=== Testing AVAXUSDT ===
+2025-08-30 12:41:13 | INFO | Fetched 100 candles for AVAXUSDT on 5m timeframe
+2025-08-30 12:41:13 | INFO | All technical indicators calculated successfully
+2025-08-30 12:41:13 | INFO | Intelligent leverage for AVAXUSDT: 30x (Vol: 0.24%, ADX: 27.4, Hist Vol: 2.5%, RSI: 72.0)
+2025-08-30 12:41:14 | INFO | Fetched 100 candles for AVAXUSDT on 5m timeframe
+2025-08-30 12:41:14 | INFO | All technical indicators calculated successfully
+2025-08-30 12:41:14 | INFO | Fetched 50 candles for AVAXUSDT on 5m timeframe
+2025-08-30 12:41:15 | INFO | Intelligent leverage for AVAXUSDT: 30x (Vol: 0.24%, ADX: 27.4, Hist Vol: 2.5%, RSI: 72.0)
+2025-08-30 12:41:15 | INFO | Calculated position size: 41.902367 AVAX with 30x leverage
+2025-08-30 12:41:15 | INFO | Calculated stop loss: 23.78
+2025-08-30 12:41:15 | INFO | Calculated take profit: 24.03
+2025-08-30 12:41:15 | INFO | Generated trade call for AVAXUSDT: BULLISH signal with 30x leverage
+2025-08-30 12:41:15 | INFO | Price: 23.87
+2025-08-30 12:41:15 | INFO | EMA 5/10/20: 23.83/23.78/23.71
+2025-08-30 12:41:15 | INFO | RSI: 72.0, CCI: 116.5
+2025-08-30 12:41:15 | INFO | ADX: 27.4, Volatility: 0.24%
+2025-08-30 12:41:15 | INFO | Scalp Signal: BULLISH
+2025-08-30 12:41:15 | INFO | Overall Signal: BULLISH
+2025-08-30 12:41:15 | INFO | Intelligent Leverage: 30x
+2025-08-30 12:41:15 | ERROR | Error testing AVAXUSDT: string indices must be integers
+2025-08-30 12:41:15 | INFO | 
+=== Testing MATICUSDT ===
+2025-08-30 12:41:16 | INFO | Fetched 100 candles for MATICUSDT on 5m timeframe
+2025-08-30 12:41:16 | INFO | All technical indicators calculated successfully
+2025-08-30 12:41:16 | INFO | Intelligent leverage for MATICUSDT: 30x (Vol: 0.19%, ADX: 49.0, Hist Vol: 2.3%, RSI: 47.9)
+2025-08-30 12:41:16 | INFO | Fetched 100 candles for MATICUSDT on 5m timeframe
+2025-08-30 12:41:16 | INFO | All technical indicators calculated successfully
+2025-08-30 12:41:16 | INFO | Fetched 50 candles for MATICUSDT on 5m timeframe
+2025-08-30 12:41:17 | ERROR | Error fetching funding rate: binance fetchFundingRate() supports linear and inverse contracts only
+2025-08-30 12:41:17 | ERROR | Error generating trade call for MATICUSDT: '>' not supported between instances of 'NoneType' and 'float'
+2025-08-30 12:41:17 | INFO | Price: 0.38
+2025-08-30 12:41:17 | INFO | EMA 5/10/20: 0.38/0.38/0.38
+2025-08-30 12:41:17 | INFO | RSI: 47.9, CCI: 62.2
+2025-08-30 12:41:17 | INFO | ADX: 49.0, Volatility: 0.19%
+2025-08-30 12:41:17 | INFO | Scalp Signal: NEUTRAL
+2025-08-30 12:41:17 | INFO | Overall Signal: NEUTRAL
+2025-08-30 12:41:17 | INFO | Intelligent Leverage: 30x
+2025-08-30 12:41:17 | INFO | No trade call generated
+2025-08-30 12:41:17 | INFO | 
+=== Testing XRPUSDT ===
+2025-08-30 12:41:18 | INFO | Fetched 100 candles for XRPUSDT on 5m timeframe
+2025-08-30 12:41:18 | INFO | All technical indicators calculated successfully
+2025-08-30 12:41:18 | INFO | Intelligent leverage for XRPUSDT: 30x (Vol: 0.16%, ADX: 18.1, Hist Vol: 2.0%, RSI: 64.6)
+2025-08-30 12:41:18 | INFO | Fetched 100 candles for XRPUSDT on 5m timeframe
+2025-08-30 12:41:18 | INFO | All technical indicators calculated successfully
+2025-08-30 12:41:18 | INFO | Fetched 50 candles for XRPUSDT on 5m timeframe
+2025-08-30 12:41:20 | INFO | Intelligent leverage for XRPUSDT: 30x (Vol: 0.16%, ADX: 18.1, Hist Vol: 2.0%, RSI: 64.8)
+2025-08-30 12:41:20 | INFO | Calculated position size: 356.493530 XRP with 30x leverage
+2025-08-30 12:41:20 | INFO | Calculated stop loss: 2.80
+2025-08-30 12:41:20 | INFO | Calculated take profit: 2.82
+2025-08-30 12:41:20 | INFO | Generated trade call for XRPUSDT: BULLISH signal with 30x leverage
+2025-08-30 12:41:20 | INFO | Price: 2.81
+2025-08-30 12:41:20 | INFO | EMA 5/10/20: 2.80/2.80/2.80
+2025-08-30 12:41:20 | INFO | RSI: 64.6, CCI: 136.9
+2025-08-30 12:41:20 | INFO | ADX: 18.1, Volatility: 0.16%
+2025-08-30 12:41:20 | INFO | Scalp Signal: NEUTRAL
+2025-08-30 12:41:20 | INFO | Overall Signal: BULLISH
+2025-08-30 12:41:20 | INFO | Intelligent Leverage: 30x
+2025-08-30 12:41:20 | ERROR | Error testing XRPUSDT: string indices must be integers
+2025-08-30 12:41:20 | INFO | 
+=== Testing LINKUSDT ===
+2025-08-30 12:41:20 | INFO | Fetched 100 candles for LINKUSDT on 5m timeframe
+2025-08-30 12:41:20 | INFO | All technical indicators calculated successfully
+2025-08-30 12:41:20 | INFO | Intelligent leverage for LINKUSDT: 30x (Vol: 0.26%, ADX: 23.9, Hist Vol: 2.6%, RSI: 71.1)
+2025-08-30 12:41:20 | INFO | Fetched 100 candles for LINKUSDT on 5m timeframe
+2025-08-30 12:41:20 | INFO | All technical indicators calculated successfully
+2025-08-30 12:41:21 | INFO | Fetched 50 candles for LINKUSDT on 5m timeframe
+2025-08-30 12:41:22 | INFO | Intelligent leverage for LINKUSDT: 30x (Vol: 0.26%, ADX: 23.9, Hist Vol: 2.6%, RSI: 71.9)
+2025-08-30 12:41:22 | INFO | Calculated position size: 42.751486 LINK with 30x leverage
+2025-08-30 12:41:22 | INFO | Calculated stop loss: 23.30
+2025-08-30 12:41:22 | INFO | Calculated take profit: 23.57
+2025-08-30 12:41:22 | INFO | Generated trade call for LINKUSDT: BULLISH signal with 30x leverage
+2025-08-30 12:41:22 | INFO | Price: 23.39
+2025-08-30 12:41:22 | INFO | EMA 5/10/20: 23.36/23.30/23.24
+2025-08-30 12:41:22 | INFO | RSI: 71.1, CCI: 141.1
+2025-08-30 12:41:22 | INFO | ADX: 23.9, Volatility: 0.26%
+2025-08-30 12:41:22 | INFO | Scalp Signal: NEUTRAL
+2025-08-30 12:41:22 | INFO | Overall Signal: BULLISH
+2025-08-30 12:41:22 | INFO | Intelligent Leverage: 30x
+2025-08-30 12:41:22 | ERROR | Error testing LINKUSDT: string indices must be integers
+2025-08-30 12:41:22 | INFO | 
+=== Testing DOGEUSDT ===
+2025-08-30 12:41:22 | INFO | Fetched 100 candles for DOGEUSDT on 5m timeframe
+2025-08-30 12:41:22 | INFO | All technical indicators calculated successfully
+2025-08-30 12:41:22 | INFO | Intelligent leverage for DOGEUSDT: 30x (Vol: 0.22%, ADX: 17.5, Hist Vol: 2.3%, RSI: 67.1)
+2025-08-30 12:41:23 | INFO | Fetched 100 candles for DOGEUSDT on 5m timeframe
+2025-08-30 12:41:23 | INFO | All technical indicators calculated successfully
+2025-08-30 12:41:23 | INFO | Fetched 50 candles for DOGEUSDT on 5m timeframe
+2025-08-30 12:41:24 | INFO | Intelligent leverage for DOGEUSDT: 30x (Vol: 0.22%, ADX: 17.5, Hist Vol: 2.3%, RSI: 67.1)
+2025-08-30 12:41:24 | INFO | Calculated position size: 4626.630887 DOGE with 30x leverage
+2025-08-30 12:41:24 | INFO | Calculated stop loss: 0.22
+2025-08-30 12:41:24 | INFO | Calculated take profit: 0.21
+2025-08-30 12:41:24 | INFO | Generated trade call for DOGEUSDT: BULLISH signal with 30x leverage
+2025-08-30 12:41:24 | INFO | Price: 0.22
+2025-08-30 12:41:24 | INFO | EMA 5/10/20: 0.22/0.22/0.22
+2025-08-30 12:41:24 | INFO | RSI: 67.1, CCI: 168.0
+2025-08-30 12:41:24 | INFO | ADX: 17.5, Volatility: 0.22%
+2025-08-30 12:41:24 | INFO | Scalp Signal: NEUTRAL
+2025-08-30 12:41:24 | INFO | Overall Signal: BULLISH
+2025-08-30 12:41:24 | INFO | Intelligent Leverage: 30x
+2025-08-30 12:41:24 | ERROR | Error testing DOGEUSDT: string indices must be integers
+2025-08-30 12:41:24 | INFO | 
+=== Testing LTCUSDT ===
+2025-08-30 12:41:25 | INFO | Fetched 100 candles for LTCUSDT on 5m timeframe
+2025-08-30 12:41:25 | INFO | All technical indicators calculated successfully
+2025-08-30 12:41:25 | INFO | Intelligent leverage for LTCUSDT: 30x (Vol: 0.17%, ADX: 19.6, Hist Vol: 1.8%, RSI: 64.4)
+2025-08-30 12:41:25 | INFO | Fetched 100 candles for LTCUSDT on 5m timeframe
+2025-08-30 12:41:25 | INFO | All technical indicators calculated successfully
+2025-08-30 12:41:25 | INFO | Fetched 50 candles for LTCUSDT on 5m timeframe
+2025-08-30 12:41:27 | INFO | Intelligent leverage for LTCUSDT: 30x (Vol: 0.17%, ADX: 19.6, Hist Vol: 1.8%, RSI: 64.7)
+2025-08-30 12:41:27 | INFO | Calculated position size: 9.062897 LTC with 30x leverage
+2025-08-30 12:41:27 | INFO | No trade call for LTCUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:41:27 | INFO | Price: 110.35
+2025-08-30 12:41:27 | INFO | EMA 5/10/20: 110.26/110.14/110.02
+2025-08-30 12:41:27 | INFO | RSI: 64.4, CCI: 133.3
+2025-08-30 12:41:27 | INFO | ADX: 19.6, Volatility: 0.17%
+2025-08-30 12:41:27 | INFO | Scalp Signal: NEUTRAL
+2025-08-30 12:41:27 | INFO | Overall Signal: NEUTRAL
+2025-08-30 12:41:27 | INFO | Intelligent Leverage: 30x
+2025-08-30 12:41:27 | INFO | No trade call generated
+2025-08-30 12:41:27 | INFO | 
+=== Testing BNBUSDT ===
+2025-08-30 12:41:27 | INFO | Fetched 100 candles for BNBUSDT on 5m timeframe
+2025-08-30 12:41:27 | INFO | All technical indicators calculated successfully
+2025-08-30 12:41:27 | INFO | Intelligent leverage for BNBUSDT: 30x (Vol: 0.11%, ADX: 22.8, Hist Vol: 1.1%, RSI: 68.2)
+2025-08-30 12:41:28 | INFO | Fetched 100 candles for BNBUSDT on 5m timeframe
+2025-08-30 12:41:28 | INFO | All technical indicators calculated successfully
+2025-08-30 12:41:28 | INFO | Fetched 50 candles for BNBUSDT on 5m timeframe
+2025-08-30 12:41:29 | INFO | Intelligent leverage for BNBUSDT: 30x (Vol: 0.11%, ADX: 22.8, Hist Vol: 1.1%, RSI: 68.2)
+2025-08-30 12:41:29 | INFO | Calculated position size: 1.163332 BNB with 30x leverage
+2025-08-30 12:41:29 | INFO | Calculated stop loss: 858.16
+2025-08-30 12:41:29 | INFO | Calculated take profit: 862.48
+2025-08-30 12:41:29 | INFO | Generated trade call for BNBUSDT: BULLISH signal with 30x leverage
+2025-08-30 12:41:29 | INFO | Price: 859.59
+2025-08-30 12:41:29 | INFO | EMA 5/10/20: 859.00/858.33/857.40
+2025-08-30 12:41:29 | INFO | RSI: 68.2, CCI: 122.3
+2025-08-30 12:41:29 | INFO | ADX: 22.8, Volatility: 0.11%
+2025-08-30 12:41:29 | INFO | Scalp Signal: NEUTRAL
+2025-08-30 12:41:29 | INFO | Overall Signal: BULLISH
+2025-08-30 12:41:29 | INFO | Intelligent Leverage: 30x
+2025-08-30 12:41:29 | ERROR | Error testing BNBUSDT: string indices must be integers
+2025-08-30 12:41:29 | INFO | 
+=== Testing ATOMUSDT ===
+2025-08-30 12:41:30 | INFO | Fetched 100 candles for ATOMUSDT on 5m timeframe
+2025-08-30 12:41:30 | INFO | All technical indicators calculated successfully
+2025-08-30 12:41:30 | INFO | Intelligent leverage for ATOMUSDT: 30x (Vol: 0.20%, ADX: 27.3, Hist Vol: 2.0%, RSI: 71.7)
+2025-08-30 12:41:30 | INFO | Fetched 100 candles for ATOMUSDT on 5m timeframe
+2025-08-30 12:41:30 | INFO | All technical indicators calculated successfully
+2025-08-30 12:41:30 | INFO | Fetched 50 candles for ATOMUSDT on 5m timeframe
+2025-08-30 12:41:32 | INFO | Intelligent leverage for ATOMUSDT: 30x (Vol: 0.20%, ADX: 27.3, Hist Vol: 2.0%, RSI: 71.7)
+2025-08-30 12:41:32 | INFO | Calculated position size: 221.631206 ATOM with 30x leverage
+2025-08-30 12:41:32 | INFO | No trade call for ATOMUSDT: NEUTRAL signal (neutral)
+2025-08-30 12:41:32 | INFO | Price: 4.51
+2025-08-30 12:41:32 | INFO | EMA 5/10/20: 4.51/4.50/4.49
+2025-08-30 12:41:32 | INFO | RSI: 71.7, CCI: 140.9
+2025-08-30 12:41:32 | INFO | ADX: 27.3, Volatility: 0.20%
+2025-08-30 12:41:32 | INFO | Scalp Signal: NEUTRAL
+2025-08-30 12:41:32 | INFO | Overall Signal: NEUTRAL
+2025-08-30 12:41:32 | INFO | Intelligent Leverage: 30x
+2025-08-30 12:41:32 | INFO | No trade call generated
+2025-08-30 12:41:32 | INFO | 
+=== Scalping Strategy Test Complete ===
+2025-08-30 14:42:57 | INFO | Testing scalping strategy across all trading pairs...
+2025-08-30 14:42:57 | INFO | Configured pairs: ['BTCUSDT', 'ETHUSDT', 'SOLUSDT', 'ADAUSDT', 'DOTUSDT', 'AVAXUSDT', 'MATICUSDT', 'XRPUSDT', 'LINKUSDT', 'DOGEUSDT', 'LTCUSDT', 'BNBUSDT', 'ATOMUSDT']
+2025-08-30 14:43:02 | INFO | Binance Futures exchange initialized
+2025-08-30 14:43:02 | INFO | Trading Signals module initialized. Last signal time: 2025-08-30 13:09:05.660165
+2025-08-30 14:43:02 | INFO | 
+=== Testing BTCUSDT ===
+2025-08-30 14:43:03 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 14:43:03 | INFO | All technical indicators calculated successfully
+2025-08-30 14:43:03 | INFO | Intelligent leverage for BTCUSDT: 28x (Vol: 0.06%, ADX: 15.8, Hist Vol: 1.0%, RSI: 43.1)
+2025-08-30 14:43:03 | INFO | Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-30 14:43:03 | INFO | All technical indicators calculated successfully
+2025-08-30 14:43:04 | INFO | Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-30 14:43:05 | INFO | Intelligent leverage for BTCUSDT: 28x (Vol: 0.06%, ADX: 15.8, Hist Vol: 1.0%, RSI: 43.1)
+2025-08-30 14:43:05 | INFO | Calculated position size: 0.009205 BTC with 28x leverage
+2025-08-30 14:43:05 | INFO | No trade call for BTCUSDT: NEUTRAL signal (neutral)
+2025-08-30 14:43:05 | INFO | Price: 108640.30
+2025-08-30 14:43:05 | INFO | EMA 5/10/20: 108718.94/108739.75/108736.35
+2025-08-30 14:43:05 | INFO | RSI: 43.1, CCI: -113.7
+2025-08-30 14:43:05 | INFO | ADX: 15.8, Volatility: 0.06%
+2025-08-30 14:43:05 | INFO | Scalp Signal: NEUTRAL
+2025-08-30 14:43:05 | INFO | Overall Signal: NEUTRAL
+2025-08-30 14:43:05 | INFO | Intelligent Leverage: 28x
+2025-08-30 14:43:05 | INFO | No trade call generated
+2025-08-30 14:43:05 | INFO | 
+=== Testing ETHUSDT ===
+2025-08-30 14:43:05 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 14:43:05 | INFO | All technical indicators calculated successfully
+2025-08-30 14:43:05 | INFO | Intelligent leverage for ETHUSDT: 22x (Vol: 0.16%, ADX: 10.1, Hist Vol: 2.0%, RSI: 39.4)
+2025-08-30 14:43:06 | INFO | Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-30 14:43:06 | INFO | All technical indicators calculated successfully
+2025-08-30 14:43:06 | INFO | Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-30 14:43:07 | INFO | Intelligent leverage for ETHUSDT: 22x (Vol: 0.16%, ADX: 10.1, Hist Vol: 2.0%, RSI: 39.4)
+2025-08-30 14:43:07 | INFO | Calculated position size: 0.229690 ETH with 22x leverage
+2025-08-30 14:43:07 | INFO | No trade call for ETHUSDT: NEUTRAL signal (neutral)
+2025-08-30 14:43:07 | INFO | Price: 4353.70
+2025-08-30 14:43:07 | INFO | EMA 5/10/20: 4358.62/4360.74/4362.28
+2025-08-30 14:43:07 | INFO | RSI: 39.4, CCI: -237.7
+2025-08-30 14:43:07 | INFO | ADX: 10.1, Volatility: 0.16%
+2025-08-30 14:43:07 | INFO | Scalp Signal: NEUTRAL
+2025-08-30 14:43:07 | INFO | Overall Signal: NEUTRAL
+2025-08-30 14:43:07 | INFO | Intelligent Leverage: 22x
+2025-08-30 14:43:07 | INFO | No trade call generated
+2025-08-30 14:43:07 | INFO | 
+=== Testing SOLUSDT ===
+2025-08-30 14:43:08 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 14:43:08 | INFO | All technical indicators calculated successfully
+2025-08-30 14:43:08 | INFO | Intelligent leverage for SOLUSDT: 24x (Vol: 0.26%, ADX: 15.9, Hist Vol: 3.0%, RSI: 49.5)
+2025-08-30 14:43:08 | INFO | Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-30 14:43:08 | INFO | All technical indicators calculated successfully
+2025-08-30 14:43:09 | INFO | Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-30 14:43:10 | INFO | Intelligent leverage for SOLUSDT: 24x (Vol: 0.26%, ADX: 15.9, Hist Vol: 3.0%, RSI: 49.4)
+2025-08-30 14:43:10 | INFO | Calculated position size: 4.988278 SOL with 24x leverage
+2025-08-30 14:43:10 | INFO | No trade call for SOLUSDT: NEUTRAL signal (neutral)
+2025-08-30 14:43:10 | INFO | Price: 200.48
+2025-08-30 14:43:10 | INFO | EMA 5/10/20: 200.73/200.73/200.60
+2025-08-30 14:43:10 | INFO | RSI: 49.5, CCI: 5.7
+2025-08-30 14:43:10 | INFO | ADX: 15.9, Volatility: 0.26%
+2025-08-30 14:43:10 | INFO | Scalp Signal: NEUTRAL
+2025-08-30 14:43:10 | INFO | Overall Signal: NEUTRAL
+2025-08-30 14:43:10 | INFO | Intelligent Leverage: 24x
+2025-08-30 14:43:10 | INFO | No trade call generated
+2025-08-30 14:43:10 | INFO | 
+=== Testing ADAUSDT ===
+2025-08-30 14:43:10 | INFO | Fetched 100 candles for ADAUSDT on 5m timeframe
+2025-08-30 14:43:10 | INFO | All technical indicators calculated successfully
+2025-08-30 14:43:10 | INFO | Intelligent leverage for ADAUSDT: 30x (Vol: 0.22%, ADX: 15.3, Hist Vol: 2.6%, RSI: 40.6)
+2025-08-30 14:43:11 | INFO | Fetched 100 candles for ADAUSDT on 5m timeframe
+2025-08-30 14:43:11 | INFO | All technical indicators calculated successfully
+2025-08-30 14:43:11 | INFO | Fetched 50 candles for ADAUSDT on 5m timeframe
+2025-08-30 14:43:13 | WARNING | Model not trained yet
+2025-08-30 14:43:13 | INFO | ML confidence for BEARISH signal: 0.5000
+2025-08-30 14:43:13 | INFO | Intelligent leverage for ADAUSDT: 30x (Vol: 0.22%, ADX: 15.3, Hist Vol: 2.6%, RSI: 40.6)
+2025-08-30 14:43:13 | INFO | Calculated position size: 1223.690651 ADA with 30x leverage
+2025-08-30 14:43:13 | INFO | Calculated stop loss: 0.82
+2025-08-30 14:43:13 | INFO | Calculated take profit: 0.81
+2025-08-30 14:43:13 | INFO | Generated trade call for ADAUSDT: BEARISH signal with 30x leverage
+2025-08-30 14:43:13 | INFO | Price: 0.82
+2025-08-30 14:43:13 | INFO | EMA 5/10/20: 0.82/0.82/0.82
+2025-08-30 14:43:13 | INFO | RSI: 40.6, CCI: -201.4
+2025-08-30 14:43:13 | INFO | ADX: 15.3, Volatility: 0.22%
+2025-08-30 14:43:13 | INFO | Scalp Signal: NEUTRAL
+2025-08-30 14:43:13 | INFO | Overall Signal: BEARISH
+2025-08-30 14:43:13 | INFO | Intelligent Leverage: 30x
+2025-08-30 14:43:13 | INFO | TRADE CALL: Generated for ADAUSDT
+2025-08-30 14:43:13 | INFO | 
+=== Testing DOTUSDT ===
+2025-08-30 14:43:13 | INFO | Fetched 100 candles for DOTUSDT on 5m timeframe
+2025-08-30 14:43:13 | INFO | All technical indicators calculated successfully
+2025-08-30 14:43:13 | INFO | Intelligent leverage for DOTUSDT: 30x (Vol: 0.22%, ADX: 16.0, Hist Vol: 2.3%, RSI: 45.6)
+2025-08-30 14:43:13 | INFO | Fetched 100 candles for DOTUSDT on 5m timeframe
+2025-08-30 14:43:13 | INFO | All technical indicators calculated successfully
+2025-08-30 14:43:14 | INFO | Fetched 50 candles for DOTUSDT on 5m timeframe
+2025-08-30 14:43:15 | WARNING | Model not trained yet
+2025-08-30 14:43:15 | INFO | ML confidence for BEARISH signal: 0.5000
+2025-08-30 14:43:15 | INFO | Intelligent leverage for DOTUSDT: 30x (Vol: 0.22%, ADX: 16.0, Hist Vol: 2.3%, RSI: 45.6)
+2025-08-30 14:43:15 | INFO | Calculated position size: 265.745416 DOT with 30x leverage
+2025-08-30 14:43:15 | INFO | Calculated stop loss: 3.78
+2025-08-30 14:43:15 | INFO | Calculated take profit: 3.73
+2025-08-30 14:43:15 | INFO | Generated trade call for DOTUSDT: BEARISH signal with 30x leverage
+2025-08-30 14:43:15 | INFO | Price: 3.76
+2025-08-30 14:43:15 | INFO | EMA 5/10/20: 3.77/3.77/3.77
+2025-08-30 14:43:15 | INFO | RSI: 45.6, CCI: -45.5
+2025-08-30 14:43:15 | INFO | ADX: 16.0, Volatility: 0.22%
+2025-08-30 14:43:15 | INFO | Scalp Signal: NEUTRAL
+2025-08-30 14:43:15 | INFO | Overall Signal: BEARISH
+2025-08-30 14:43:15 | INFO | Intelligent Leverage: 30x
+2025-08-30 14:43:15 | INFO | TRADE CALL: Generated for DOTUSDT
+2025-08-30 14:43:15 | INFO | 
+=== Testing AVAXUSDT ===
+2025-08-30 14:43:15 | INFO | Fetched 100 candles for AVAXUSDT on 5m timeframe
+2025-08-30 14:43:15 | INFO | All technical indicators calculated successfully
+2025-08-30 14:43:15 | INFO | Intelligent leverage for AVAXUSDT: 30x (Vol: 0.21%, ADX: 18.2, Hist Vol: 2.6%, RSI: 36.9)
+2025-08-30 14:43:16 | INFO | Fetched 100 candles for AVAXUSDT on 5m timeframe
+2025-08-30 14:43:16 | INFO | All technical indicators calculated successfully
+2025-08-30 14:43:16 | INFO | Fetched 50 candles for AVAXUSDT on 5m timeframe
+2025-08-30 14:43:17 | INFO | Intelligent leverage for AVAXUSDT: 30x (Vol: 0.21%, ADX: 18.2, Hist Vol: 2.6%, RSI: 36.9)
+2025-08-30 14:43:17 | INFO | Calculated position size: 42.311924 AVAX with 30x leverage
+2025-08-30 14:43:17 | INFO | No trade call for AVAXUSDT: NEUTRAL signal (neutral)
+2025-08-30 14:43:17 | INFO | Price: 23.64
+2025-08-30 14:43:17 | INFO | EMA 5/10/20: 23.67/23.70/23.72
+2025-08-30 14:43:17 | INFO | RSI: 36.9, CCI: -150.9
+2025-08-30 14:43:17 | INFO | ADX: 18.2, Volatility: 0.21%
+2025-08-30 14:43:17 | INFO | Scalp Signal: NEUTRAL
+2025-08-30 14:43:17 | INFO | Overall Signal: NEUTRAL
+2025-08-30 14:43:17 | INFO | Intelligent Leverage: 30x
+2025-08-30 14:43:17 | INFO | No trade call generated
+2025-08-30 14:43:17 | INFO | 
+=== Testing MATICUSDT ===
+2025-08-30 14:43:18 | INFO | Fetched 100 candles for MATICUSDT on 5m timeframe
+2025-08-30 14:43:18 | INFO | All technical indicators calculated successfully
+2025-08-30 14:43:18 | INFO | Intelligent leverage for MATICUSDT: 30x (Vol: 0.19%, ADX: 49.0, Hist Vol: 2.3%, RSI: 47.9)
+2025-08-30 14:43:18 | INFO | Fetched 100 candles for MATICUSDT on 5m timeframe
+2025-08-30 14:43:18 | INFO | All technical indicators calculated successfully
+2025-08-30 14:43:19 | INFO | Fetched 50 candles for MATICUSDT on 5m timeframe
+2025-08-30 14:43:19 | ERROR | Error fetching funding rate: binance fetchFundingRate() supports linear and inverse contracts only
+2025-08-30 14:43:20 | ERROR | Error generating trade call for MATICUSDT: '>' not supported between instances of 'NoneType' and 'float'
+2025-08-30 14:43:20 | INFO | Price: 0.38
+2025-08-30 14:43:20 | INFO | EMA 5/10/20: 0.38/0.38/0.38
+2025-08-30 14:43:20 | INFO | RSI: 47.9, CCI: 62.2
+2025-08-30 14:43:20 | INFO | ADX: 49.0, Volatility: 0.19%
+2025-08-30 14:43:20 | INFO | Scalp Signal: NEUTRAL
+2025-08-30 14:43:20 | INFO | Overall Signal: NEUTRAL
+2025-08-30 14:43:20 | INFO | Intelligent Leverage: 30x
+2025-08-30 14:43:20 | INFO | No trade call generated
+2025-08-30 14:43:20 | INFO | 
+=== Testing XRPUSDT ===
+2025-08-30 14:43:20 | INFO | Fetched 100 candles for XRPUSDT on 5m timeframe
+2025-08-30 14:43:20 | INFO | All technical indicators calculated successfully
+2025-08-30 14:43:20 | INFO | Intelligent leverage for XRPUSDT: 28x (Vol: 0.16%, ADX: 19.0, Hist Vol: 1.9%, RSI: 47.9)
+2025-08-30 14:43:21 | INFO | Fetched 100 candles for XRPUSDT on 5m timeframe
+2025-08-30 14:43:21 | INFO | All technical indicators calculated successfully
+2025-08-30 14:43:21 | INFO | Fetched 50 candles for XRPUSDT on 5m timeframe
+2025-08-30 14:43:22 | INFO | Intelligent leverage for XRPUSDT: 28x (Vol: 0.16%, ADX: 19.0, Hist Vol: 1.9%, RSI: 47.9)
+2025-08-30 14:43:22 | INFO | Calculated position size: 356.391889 XRP with 28x leverage
+2025-08-30 14:43:22 | INFO | No trade call for XRPUSDT: NEUTRAL signal (neutral)
+2025-08-30 14:43:22 | INFO | Price: 2.81
+2025-08-30 14:43:22 | INFO | EMA 5/10/20: 2.81/2.81/2.81
+2025-08-30 14:43:22 | INFO | RSI: 47.9, CCI: -43.2
+2025-08-30 14:43:22 | INFO | ADX: 19.0, Volatility: 0.16%
+2025-08-30 14:43:22 | INFO | Scalp Signal: NEUTRAL
+2025-08-30 14:43:22 | INFO | Overall Signal: NEUTRAL
+2025-08-30 14:43:22 | INFO | Intelligent Leverage: 28x
+2025-08-30 14:43:22 | INFO | No trade call generated
+2025-08-30 14:43:22 | INFO | 
+=== Testing LINKUSDT ===
+2025-08-30 14:43:23 | INFO | Fetched 100 candles for LINKUSDT on 5m timeframe
+2025-08-30 14:43:23 | INFO | All technical indicators calculated successfully
+2025-08-30 14:43:23 | INFO | Intelligent leverage for LINKUSDT: 28x (Vol: 0.22%, ADX: 19.2, Hist Vol: 2.6%, RSI: 45.5)
+2025-08-30 14:43:23 | INFO | Fetched 100 candles for LINKUSDT on 5m timeframe
+2025-08-30 14:43:23 | INFO | All technical indicators calculated successfully
+2025-08-30 14:43:23 | INFO | Fetched 50 candles for LINKUSDT on 5m timeframe
+2025-08-30 14:43:25 | INFO | Intelligent leverage for LINKUSDT: 28x (Vol: 0.22%, ADX: 19.2, Hist Vol: 2.6%, RSI: 45.4)
+2025-08-30 14:43:25 | INFO | Calculated position size: 42.912930 LINK with 28x leverage
+2025-08-30 14:43:25 | INFO | No trade call for LINKUSDT: NEUTRAL signal (neutral)
+2025-08-30 14:43:25 | INFO | Price: 23.30
+2025-08-30 14:43:25 | INFO | EMA 5/10/20: 23.33/23.35/23.34
+2025-08-30 14:43:25 | INFO | RSI: 45.5, CCI: -104.4
+2025-08-30 14:43:25 | INFO | ADX: 19.2, Volatility: 0.22%
+2025-08-30 14:43:25 | INFO | Scalp Signal: NEUTRAL
+2025-08-30 14:43:25 | INFO | Overall Signal: NEUTRAL
+2025-08-30 14:43:25 | INFO | Intelligent Leverage: 28x
+2025-08-30 14:43:25 | INFO | No trade call generated
+2025-08-30 14:43:25 | INFO | 
+=== Testing DOGEUSDT ===
+2025-08-30 14:43:25 | INFO | Fetched 100 candles for DOGEUSDT on 5m timeframe
+2025-08-30 14:43:25 | INFO | All technical indicators calculated successfully
+2025-08-30 14:43:25 | INFO | Intelligent leverage for DOGEUSDT: 22x (Vol: 0.20%, ADX: 9.4, Hist Vol: 2.3%, RSI: 40.0)
+2025-08-30 14:43:26 | INFO | Fetched 100 candles for DOGEUSDT on 5m timeframe
+2025-08-30 14:43:26 | INFO | All technical indicators calculated successfully
+2025-08-30 14:43:26 | INFO | Fetched 50 candles for DOGEUSDT on 5m timeframe
+2025-08-30 14:43:27 | INFO | Intelligent leverage for DOGEUSDT: 22x (Vol: 0.20%, ADX: 9.4, Hist Vol: 2.3%, RSI: 40.0)
+2025-08-30 14:43:27 | INFO | Calculated position size: 4655.276756 DOGE with 22x leverage
+2025-08-30 14:43:27 | INFO | No trade call for DOGEUSDT: NEUTRAL signal (neutral)
+2025-08-30 14:43:27 | INFO | Price: 0.21
+2025-08-30 14:43:27 | INFO | EMA 5/10/20: 0.22/0.22/0.22
+2025-08-30 14:43:27 | INFO | RSI: 40.0, CCI: -176.0
+2025-08-30 14:43:27 | INFO | ADX: 9.4, Volatility: 0.20%
+2025-08-30 14:43:27 | INFO | Scalp Signal: NEUTRAL
+2025-08-30 14:43:27 | INFO | Overall Signal: NEUTRAL
+2025-08-30 14:43:27 | INFO | Intelligent Leverage: 22x
+2025-08-30 14:43:27 | INFO | No trade call generated
+2025-08-30 14:43:27 | INFO | 
+=== Testing LTCUSDT ===
+2025-08-30 14:43:28 | INFO | Fetched 100 candles for LTCUSDT on 5m timeframe
+2025-08-30 14:43:28 | INFO | All technical indicators calculated successfully
+2025-08-30 14:43:28 | INFO | Intelligent leverage for LTCUSDT: 30x (Vol: 0.16%, ADX: 16.2, Hist Vol: 1.8%, RSI: 35.6)
+2025-08-30 14:43:28 | INFO | Fetched 100 candles for LTCUSDT on 5m timeframe
+2025-08-30 14:43:28 | INFO | All technical indicators calculated successfully
+2025-08-30 14:43:29 | INFO | Fetched 50 candles for LTCUSDT on 5m timeframe
+2025-08-30 14:43:30 | INFO | Intelligent leverage for LTCUSDT: 30x (Vol: 0.16%, ADX: 16.2, Hist Vol: 1.8%, RSI: 35.6)
+2025-08-30 14:43:30 | INFO | Calculated position size: 9.099181 LTC with 30x leverage
+2025-08-30 14:43:30 | INFO | No trade call for LTCUSDT: NEUTRAL signal (neutral)
+2025-08-30 14:43:30 | INFO | Price: 109.88
+2025-08-30 14:43:30 | INFO | EMA 5/10/20: 110.06/110.16/110.23
+2025-08-30 14:43:30 | INFO | RSI: 35.6, CCI: -213.5
+2025-08-30 14:43:30 | INFO | ADX: 16.2, Volatility: 0.16%
+2025-08-30 14:43:30 | INFO | Scalp Signal: NEUTRAL
+2025-08-30 14:43:30 | INFO | Overall Signal: NEUTRAL
+2025-08-30 14:43:30 | INFO | Intelligent Leverage: 30x
+2025-08-30 14:43:30 | INFO | No trade call generated
+2025-08-30 14:43:30 | INFO | 
+=== Testing BNBUSDT ===
+2025-08-30 14:43:30 | INFO | Fetched 100 candles for BNBUSDT on 5m timeframe
+2025-08-30 14:43:30 | INFO | All technical indicators calculated successfully
+2025-08-30 14:43:30 | INFO | Intelligent leverage for BNBUSDT: 20x (Vol: 0.10%, ADX: 11.7, Hist Vol: 1.2%, RSI: 45.6)
+2025-08-30 14:43:31 | INFO | Fetched 100 candles for BNBUSDT on 5m timeframe
+2025-08-30 14:43:31 | INFO | All technical indicators calculated successfully
+2025-08-30 14:43:31 | INFO | Fetched 50 candles for BNBUSDT on 5m timeframe
+2025-08-30 14:43:32 | INFO | Intelligent leverage for BNBUSDT: 15x (Vol: 0.10%, ADX: 11.7, Hist Vol: 1.2%, RSI: 46.6)
+2025-08-30 14:43:32 | INFO | Calculated position size: 1.165814 BNB with 15x leverage
+2025-08-30 14:43:32 | INFO | No trade call for BNBUSDT: NEUTRAL signal (neutral)
+2025-08-30 14:43:32 | INFO | Price: 857.69
+2025-08-30 14:43:32 | INFO | EMA 5/10/20: 858.28/858.38/858.29
+2025-08-30 14:43:32 | INFO | RSI: 45.6, CCI: -45.2
+2025-08-30 14:43:32 | INFO | ADX: 11.7, Volatility: 0.10%
+2025-08-30 14:43:32 | INFO | Scalp Signal: NEUTRAL
+2025-08-30 14:43:32 | INFO | Overall Signal: NEUTRAL
+2025-08-30 14:43:32 | INFO | Intelligent Leverage: 20x
+2025-08-30 14:43:32 | INFO | No trade call generated
+2025-08-30 14:43:32 | INFO | 
+=== Testing ATOMUSDT ===
+2025-08-30 14:43:33 | INFO | Fetched 100 candles for ATOMUSDT on 5m timeframe
+2025-08-30 14:43:33 | INFO | All technical indicators calculated successfully
+2025-08-30 14:43:33 | INFO | Intelligent leverage for ATOMUSDT: 30x (Vol: 0.21%, ADX: 16.5, Hist Vol: 2.2%, RSI: 39.3)
+2025-08-30 14:43:33 | INFO | Fetched 100 candles for ATOMUSDT on 5m timeframe
+2025-08-30 14:43:33 | INFO | All technical indicators calculated successfully
+2025-08-30 14:43:33 | INFO | Fetched 50 candles for ATOMUSDT on 5m timeframe
+2025-08-30 14:43:35 | WARNING | Model not trained yet
+2025-08-30 14:43:35 | INFO | ML confidence for BEARISH signal: 0.5000
+2025-08-30 14:43:35 | INFO | Intelligent leverage for ATOMUSDT: 30x (Vol: 0.21%, ADX: 16.5, Hist Vol: 2.2%, RSI: 39.3)
+2025-08-30 14:43:35 | INFO | Calculated position size: 223.563604 ATOM with 30x leverage
+2025-08-30 14:43:35 | INFO | Calculated stop loss: 4.49
+2025-08-30 14:43:35 | INFO | Calculated take profit: 4.44
+2025-08-30 14:43:35 | INFO | Generated trade call for ATOMUSDT: BEARISH signal with 30x leverage
+2025-08-30 14:43:35 | INFO | Price: 4.47
+2025-08-30 14:43:35 | INFO | EMA 5/10/20: 4.48/4.48/4.49
+2025-08-30 14:43:35 | INFO | RSI: 39.3, CCI: -143.3
+2025-08-30 14:43:35 | INFO | ADX: 16.5, Volatility: 0.21%
+2025-08-30 14:43:35 | INFO | Scalp Signal: NEUTRAL
+2025-08-30 14:43:35 | INFO | Overall Signal: BEARISH
+2025-08-30 14:43:35 | INFO | Intelligent Leverage: 30x
+2025-08-30 14:43:35 | INFO | TRADE CALL: Generated for ATOMUSDT
+2025-08-30 14:43:35 | INFO | 
+=== Scalping Strategy Test Complete ===

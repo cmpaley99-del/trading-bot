@@ -1,0 +1,32 @@
+2025-08-30 13:24:12 | INFO | Starting Telegram retry mechanism tests...
+2025-08-30 13:24:12 | INFO | Testing Telegram retry mechanism...
+2025-08-30 13:24:12 | INFO | Telegram Bot initialized
+2025-08-30 13:24:12 | INFO | Test 1: Successful message on first attempt
+2025-08-30 13:25:11 | INFO | Starting Telegram retry mechanism tests...
+2025-08-30 13:25:11 | INFO | Testing Telegram retry mechanism...
+2025-08-30 13:25:11 | INFO | Telegram Bot initialized
+2025-08-30 13:25:11 | INFO | Test 1: Successful message on first attempt
+2025-08-30 13:25:11 | INFO | ✅ Test 1 passed: Message sent on first attempt
+2025-08-30 13:25:11 | INFO | Test 2: Success after retry on pool timeout
+2025-08-30 13:25:11 | ERROR | Error in send_message: Pool timeout: All connections in the connection pool are occupied
+2025-08-30 13:25:41 | INFO | Starting Telegram retry mechanism tests...
+2025-08-30 13:25:41 | INFO | Testing Telegram retry mechanism...
+2025-08-30 13:25:41 | INFO | Telegram Bot initialized
+2025-08-30 13:25:41 | INFO | Test 1: Successful message on first attempt
+2025-08-30 13:25:41 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-30 13:25:41 | INFO | ✅ Test 1 passed: Message sent on first attempt
+2025-08-30 13:25:41 | INFO | Test 2: Success after retry on pool timeout
+2025-08-30 13:25:41 | WARNING | Telegram connection pool timeout (attempt 1/3), retrying in 1s
+2025-08-30 13:25:42 | INFO | Message sent to Telegram successfully on attempt 2
+2025-08-30 13:25:42 | INFO | ✅ Test 2 passed: Message sent after retry
+2025-08-30 13:25:42 | INFO | Test 3: Failure after all retries
+2025-08-30 13:25:42 | WARNING | Telegram connection pool timeout (attempt 1/3), retrying in 1s
+2025-08-30 13:25:43 | WARNING | Telegram connection pool timeout (attempt 2/3), retrying in 2s
+2025-08-30 13:25:45 | ERROR | Telegram connection pool timeout failed after 3 attempts: Pool timeout: All connections in the connection pool are occupied
+2025-08-30 13:25:45 | INFO | ✅ Test 3 passed: Failed after max retries
+2025-08-30 13:25:45 | INFO | Test 4: Success on different error type
+2025-08-30 13:25:45 | WARNING | Telegram error (attempt 1/3): Some other error, retrying in 1s
+2025-08-30 13:25:46 | INFO | Message sent to Telegram successfully on attempt 2
+2025-08-30 13:25:46 | INFO | ✅ Test 4 passed: Message sent after retry on different error
+2025-08-30 13:25:46 | INFO | All Telegram retry tests passed! ✅
+2025-08-30 13:25:46 | INFO | Telegram retry mechanism tests completed!

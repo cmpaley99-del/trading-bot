@@ -1,0 +1,364 @@
+2025-08-30 13:27:59 | INFO | Starting backtesting framework tests...
+2025-08-30 13:27:59 | INFO | Testing backtester initialization...
+2025-08-30 13:27:59 | INFO | ✅ Backtester initialization successful
+2025-08-30 13:27:59 | INFO | Running functional backtesting test...
+2025-08-30 13:27:59 | INFO | Testing backtesting framework...
+2025-08-30 13:27:59 | INFO | Running backtest for pairs: ['BTCUSDT', 'ETHUSDT', 'SOLUSDT']
+2025-08-30 13:27:59 | INFO | Date range: 2025-08-23 to 2025-08-30
+2025-08-30 13:27:59 | INFO | Starting backtest from 2025-08-23 13:27:59.220432 to 2025-08-30 13:27:59.220432 for pairs: ['BTCUSDT', 'ETHUSDT', 'SOLUSDT']
+2025-08-30 13:27:59 | INFO | Loading historical data for 3 pairs from 2025-08-23 13:27:59.220432 to 2025-08-30 13:27:59.220432
+2025-08-30 13:27:59 | INFO | Fetched 1000 candles for BTCUSDT on 5m timeframe
+2025-08-30 13:27:59 | INFO | Loaded 1000 candles for BTCUSDT
+2025-08-30 13:28:00 | INFO | Fetched 1000 candles for ETHUSDT on 5m timeframe
+2025-08-30 13:28:00 | INFO | Loaded 1000 candles for ETHUSDT
+2025-08-30 13:28:00 | INFO | Fetched 1000 candles for SOLUSDT on 5m timeframe
+2025-08-30 13:28:00 | INFO | Loaded 1000 candles for SOLUSDT
+2025-08-30 13:28:00 | ERROR | ❌ Backtest error: 'RiskManagement' object has no attribute 'calculate_leverage'
+2025-08-30 13:28:00 | ERROR | ❌ Backtesting tests failed!
+2025-08-30 13:28:00 | INFO | Backtesting framework tests completed!
+2025-08-30 13:28:31 | INFO | Starting backtesting framework tests...
+2025-08-30 13:28:31 | INFO | Testing backtester initialization...
+2025-08-30 13:28:31 | INFO | ✅ Backtester initialization successful
+2025-08-30 13:28:31 | INFO | Running functional backtesting test...
+2025-08-30 13:28:31 | INFO | Testing backtesting framework...
+2025-08-30 13:28:31 | INFO | Running backtest for pairs: ['BTCUSDT', 'ETHUSDT', 'SOLUSDT']
+2025-08-30 13:28:31 | INFO | Date range: 2025-08-23 to 2025-08-30
+2025-08-30 13:28:31 | INFO | Starting backtest from 2025-08-23 13:28:31.785388 to 2025-08-30 13:28:31.785388 for pairs: ['BTCUSDT', 'ETHUSDT', 'SOLUSDT']
+2025-08-30 13:28:31 | INFO | Loading historical data for 3 pairs from 2025-08-23 13:28:31.785388 to 2025-08-30 13:28:31.785388
+2025-08-30 13:28:32 | INFO | Fetched 1000 candles for BTCUSDT on 5m timeframe
+2025-08-30 13:28:32 | INFO | Loaded 1000 candles for BTCUSDT
+2025-08-30 13:28:32 | INFO | Fetched 1000 candles for ETHUSDT on 5m timeframe
+2025-08-30 13:28:32 | INFO | Loaded 1000 candles for ETHUSDT
+2025-08-30 13:28:32 | INFO | Fetched 1000 candles for SOLUSDT on 5m timeframe
+2025-08-30 13:28:33 | INFO | Loaded 1000 candles for SOLUSDT
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.009004 BTC with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.009009 BTC with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.009029 BTC with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.009045 BTC with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.009048 BTC with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.008996 BTC with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.008997 BTC with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.008988 BTC with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.008968 BTC with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.008908 BTC with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.008905 BTC with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.009001 BTC with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.008989 BTC with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.008859 BTC with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.008828 BTC with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.008864 BTC with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.008848 BTC with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.008836 BTC with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.008850 BTC with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.008875 BTC with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.008864 BTC with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.008908 BTC with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.008881 BTC with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.008931 BTC with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.008918 BTC with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.008888 BTC with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.008903 BTC with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.008936 BTC with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.008975 BTC with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.009112 BTC with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.009110 BTC with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.009106 BTC with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.009108 BTC with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.009102 BTC with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.009042 BTC with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.009059 BTC with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.009216 BTC with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.009210 BTC with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.009204 BTC with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.009233 BTC with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.009281 BTC with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.009230 BTC with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.009240 BTC with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.009223 BTC with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.009230 BTC with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.009240 BTC with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.009231 BTC with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.009242 BTC with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.009222 BTC with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.009198 BTC with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.009204 BTC with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.218544 ETH with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.217462 ETH with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.217509 ETH with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.217933 ETH with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.217720 ETH with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.217925 ETH with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.217155 ETH with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.218336 ETH with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.215959 ETH with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.215760 ETH with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.215614 ETH with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.217607 ETH with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.221153 ETH with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.222201 ETH with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.221323 ETH with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.219854 ETH with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.219039 ETH with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.218993 ETH with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.217908 ETH with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.217968 ETH with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.217298 ETH with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.218019 ETH with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.217736 ETH with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.217669 ETH with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.217514 ETH with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.221406 ETH with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.221252 ETH with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.223839 ETH with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.223269 ETH with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.224029 ETH with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.224044 ETH with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.224350 ETH with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.223354 ETH with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.222717 ETH with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.223401 ETH with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.223534 ETH with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.223226 ETH with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.231754 ETH with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.230244 ETH with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.231535 ETH with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.230198 ETH with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.230469 ETH with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.231696 ETH with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.231226 ETH with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.229148 ETH with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.229303 ETH with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.231907 ETH with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.231955 ETH with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.229432 ETH with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.229400 ETH with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.227583 ETH with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.226959 ETH with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.227084 ETH with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.227224 ETH with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.227716 ETH with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.227695 ETH with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.227780 ETH with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.227653 ETH with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.227355 ETH with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.227867 ETH with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.227689 ETH with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.227827 ETH with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.229979 ETH with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.229780 ETH with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.229138 ETH with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 0.229293 ETH with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 4.941444 SOL with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 4.905568 SOL with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 4.916179 SOL with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 4.878525 SOL with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 4.731040 SOL with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 4.788355 SOL with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 4.836993 SOL with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 4.848955 SOL with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 4.866891 SOL with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 4.893086 SOL with 10x leverage
+2025-08-30 13:28:33 | INFO | Calculated position size: 4.894523 SOL with 10x leverage
+2025-08-30 13:28:34 | INFO | Calculated position size: 4.931696 SOL with 10x leverage
+2025-08-30 13:28:34 | INFO | Calculated position size: 4.904124 SOL with 10x leverage
+2025-08-30 13:28:34 | INFO | Calculated position size: 4.809542 SOL with 10x leverage
+2025-08-30 13:28:34 | INFO | Calculated position size: 4.719653 SOL with 10x leverage
+2025-08-30 13:28:34 | INFO | Calculated position size: 4.760091 SOL with 10x leverage
+2025-08-30 13:28:34 | INFO | Calculated position size: 4.714313 SOL with 10x leverage
+2025-08-30 13:28:34 | INFO | Calculated position size: 4.694175 SOL with 10x leverage
+2025-08-30 13:28:34 | INFO | Calculated position size: 4.645329 SOL with 10x leverage
+2025-08-30 13:28:34 | INFO | Calculated position size: 4.668316 SOL with 10x leverage
+2025-08-30 13:28:34 | INFO | Calculated position size: 4.756921 SOL with 10x leverage
+2025-08-30 13:28:34 | INFO | Calculated position size: 4.703669 SOL with 10x leverage
+2025-08-30 13:28:34 | INFO | Calculated position size: 4.796853 SOL with 10x leverage
+2025-08-30 13:28:34 | INFO | Calculated position size: 4.844022 SOL with 10x leverage
+2025-08-30 13:28:34 | INFO | Calculated position size: 4.778973 SOL with 10x leverage
+2025-08-30 13:28:34 | INFO | Calculated position size: 4.708098 SOL with 10x leverage
+2025-08-30 13:28:34 | INFO | Calculated position size: 4.719875 SOL with 10x leverage
+2025-08-30 13:28:34 | INFO | Calculated position size: 4.767808 SOL with 10x leverage
+2025-08-30 13:28:34 | INFO | Calculated position size: 4.808848 SOL with 10x leverage
+2025-08-30 13:28:34 | INFO | Calculated position size: 4.880429 SOL with 10x leverage
+2025-08-30 13:28:34 | INFO | Calculated position size: 4.925138 SOL with 10x leverage
+2025-08-30 13:28:34 | INFO | Calculated position size: 4.958104 SOL with 10x leverage
+2025-08-30 13:28:34 | INFO | Calculated position size: 4.955893 SOL with 10x leverage
+2025-08-30 13:28:34 | INFO | Calculated position size: 4.935347 SOL with 10x leverage
+2025-08-30 13:28:34 | INFO | Calculated position size: 4.868075 SOL with 10x leverage
+2025-08-30 13:28:34 | INFO | Calculated position size: 4.871870 SOL with 10x leverage
+2025-08-30 13:28:34 | INFO | Calculated position size: 4.933399 SOL with 10x leverage
+2025-08-30 13:28:34 | INFO | Calculated position size: 4.931453 SOL with 10x leverage
+2025-08-30 13:28:34 | INFO | Calculated position size: 4.924410 SOL with 10x leverage
+2025-08-30 13:28:34 | INFO | Calculated position size: 5.000250 SOL with 10x leverage
+2025-08-30 13:28:34 | INFO | Calculated position size: 5.033979 SOL with 10x leverage
+2025-08-30 13:28:34 | INFO | Backtest completed. Final portfolio value: $2000.06
+2025-08-30 13:28:34 | INFO | ✅ Backtest completed successfully
+2025-08-30 13:28:34 | INFO | Backtest results saved to test_backtest_results.json
+2025-08-30 13:28:34 | INFO | ✅ Backtest results saved to test_backtest_results.json
+2025-08-30 13:28:34 | INFO | ✅ All backtesting tests passed!
+2025-08-30 13:28:34 | INFO | Backtesting framework tests completed!
+2025-08-30 15:01:59 | INFO | Starting backtesting framework tests...
+2025-08-30 15:01:59 | INFO | Testing backtester initialization...
+2025-08-30 15:01:59 | INFO | ✅ Backtester initialization successful
+2025-08-30 15:01:59 | INFO | Running functional backtesting test...
+2025-08-30 15:02:00 | INFO | Testing backtesting framework...
+2025-08-30 15:02:00 | INFO | Running backtest for pairs: ['BTCUSDT', 'ETHUSDT', 'SOLUSDT']
+2025-08-30 15:02:00 | INFO | Date range: 2025-08-23 to 2025-08-30
+2025-08-30 15:02:00 | INFO | Starting backtest from 2025-08-23 15:02:00.299051 to 2025-08-30 15:02:00.299711 for pairs: ['BTCUSDT', 'ETHUSDT', 'SOLUSDT']
+2025-08-30 15:02:00 | INFO | Loading historical data for 3 pairs from 2025-08-23 15:02:00.299051 to 2025-08-30 15:02:00.299711
+2025-08-30 15:02:00 | INFO | Fetched 1000 candles for BTCUSDT on 5m timeframe
+2025-08-30 15:02:00 | INFO | Loaded 1000 candles for BTCUSDT
+2025-08-30 15:02:01 | INFO | Fetched 1000 candles for ETHUSDT on 5m timeframe
+2025-08-30 15:02:01 | INFO | Loaded 1000 candles for ETHUSDT
+2025-08-30 15:02:01 | INFO | Fetched 1000 candles for SOLUSDT on 5m timeframe
+2025-08-30 15:02:01 | INFO | Loaded 1000 candles for SOLUSDT
+2025-08-30 15:02:01 | INFO | Calculated position size: 0.008986 BTC with 10x leverage
+2025-08-30 15:02:01 | INFO | Calculated position size: 0.008993 BTC with 10x leverage
+2025-08-30 15:02:01 | INFO | Calculated position size: 0.008934 BTC with 10x leverage
+2025-08-30 15:02:01 | INFO | Calculated position size: 0.008935 BTC with 10x leverage
+2025-08-30 15:02:01 | INFO | Calculated position size: 0.008915 BTC with 10x leverage
+2025-08-30 15:02:01 | INFO | Calculated position size: 0.008896 BTC with 10x leverage
+2025-08-30 15:02:01 | INFO | Calculated position size: 0.008970 BTC with 10x leverage
+2025-08-30 15:02:01 | INFO | Calculated position size: 0.008993 BTC with 10x leverage
+2025-08-30 15:02:01 | INFO | Calculated position size: 0.008997 BTC with 10x leverage
+2025-08-30 15:02:01 | INFO | Calculated position size: 0.008966 BTC with 10x leverage
+2025-08-30 15:02:01 | INFO | Calculated position size: 0.008973 BTC with 10x leverage
+2025-08-30 15:02:01 | INFO | Calculated position size: 0.008945 BTC with 10x leverage
+2025-08-30 15:02:01 | INFO | Calculated position size: 0.008939 BTC with 10x leverage
+2025-08-30 15:02:01 | INFO | Calculated position size: 0.008849 BTC with 10x leverage
+2025-08-30 15:02:01 | INFO | Calculated position size: 0.008851 BTC with 10x leverage
+2025-08-30 15:02:01 | INFO | Calculated position size: 0.008860 BTC with 10x leverage
+2025-08-30 15:02:01 | INFO | Calculated position size: 0.008886 BTC with 10x leverage
+2025-08-30 15:02:01 | INFO | Calculated position size: 0.008906 BTC with 10x leverage
+2025-08-30 15:02:01 | INFO | Calculated position size: 0.008914 BTC with 10x leverage
+2025-08-30 15:02:01 | INFO | Calculated position size: 0.008908 BTC with 10x leverage
+2025-08-30 15:02:01 | INFO | Calculated position size: 0.008941 BTC with 10x leverage
+2025-08-30 15:02:01 | INFO | Calculated position size: 0.008914 BTC with 10x leverage
+2025-08-30 15:02:01 | INFO | Calculated position size: 0.008896 BTC with 10x leverage
+2025-08-30 15:02:01 | INFO | Calculated position size: 0.008898 BTC with 10x leverage
+2025-08-30 15:02:01 | INFO | Calculated position size: 0.008975 BTC with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.008955 BTC with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.008959 BTC with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.008959 BTC with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.008984 BTC with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.009088 BTC with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.009114 BTC with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.009094 BTC with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.009087 BTC with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.009040 BTC with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.009214 BTC with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.009229 BTC with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.009225 BTC with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.009265 BTC with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.009236 BTC with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.009257 BTC with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.009260 BTC with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.009219 BTC with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.009219 BTC with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.009236 BTC with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.009245 BTC with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.009211 BTC with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.009219 BTC with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.009209 BTC with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.009213 BTC with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.009193 BTC with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.009203 BTC with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.218408 ETH with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.217647 ETH with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.217800 ETH with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.216932 ETH with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.216745 ETH with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.217349 ETH with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.216392 ETH with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.215525 ETH with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.215069 ETH with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.216461 ETH with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.219347 ETH with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.222223 ETH with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.221638 ETH with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.221495 ETH with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.219044 ETH with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.218382 ETH with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.218211 ETH with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.218850 ETH with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.223524 ETH with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.223265 ETH with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.223103 ETH with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.224455 ETH with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.222914 ETH with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.222717 ETH with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.224569 ETH with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.223047 ETH with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.223802 ETH with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.227769 ETH with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.228217 ETH with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.228361 ETH with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.229494 ETH with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.229942 ETH with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.229595 ETH with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.230176 ETH with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.227336 ETH with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.232713 ETH with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.233616 ETH with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.231754 ETH with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.231691 ETH with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.231168 ETH with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.232072 ETH with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.229674 ETH with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.229215 ETH with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.229801 ETH with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.229417 ETH with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.227517 ETH with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.227827 ETH with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.227794 ETH with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.229340 ETH with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 0.229253 ETH with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 4.966970 SOL with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 4.936078 SOL with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 4.894044 SOL with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 4.859086 SOL with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 4.826022 SOL with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 4.753529 SOL with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 4.829052 SOL with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 4.822066 SOL with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 4.840974 SOL with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 4.822298 SOL with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 4.788813 SOL with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 4.720990 SOL with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 4.742033 SOL with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 4.722773 SOL with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 4.735745 SOL with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 4.703669 SOL with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 4.703226 SOL with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 4.674645 SOL with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 4.762812 SOL with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 4.729027 SOL with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 4.692633 SOL with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 4.683183 SOL with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 4.653760 SOL with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 4.646192 SOL with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 4.787438 SOL with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 4.801690 SOL with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 4.819974 SOL with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 4.804228 SOL with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 4.720767 SOL with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 4.733056 SOL with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 4.763266 SOL with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 4.785147 SOL with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 4.823229 SOL with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 4.927322 SOL with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 4.922956 SOL with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 4.913763 SOL with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 4.943887 SOL with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 4.894763 SOL with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 4.914729 SOL with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 4.924653 SOL with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 4.860267 SOL with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 5.030940 SOL with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 4.982065 SOL with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 4.970426 SOL with 10x leverage
+2025-08-30 15:02:02 | INFO | Calculated position size: 4.974629 SOL with 10x leverage
+2025-08-30 15:02:02 | INFO | Backtest completed. Final portfolio value: $25999.96
+2025-08-30 15:02:02 | INFO | ✅ Backtest completed successfully
+2025-08-30 15:02:02 | INFO | Backtest results saved to test_backtest_results.json
+2025-08-30 15:02:02 | INFO | ✅ Backtest results saved to test_backtest_results.json
+2025-08-30 15:02:02 | INFO | ✅ All backtesting tests passed!
+2025-08-30 15:02:02 | INFO | Backtesting framework tests completed!

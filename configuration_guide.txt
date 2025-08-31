@@ -1,0 +1,61 @@
+# 🔧 CONFIGURATION GUIDE - What to put in your .env file
+
+Open your .env file and replace the placeholder values with your actual credentials:
+
+## TELEGRAM CONFIGURATION
+TELEGRAM_BOT_TOKEN=your_actual_bot_token_here
+TELEGRAM_CHAT_ID=your_actual_chat_id_here
+
+## BINANCE API CONFIGURATION  
+BINANCE_API_KEY=your_actual_binance_api_key_here
+BINANCE_API_SECRET=your_actual_binance_api_secret_here
+
+## TRADING PARAMETERS (You can keep these defaults)
+TRADING_PAIR=BTCUSDT
+LEVERAGE=10
+RISK_PERCENTAGE=2
+ANALYSIS_INTERVAL_MINUTES=5
+
+## TECHNICAL ANALYSIS SETTINGS (You can keep these defaults)
+RSI_PERIOD=14
+MACD_FAST=12
+MACD_SLOW=26
+MACD_SIGNAL=9
+BB_PERIOD=20
+BB_STD=2
+
+## RISK MANAGEMENT (You can keep these defaults)
+MAX_POSITION_SIZE_USDT=1000
+STOP_LOSS_PERCENTAGE=2
+TAKE_PROFIT_PERCENTAGE=4
+TRAILING_STOP_PERCENTAGE=1
+
+# 🚀 HOW TO GET YOUR CREDENTIALS:
+
+## 1. TELEGRAM BOT TOKEN:
+- Message @BotFather on Telegram
+- Send command: /newbot
+- Follow instructions to create your bot
+- Copy the token provided
+
+## 2. TELEGRAM CHAT ID:
+- Message your new bot
+- Visit: https://api.telegram.org/botYOUR_TOKEN/getUpdates
+- Replace YOUR_TOKEN with your actual token
+- Look for "chat":{"id":123456789} in the response
+- Copy the number (123456789 in this example)
+
+## 3. BINANCE API KEYS:
+- Login to Binance.com
+- Go to API Management
+- Create new API key
+- Enable "Futures Trading" permission
+- Copy API Key and Secret
+
+# ⚠️ SECURITY NOTE:
+- NEVER share your .env file with anyone
+- Keep your API keys secure
+- Use restricted permissions on Binance
+
+# ✅ AFTER CONFIGURATION:
+Run the bot with: python main.py

@@ -1,0 +1,40 @@
+{
+  "trading_pairs": [
+    "BTCUSDT",
+    "ETHUSDT",
+    "SOLUSDT",
+    "ADAUSDT",
+    "DOTUSDT",
+    "AVAXUSDT",
+    "MATICUSDT",
+    "XRPUSDT",
+    "LINKUSDT",
+    "DOGEUSDT",
+    "LTCUSDT",
+    "BNBUSDT",
+    "ATOMUSDT"
+  ],
+  "default_leverage": 10,
+  "analysis_interval": 5,
+  "max_workers": 4,
+  "cache_size": 100,
+  "database_path": "trading_bot.db",
+  "trading_config": {
+    "risk_percentage": 2.0,
+    "max_position_size": 1000.0,
+    "stop_loss_percentage": 2.0,
+    "take_profit_percentage": 4.0,
+    "trailing_stop_percentage": 1.0
+  },
+  "technical_config": {
+    "rsi_period": 14,
+    "macd_fast": 12,
+    "macd_slow": 26,
+    "macd_signal": 9,
+    "bb_period": 20,
+    "bb_std": 2.0,
+    "atr_period": 14,
+    "stoch_k": 14,
+    "stoch_d": 3
+  }
+}

@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Trading Bot Dashboard</title>
+    <link rel="stylesheet" href="/static/styles.css" />
+    <script src="https://cdn.socket.io/4.4.1/socket.io.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns"></script>
+</head>
+<body>
+    <header>
+        <h1>Trading Bot Real-time Dashboard</h1>
+        <div id="system-info">
+            <span id="connection-status" class="status-connected">● Connected</span>
+            <span id="last-update">Last update: --:--:--</span>
+        </div>
+    </header>
+    <main>
+        <section id="system-status">
+            <h2>System Status</h2>
+            <div class="status-grid">
+                <div class="status-item">
+                    <h3>Bot Status</h3>
+                    <p id="status-text">Loading...</p>
+                </div>
+                <div class="status-item">
+                    <h3>Active Signals</h3>
+                    <p id="active-signals">0</p>
+                </div>
+                <div class="status-item">
+                    <h3>Success Rate</h3>
+                    <p id="success-rate">--%</p>
+                </div>
+                <div class="status-item">
+                    <h3>Total P&L</h3>
+                    <p id="total-pnl">$0.00</p>
+                </div>
+            </div>
+        </section>
+
+        <section id="market-overview">
+            <h2>Market Overview</h2>
+            <div class="chart-container">
+                <canvas id="priceChart"></canvas>
+            </div>
+        </section>
+
+        <section id="market-data">
+            <h2>Market Data</h2>
+            <div class="market-grid">
+                <div class="market-table-container">
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>Pair</th>
+                                <th>Price</th>
+                                <th>24h Change</th>
+                                <th>24h Volume</th>
+                                <th>Funding Rate</th>
+                                <th>Signal</th>
+                            </tr>
+                        </thead>
+                        <tbody id="market-data-body">
+                        </tbody>
+                    </table>
+                </div>
+                <div class="market-chart-container">
+                    <canvas id="volumeChart"></canvas>
+                </div>
+            </div>
+        </section>
+
+        <section id="performance">
+            <h2>Performance Analytics</h2>
+            <div class="performance-grid">
+                <div class="performance-chart">
+                    <canvas id="performanceChart"></canvas>
+                </div>
+                <div class="performance-metrics">
+                    <h3>Key Metrics</h3>
+                    <ul id="performance-list">
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <section id="signals">
+            <h2>Recent Signals & Trades</h2>
+            <div class="signals-container">
+                <div class="signals-list">
+                    <h3>Signal History</h3>
+                    <ul id="signals-list">
+                    </ul>
+                </div>
+                <div class="signal-chart">
+                    <canvas id="signalChart"></canvas>
+                </div>
+            </div>
+        </section>
+
+        <section id="anomalies">
+            <h2>Anomaly Detection Alerts</h2>
+            <div class="anomaly-controls">
+                <button id="scan-anomalies-btn" class="btn btn-warning">Scan Anomalies Now</button>
+                <button id="clear-anomalies-btn" class="btn btn-secondary">Clear Anomalies</button>
+                <div class="anomaly-summary" id="anomaly-summary">
+                    <div class="summary-stats">
+                        <span class="total-anomalies">Total: 0</span>
+                        <span class="high-severity">High: 0</span>
+                        <span class="critical-severity">Critical: 0</span>
+                    </div>
+                </div>
+            </div>
+            <ul id="anomaly-list">
+                <li class="no-anomalies">No anomalies detected.</li>
+            </ul>
+        </section>
+
+        <section id="controls">
+            <h2>Manual Controls</h2>
+            <div class="control-buttons">
+                <button id="send-signal-btn" class="btn btn-primary">Send Manual Signal</button>
+                <button id="run-backtest-btn" class="btn btn-secondary">Run Backtest</button>
+                <button id="refresh-data-btn" class="btn btn-info">Refresh Data</button>
+            </div>
+            <div id="manual-signal-form" class="hidden">
+                <h3>Manual Signal</h3>
+                <form id="signal-form">
+                    <select id="manual-pair" required>
+                        <option value="">Select Pair</option>
+                    </select>
+                    <select id="manual-signal-type" required>
+                        <option value="BULLISH">BULLISH</option>
+                        <option value="BEARISH">BEARISH</option>
+                    </select>
+                    <button type="submit" class="btn btn-success">Send Signal</button>
+                </form>
+            </div>
+        </section>
+    </main>
+
+    <!-- Alert Modal -->
+    <div id="alert-modal" class="modal hidden">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h3 id="alert-title">Alert</h3>
+            <p id="alert-message"></p>
+        </div>
+    </div>
+
+    <script src="/static/dashboard.js"></script>
+</body>
+</html>

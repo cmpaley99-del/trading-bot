@@ -1,0 +1,1183 @@
+{
+  "performance_metrics": {
+    "total_return": 159.99957890390004,
+    "total_trades": 146,
+    "win_rate": 55.47945205479452,
+    "max_drawdown": 30.303070315463398,
+    "sharpe_ratio": 2.200388353348302,
+    "profit_factor": 1.2461525308424382,
+    "final_portfolio_value": 25999.957890390004,
+    "initial_balance": 10000
+  },
+  "trades": [
+    {
+      "pair": "BTCUSDT",
+      "type": "BUY",
+      "price": 111288.4,
+      "size": 0.008986,
+      "timestamp": "2025-08-27 12:55:00",
+      "portfolio_value": 10000
+    },
+    {
+      "pair": "BTCUSDT",
+      "type": "SELL",
+      "price": 111203.5,
+      "size": 0.008993,
+      "timestamp": "2025-08-27 13:35:00",
+      "portfolio_value": 8999.9624376
+    },
+    {
+      "pair": "BTCUSDT",
+      "type": "SELL",
+      "price": 111932.8,
+      "size": 0.008934,
+      "timestamp": "2025-08-27 17:00:00",
+      "portfolio_value": 10000.0155131
+    },
+    {
+      "pair": "BTCUSDT",
+      "type": "BUY",
+      "price": 111919.3,
+      "size": 0.008935,
+      "timestamp": "2025-08-27 17:10:00",
+      "portfolio_value": 11000.023148299999
+    },
+    {
+      "pair": "BTCUSDT",
+      "type": "SELL",
+      "price": 112168.7,
+      "size": 0.008915,
+      "timestamp": "2025-08-27 17:20:00",
+      "portfolio_value": 10000.0242028
+    },
+    {
+      "pair": "BTCUSDT",
+      "type": "SELL",
+      "price": 112412.2,
+      "size": 0.008896,
+      "timestamp": "2025-08-27 18:10:00",
+      "portfolio_value": 11000.008163299999
+    },
+    {
+      "pair": "BTCUSDT",
+      "type": "BUY",
+      "price": 111480.7,
+      "size": 0.00897,
+      "timestamp": "2025-08-27 21:55:00",
+      "portfolio_value": 12000.0270945
+    },
+    {
+      "pair": "BTCUSDT",
+      "type": "BUY",
+      "price": 111194.4,
+      "size": 0.008993,
+      "timestamp": "2025-08-27 22:00:00",
+      "portfolio_value": 11000.045215499998
+    },
+    {
+      "pair": "BTCUSDT",
+      "type": "SELL",
+      "price": 111151.9,
+      "size": 0.008997,
+      "timestamp": "2025-08-27 23:50:00",
+      "portfolio_value": 10000.073976299998
+    },
+    {
+      "pair": "BTCUSDT",
+      "type": "SELL",
+      "price": 111530.1,
+      "size": 0.008966,
+      "timestamp": "2025-08-28 02:10:00",
+      "portfolio_value": 11000.107620599998
+    },
+    {
+      "pair": "BTCUSDT",
+      "type": "BUY",
+      "price": 111442.4,
+      "size": 0.008973,
+      "timestamp": "2025-08-28 02:55:00",
+      "portfolio_value": 12000.086497199998
+    },
+    {
+      "pair": "BTCUSDT",
+      "type": "BUY",
+      "price": 111795.1,
+      "size": 0.008945,
+      "timestamp": "2025-08-28 03:15:00",
+      "portfolio_value": 11000.113841999999
+    },
+    {
+      "pair": "BTCUSDT",
+      "type": "SELL",
+      "price": 111866.2,
+      "size": 0.008939,
+      "timestamp": "2025-08-28 03:45:00",
+      "portfolio_value": 10000.106672499998
+    },
+    {
+      "pair": "BTCUSDT",
+      "type": "SELL",
+      "price": 113008.0,
+      "size": 0.008849,
+      "timestamp": "2025-08-28 08:50:00",
+      "portfolio_value": 11000.078634299998
+    },
+    {
+      "pair": "BTCUSDT",
+      "type": "BUY",
+      "price": 112979.5,
+      "size": 0.008851,
+      "timestamp": "2025-08-28 09:10:00",
+      "portfolio_value": 12000.086426299998
+    },
+    {
+      "pair": "BTCUSDT",
+      "type": "BUY",
+      "price": 112867.1,
+      "size": 0.00886,
+      "timestamp": "2025-08-28 14:05:00",
+      "portfolio_value": 11000.104871799998
+    },
+    {
+      "pair": "BTCUSDT",
+      "type": "SELL",
+      "price": 112532.9,
+      "size": 0.008886,
+      "timestamp": "2025-08-28 15:40:00",
+      "portfolio_value": 10000.102365799998
+    },
+    {
+      "pair": "BTCUSDT",
+      "type": "BUY",
+      "price": 112283.2,
+      "size": 0.008906,
+      "timestamp": "2025-08-28 16:55:00",
+      "portfolio_value": 11000.069715199998
+    },
+    {
+      "pair": "BTCUSDT",
+      "type": "SELL",
+      "price": 112186.2,
+      "size": 0.008914,
+      "timestamp": "2025-08-28 17:05:00",
+      "portfolio_value": 10000.075535999997
+    },
+    {
+      "pair": "BTCUSDT",
+      "type": "SELL",
+      "price": 112256.9,
+      "size": 0.008908,
+      "timestamp": "2025-08-28 18:00:00",
+      "portfolio_value": 11000.103322799996
+    },
+    {
+      "pair": "BTCUSDT",
+      "type": "SELL",
+      "price": 111850.0,
+      "size": 0.008941,
+      "timestamp": "2025-08-28 20:55:00",
+      "portfolio_value": 12000.087787999995
+    },
+    {
+      "pair": "BTCUSDT",
+      "type": "BUY",
+      "price": 112188.6,
+      "size": 0.008914,
+      "timestamp": "2025-08-28 22:15:00",
+      "portfolio_value": 13000.138637999995
+    },
+    {
+      "pair": "BTCUSDT",
+      "type": "BUY",
+      "price": 112408.2,
+      "size": 0.008896,
+      "timestamp": "2025-08-28 23:05:00",
+      "portfolio_value": 12000.089457599996
+    },
+    {
+      "pair": "BTCUSDT",
+      "type": "SELL",
+      "price": 112385.2,
+      "size": 0.008898,
+      "timestamp": "2025-08-28 23:30:00",
+      "portfolio_value": 11000.106110399996
+    },
+    {
+      "pair": "BTCUSDT",
+      "type": "SELL",
+      "price": 111425.0,
+      "size": 0.008975,
+      "timestamp": "2025-08-29 01:55:00",
+      "portfolio_value": 12000.109619999996
+    },
+    {
+      "pair": "BTCUSDT",
+      "type": "BUY",
+      "price": 111666.1,
+      "size": 0.008955,
+      "timestamp": "2025-08-29 02:20:00",
+      "portfolio_value": 13000.148994999996
+    },
+    {
+      "pair": "BTCUSDT",
+      "type": "SELL",
+      "price": 111621.8,
+      "size": 0.008959,
+      "timestamp": "2025-08-29 04:10:00",
+      "portfolio_value": 12000.179069499996
+    },
+    {
+      "pair": "BTCUSDT",
+      "type": "BUY",
+      "price": 111623.0,
+      "size": 0.008959,
+      "timestamp": "2025-08-29 04:25:00",
+      "portfolio_value": 13000.198775699997
+    },
+    {
+      "pair": "BTCUSDT",
+      "type": "SELL",
+      "price": 111308.5,
+      "size": 0.008984,
+      "timestamp": "2025-08-29 05:15:00",
+      "portfolio_value": 12000.168318699996
+    },
+    {
+      "pair": "BTCUSDT",
+      "type": "SELL",
+      "price": 110039.9,
+      "size": 0.009088,
+      "timestamp": "2025-08-29 07:50:00",
+      "portfolio_value": 13000.163882699997
+    },
+    {
+      "pair": "BTCUSDT",
+      "type": "SELL",
+      "price": 109721.5,
+      "size": 0.009114,
+      "timestamp": "2025-08-29 08:35:00",
+      "portfolio_value": 14000.206493899997
+    },
+    {
+      "pair": "BTCUSDT",
+      "type": "BUY",
+      "price": 109960.0,
+      "size": 0.009094,
+      "timestamp": "2025-08-29 11:30:00",
+      "portfolio_value": 15000.208244899997
+    },
+    {
+      "pair": "BTCUSDT",
+      "type": "BUY",
+      "price": 110053.2,
+      "size": 0.009087,
+      "timestamp": "2025-08-29 12:00:00",
+      "portfolio_value": 14000.232004899997
+    },
+    {
+      "pair": "BTCUSDT",
+      "type": "BUY",
+      "price": 110622.7,
+      "size": 0.00904,
+      "timestamp": "2025-08-29 13:10:00",
+      "portfolio_value": 13000.178576499997
+    },
+    {
+      "pair": "BTCUSDT",
+      "type": "SELL",
+      "price": 108532.9,
+      "size": 0.009214,
+      "timestamp": "2025-08-29 16:45:00",
+      "portfolio_value": 12000.149368499997
+    },
+    {
+      "pair": "BTCUSDT",
+      "type": "SELL",
+      "price": 108352.2,
+      "size": 0.009229,
+      "timestamp": "2025-08-29 17:25:00",
+      "portfolio_value": 13000.171509099997
+    },
+    {
+      "pair": "BTCUSDT",
+      "type": "SELL",
+      "price": 108398.1,
+      "size": 0.009225,
+      "timestamp": "2025-08-29 17:30:00",
+      "portfolio_value": 14000.153962899996
+    },
+    {
+      "pair": "BTCUSDT",
+      "type": "SELL",
+      "price": 107929.8,
+      "size": 0.009265,
+      "timestamp": "2025-08-29 20:25:00",
+      "portfolio_value": 15000.126435399996
+    },
+    {
+      "pair": "BTCUSDT",
+      "type": "SELL",
+      "price": 108275.2,
+      "size": 0.009236,
+      "timestamp": "2025-08-29 22:15:00",
+      "portfolio_value": 16000.096032399995
+    },
+    {
+      "pair": "BTCUSDT",
+      "type": "BUY",
+      "price": 108031.0,
+      "size": 0.009257,
+      "timestamp": "2025-08-30 01:35:00",
+      "portfolio_value": 17000.125779599995
+    },
+    {
+      "pair": "BTCUSDT",
+      "type": "SELL",
+      "price": 107990.3,
+      "size": 0.00926,
+      "timestamp": "2025-08-30 03:10:00",
+      "portfolio_value": 16000.082812599996
+    },
+    {
+      "pair": "BTCUSDT",
+      "type": "SELL",
+      "price": 108467.0,
+      "size": 0.009219,
+      "timestamp": "2025-08-30 04:15:00",
+      "portfolio_value": 17000.072990599994
+    },
+    {
+      "pair": "BTCUSDT",
+      "type": "SELL",
+      "price": 108472.6,
+      "size": 0.009219,
+      "timestamp": "2025-08-30 06:00:00",
+      "portfolio_value": 18000.030263599994
+    },
+    {
+      "pair": "BTCUSDT",
+      "type": "BUY",
+      "price": 108276.0,
+      "size": 0.009236,
+      "timestamp": "2025-08-30 06:55:00",
+      "portfolio_value": 19000.039162999994
+    },
+    {
+      "pair": "BTCUSDT",
+      "type": "BUY",
+      "price": 108172.4,
+      "size": 0.009245,
+      "timestamp": "2025-08-30 07:20:00",
+      "portfolio_value": 18000.002026999995
+    },
+    {
+      "pair": "BTCUSDT",
+      "type": "BUY",
+      "price": 108560.5,
+      "size": 0.009211,
+      "timestamp": "2025-08-30 08:40:00",
+      "portfolio_value": 16999.948188999995
+    },
+    {
+      "pair": "BTCUSDT",
+      "type": "SELL",
+      "price": 108470.8,
+      "size": 0.009219,
+      "timestamp": "2025-08-30 11:05:00",
+      "portfolio_value": 15999.997423499995
+    },
+    {
+      "pair": "BTCUSDT",
+      "type": "SELL",
+      "price": 108588.5,
+      "size": 0.009209,
+      "timestamp": "2025-08-30 15:05:00",
+      "portfolio_value": 16999.989728699995
+    },
+    {
+      "pair": "BTCUSDT",
+      "type": "BUY",
+      "price": 108545.3,
+      "size": 0.009213,
+      "timestamp": "2025-08-30 15:10:00",
+      "portfolio_value": 17999.981225199994
+    },
+    {
+      "pair": "BTCUSDT",
+      "type": "BUY",
+      "price": 108781.2,
+      "size": 0.009193,
+      "timestamp": "2025-08-30 17:30:00",
+      "portfolio_value": 16999.953376299993
+    },
+    {
+      "pair": "BTCUSDT",
+      "type": "SELL",
+      "price": 108662.0,
+      "size": 0.009203,
+      "timestamp": "2025-08-30 17:50:00",
+      "portfolio_value": 15999.927804699993
+    },
+    {
+      "pair": "ETHUSDT",
+      "type": "SELL",
+      "price": 4578.59,
+      "size": 0.218408,
+      "timestamp": "2025-08-27 07:55:00",
+      "portfolio_value": 16999.944190699993
+    },
+    {
+      "pair": "ETHUSDT",
+      "type": "BUY",
+      "price": 4594.59,
+      "size": 0.217647,
+      "timestamp": "2025-08-27 11:10:00",
+      "portfolio_value": 17999.94487541999
+    },
+    {
+      "pair": "ETHUSDT",
+      "type": "SELL",
+      "price": 4591.36,
+      "size": 0.2178,
+      "timestamp": "2025-08-27 11:30:00",
+      "portfolio_value": 16999.94614568999
+    },
+    {
+      "pair": "ETHUSDT",
+      "type": "SELL",
+      "price": 4609.74,
+      "size": 0.216932,
+      "timestamp": "2025-08-27 12:10:00",
+      "portfolio_value": 17999.944353689993
+    },
+    {
+      "pair": "ETHUSDT",
+      "type": "BUY",
+      "price": 4613.71,
+      "size": 0.216745,
+      "timestamp": "2025-08-27 13:50:00",
+      "portfolio_value": 18999.944471369992
+    },
+    {
+      "pair": "ETHUSDT",
+      "type": "BUY",
+      "price": 4600.9,
+      "size": 0.217349,
+      "timestamp": "2025-08-27 14:05:00",
+      "portfolio_value": 17999.94589741999
+    },
+    {
+      "pair": "ETHUSDT",
+      "type": "SELL",
+      "price": 4621.25,
+      "size": 0.216392,
+      "timestamp": "2025-08-27 14:15:00",
+      "portfolio_value": 16999.944883319993
+    },
+    {
+      "pair": "ETHUSDT",
+      "type": "SELL",
+      "price": 4639.84,
+      "size": 0.215525,
+      "timestamp": "2025-08-27 15:35:00",
+      "portfolio_value": 17999.946413319994
+    },
+    {
+      "pair": "ETHUSDT",
+      "type": "SELL",
+      "price": 4649.68,
+      "size": 0.215069,
+      "timestamp": "2025-08-27 15:50:00",
+      "portfolio_value": 18999.947929319995
+    },
+    {
+      "pair": "ETHUSDT",
+      "type": "SELL",
+      "price": 4619.77,
+      "size": 0.216461,
+      "timestamp": "2025-08-27 17:00:00",
+      "portfolio_value": 19999.949957239995
+    },
+    {
+      "pair": "ETHUSDT",
+      "type": "SELL",
+      "price": 4558.99,
+      "size": 0.219347,
+      "timestamp": "2025-08-27 20:10:00",
+      "portfolio_value": 20999.949991209993
+    },
+    {
+      "pair": "ETHUSDT",
+      "type": "SELL",
+      "price": 4499.99,
+      "size": 0.222223,
+      "timestamp": "2025-08-27 22:00:00",
+      "portfolio_value": 21999.950770739993
+    },
+    {
+      "pair": "ETHUSDT",
+      "type": "SELL",
+      "price": 4511.86,
+      "size": 0.221638,
+      "timestamp": "2025-08-27 23:20:00",
+      "portfolio_value": 22999.952048509993
+    },
+    {
+      "pair": "ETHUSDT",
+      "type": "BUY",
+      "price": 4514.77,
+      "size": 0.221495,
+      "timestamp": "2025-08-28 01:45:00",
+      "portfolio_value": 23999.951675189994
+    },
+    {
+      "pair": "ETHUSDT",
+      "type": "BUY",
+      "price": 4565.3,
+      "size": 0.219044,
+      "timestamp": "2025-08-28 06:15:00",
+      "portfolio_value": 22999.952694039992
+    },
+    {
+      "pair": "ETHUSDT",
+      "type": "BUY",
+      "price": 4579.14,
+      "size": 0.218382,
+      "timestamp": "2025-08-28 07:05:00",
+      "portfolio_value": 21999.951120839993
+    },
+    {
+      "pair": "ETHUSDT",
+      "type": "SELL",
+      "price": 4582.72,
+      "size": 0.218211,
+      "timestamp": "2025-08-28 09:45:00",
+      "portfolio_value": 20999.949369359994
+    },
+    {
+      "pair": "ETHUSDT",
+      "type": "BUY",
+      "price": 4569.34,
+      "size": 0.21885,
+      "timestamp": "2025-08-28 13:45:00",
+      "portfolio_value": 21999.949283279995
+    },
+    {
+      "pair": "ETHUSDT",
+      "type": "SELL",
+      "price": 4473.8,
+      "size": 0.223524,
+      "timestamp": "2025-08-28 17:00:00",
+      "portfolio_value": 20999.949224279997
+    },
+    {
+      "pair": "ETHUSDT",
+      "type": "BUY",
+      "price": 4478.99,
+      "size": 0.223265,
+      "timestamp": "2025-08-28 18:10:00",
+      "portfolio_value": 21999.950895479997
+    },
+    {
+      "pair": "ETHUSDT",
+      "type": "BUY",
+      "price": 4482.23,
+      "size": 0.223103,
+      "timestamp": "2025-08-28 18:15:00",
+      "portfolio_value": 20999.949193129996
+    },
+    {
+      "pair": "ETHUSDT",
+      "type": "SELL",
+      "price": 4455.24,
+      "size": 0.224455,
+      "timestamp": "2025-08-28 20:50:00",
+      "portfolio_value": 19999.950233439995
+    },
+    {
+      "pair": "ETHUSDT",
+      "type": "SELL",
+      "price": 4486.03,
+      "size": 0.222914,
+      "timestamp": "2025-08-28 21:55:00",
+      "portfolio_value": 20999.951127639994
+    },
+    {
+      "pair": "ETHUSDT",
+      "type": "SELL",
+      "price": 4490.01,
+      "size": 0.222717,
+      "timestamp": "2025-08-29 00:20:00",
+      "portfolio_value": 21999.950019059994
+    },
+    {
+      "pair": "ETHUSDT",
+      "type": "BUY",
+      "price": 4452.97,
+      "size": 0.224569,
+      "timestamp": "2025-08-29 01:30:00",
+      "portfolio_value": 22999.951576229992
+    },
+    {
+      "pair": "ETHUSDT",
+      "type": "SELL",
+      "price": 4483.36,
+      "size": 0.223047,
+      "timestamp": "2025-08-29 04:05:00",
+      "portfolio_value": 21999.95255629999
+    },
+    {
+      "pair": "ETHUSDT",
+      "type": "BUY",
+      "price": 4468.23,
+      "size": 0.223802,
+      "timestamp": "2025-08-29 06:05:00",
+      "portfolio_value": 22999.95255421999
+    },
+    {
+      "pair": "ETHUSDT",
+      "type": "SELL",
+      "price": 4390.42,
+      "size": 0.227769,
+      "timestamp": "2025-08-29 07:15:00",
+      "portfolio_value": 21999.95374375999
+    },
+    {
+      "pair": "ETHUSDT",
+      "type": "SELL",
+      "price": 4381.8,
+      "size": 0.228217,
+      "timestamp": "2025-08-29 07:25:00",
+      "portfolio_value": 22999.95531673999
+    },
+    {
+      "pair": "ETHUSDT",
+      "type": "BUY",
+      "price": 4379.03,
+      "size": 0.228361,
+      "timestamp": "2025-08-29 07:55:00",
+      "portfolio_value": 23999.95656733999
+    },
+    {
+      "pair": "ETHUSDT",
+      "type": "SELL",
+      "price": 4357.42,
+      "size": 0.229494,
+      "timestamp": "2025-08-29 08:25:00",
+      "portfolio_value": 22999.95689750999
+    },
+    {
+      "pair": "ETHUSDT",
+      "type": "BUY",
+      "price": 4348.93,
+      "size": 0.229942,
+      "timestamp": "2025-08-29 08:35:00",
+      "portfolio_value": 23999.95864298999
+    },
+    {
+      "pair": "ETHUSDT",
+      "type": "SELL",
+      "price": 4355.5,
+      "size": 0.229595,
+      "timestamp": "2025-08-29 10:20:00",
+      "portfolio_value": 22999.95698092999
+    },
+    {
+      "pair": "ETHUSDT",
+      "type": "SELL",
+      "price": 4344.51,
+      "size": 0.230176,
+      "timestamp": "2025-08-29 10:55:00",
+      "portfolio_value": 23999.95800342999
+    },
+    {
+      "pair": "ETHUSDT",
+      "type": "SELL",
+      "price": 4398.77,
+      "size": 0.227336,
+      "timestamp": "2025-08-29 13:10:00",
+      "portfolio_value": 24999.95993718999
+    },
+    {
+      "pair": "ETHUSDT",
+      "type": "BUY",
+      "price": 4297.13,
+      "size": 0.232713,
+      "timestamp": "2025-08-29 14:15:00",
+      "portfolio_value": 25999.95871390999
+    },
+    {
+      "pair": "ETHUSDT",
+      "type": "SELL",
+      "price": 4280.53,
+      "size": 0.233616,
+      "timestamp": "2025-08-29 14:55:00",
+      "portfolio_value": 24999.96070021999
+    },
+    {
+      "pair": "ETHUSDT",
+      "type": "BUY",
+      "price": 4314.92,
+      "size": 0.231754,
+      "timestamp": "2025-08-29 15:30:00",
+      "portfolio_value": 25999.96099669999
+    },
+    {
+      "pair": "ETHUSDT",
+      "type": "SELL",
+      "price": 4316.09,
+      "size": 0.231691,
+      "timestamp": "2025-08-29 16:45:00",
+      "portfolio_value": 24999.96102701999
+    },
+    {
+      "pair": "ETHUSDT",
+      "type": "BUY",
+      "price": 4325.86,
+      "size": 0.231168,
+      "timestamp": "2025-08-29 17:00:00",
+      "portfolio_value": 25999.96023520999
+    },
+    {
+      "pair": "ETHUSDT",
+      "type": "SELL",
+      "price": 4309.0,
+      "size": 0.232072,
+      "timestamp": "2025-08-29 18:30:00",
+      "portfolio_value": 24999.95983072999
+    },
+    {
+      "pair": "ETHUSDT",
+      "type": "SELL",
+      "price": 4354.0,
+      "size": 0.229674,
+      "timestamp": "2025-08-29 19:45:00",
+      "portfolio_value": 25999.95807872999
+    },
+    {
+      "pair": "ETHUSDT",
+      "type": "BUY",
+      "price": 4362.71,
+      "size": 0.229215,
+      "timestamp": "2025-08-29 23:25:00",
+      "portfolio_value": 26999.95867472999
+    },
+    {
+      "pair": "ETHUSDT",
+      "type": "SELL",
+      "price": 4351.59,
+      "size": 0.229801,
+      "timestamp": "2025-08-30 03:45:00",
+      "portfolio_value": 25999.96010207999
+    },
+    {
+      "pair": "ETHUSDT",
+      "type": "SELL",
+      "price": 4358.88,
+      "size": 0.229417,
+      "timestamp": "2025-08-30 03:50:00",
+      "portfolio_value": 26999.95983566999
+    },
+    {
+      "pair": "ETHUSDT",
+      "type": "BUY",
+      "price": 4395.28,
+      "size": 0.227517,
+      "timestamp": "2025-08-30 07:15:00",
+      "portfolio_value": 27999.96100862999
+    },
+    {
+      "pair": "ETHUSDT",
+      "type": "SELL",
+      "price": 4389.29,
+      "size": 0.227827,
+      "timestamp": "2025-08-30 11:30:00",
+      "portfolio_value": 26999.96008886999
+    },
+    {
+      "pair": "ETHUSDT",
+      "type": "BUY",
+      "price": 4389.93,
+      "size": 0.227794,
+      "timestamp": "2025-08-30 11:55:00",
+      "portfolio_value": 27999.95886169999
+    },
+    {
+      "pair": "ETHUSDT",
+      "type": "SELL",
+      "price": 4360.34,
+      "size": 0.22934,
+      "timestamp": "2025-08-30 16:25:00",
+      "portfolio_value": 26999.95914727999
+    },
+    {
+      "pair": "ETHUSDT",
+      "type": "SELL",
+      "price": 4361.99,
+      "size": 0.229253,
+      "timestamp": "2025-08-30 17:00:00",
+      "portfolio_value": 27999.95952287999
+    },
+    {
+      "pair": "SOLUSDT",
+      "type": "BUY",
+      "price": 201.33,
+      "size": 4.96697,
+      "timestamp": "2025-08-27 07:20:00",
+      "portfolio_value": 28999.95881634999
+    },
+    {
+      "pair": "SOLUSDT",
+      "type": "SELL",
+      "price": 202.59,
+      "size": 4.936078,
+      "timestamp": "2025-08-27 08:05:00",
+      "portfolio_value": 27999.95874624999
+    },
+    {
+      "pair": "SOLUSDT",
+      "type": "SELL",
+      "price": 204.33,
+      "size": 4.894044,
+      "timestamp": "2025-08-27 13:00:00",
+      "portfolio_value": 28999.958788269993
+    },
+    {
+      "pair": "SOLUSDT",
+      "type": "SELL",
+      "price": 205.8,
+      "size": 4.859086,
+      "timestamp": "2025-08-27 14:25:00",
+      "portfolio_value": 29999.958798789994
+    },
+    {
+      "pair": "SOLUSDT",
+      "type": "SELL",
+      "price": 207.21,
+      "size": 4.826022,
+      "timestamp": "2025-08-27 16:35:00",
+      "portfolio_value": 30999.958697589995
+    },
+    {
+      "pair": "SOLUSDT",
+      "type": "SELL",
+      "price": 210.37,
+      "size": 4.753529,
+      "timestamp": "2025-08-27 18:45:00",
+      "portfolio_value": 31999.958716209996
+    },
+    {
+      "pair": "SOLUSDT",
+      "type": "BUY",
+      "price": 207.08,
+      "size": 4.829052,
+      "timestamp": "2025-08-27 19:40:00",
+      "portfolio_value": 32999.95861194
+    },
+    {
+      "pair": "SOLUSDT",
+      "type": "BUY",
+      "price": 207.38,
+      "size": 4.822066,
+      "timestamp": "2025-08-28 02:25:00",
+      "portfolio_value": 31999.95852378
+    },
+    {
+      "pair": "SOLUSDT",
+      "type": "SELL",
+      "price": 206.57,
+      "size": 4.840974,
+      "timestamp": "2025-08-28 02:40:00",
+      "portfolio_value": 30999.958476699998
+    },
+    {
+      "pair": "SOLUSDT",
+      "type": "SELL",
+      "price": 207.37,
+      "size": 4.822298,
+      "timestamp": "2025-08-28 03:45:00",
+      "portfolio_value": 31999.958475879997
+    },
+    {
+      "pair": "SOLUSDT",
+      "type": "BUY",
+      "price": 208.82,
+      "size": 4.788813,
+      "timestamp": "2025-08-28 04:15:00",
+      "portfolio_value": 32999.95841214
+    },
+    {
+      "pair": "SOLUSDT",
+      "type": "BUY",
+      "price": 211.82,
+      "size": 4.72099,
+      "timestamp": "2025-08-28 05:35:00",
+      "portfolio_value": 31999.958481479996
+    },
+    {
+      "pair": "SOLUSDT",
+      "type": "BUY",
+      "price": 210.88,
+      "size": 4.742033,
+      "timestamp": "2025-08-28 05:50:00",
+      "portfolio_value": 30999.958379679996
+    },
+    {
+      "pair": "SOLUSDT",
+      "type": "SELL",
+      "price": 211.74,
+      "size": 4.722773,
+      "timestamp": "2025-08-28 07:10:00",
+      "portfolio_value": 29999.958460639995
+    },
+    {
+      "pair": "SOLUSDT",
+      "type": "SELL",
+      "price": 211.16,
+      "size": 4.735745,
+      "timestamp": "2025-08-28 07:35:00",
+      "portfolio_value": 30999.958415659996
+    },
+    {
+      "pair": "SOLUSDT",
+      "type": "BUY",
+      "price": 212.6,
+      "size": 4.703669,
+      "timestamp": "2025-08-28 10:25:00",
+      "portfolio_value": 31999.958329859997
+    },
+    {
+      "pair": "SOLUSDT",
+      "type": "SELL",
+      "price": 212.62,
+      "size": 4.703226,
+      "timestamp": "2025-08-28 12:00:00",
+      "portfolio_value": 30999.95830046
+    },
+    {
+      "pair": "SOLUSDT",
+      "type": "SELL",
+      "price": 213.92,
+      "size": 4.674645,
+      "timestamp": "2025-08-28 14:05:00",
+      "portfolio_value": 31999.95821258
+    },
+    {
+      "pair": "SOLUSDT",
+      "type": "BUY",
+      "price": 209.96,
+      "size": 4.762812,
+      "timestamp": "2025-08-28 17:35:00",
+      "portfolio_value": 32999.95827098
+    },
+    {
+      "pair": "SOLUSDT",
+      "type": "BUY",
+      "price": 211.46,
+      "size": 4.729027,
+      "timestamp": "2025-08-28 18:40:00",
+      "portfolio_value": 31999.95826346
+    },
+    {
+      "pair": "SOLUSDT",
+      "type": "BUY",
+      "price": 213.1,
+      "size": 4.692633,
+      "timestamp": "2025-08-28 21:15:00",
+      "portfolio_value": 30999.95821404
+    },
+    {
+      "pair": "SOLUSDT",
+      "type": "BUY",
+      "price": 213.53,
+      "size": 4.683183,
+      "timestamp": "2025-08-28 21:50:00",
+      "portfolio_value": 29999.95812174
+    },
+    {
+      "pair": "SOLUSDT",
+      "type": "BUY",
+      "price": 214.88,
+      "size": 4.65376,
+      "timestamp": "2025-08-28 22:25:00",
+      "portfolio_value": 28999.95805575
+    },
+    {
+      "pair": "SOLUSDT",
+      "type": "SELL",
+      "price": 215.23,
+      "size": 4.646192,
+      "timestamp": "2025-08-29 03:30:00",
+      "portfolio_value": 27999.958106950002
+    },
+    {
+      "pair": "SOLUSDT",
+      "type": "SELL",
+      "price": 208.88,
+      "size": 4.787438,
+      "timestamp": "2025-08-29 07:50:00",
+      "portfolio_value": 28999.95801111
+    },
+    {
+      "pair": "SOLUSDT",
+      "type": "BUY",
+      "price": 208.26,
+      "size": 4.80169,
+      "timestamp": "2025-08-29 10:35:00",
+      "portfolio_value": 29999.95806055
+    },
+    {
+      "pair": "SOLUSDT",
+      "type": "SELL",
+      "price": 207.47,
+      "size": 4.819974,
+      "timestamp": "2025-08-29 10:55:00",
+      "portfolio_value": 28999.95810115
+    },
+    {
+      "pair": "SOLUSDT",
+      "type": "SELL",
+      "price": 208.15,
+      "size": 4.804228,
+      "timestamp": "2025-08-29 11:20:00",
+      "portfolio_value": 29999.95810693
+    },
+    {
+      "pair": "SOLUSDT",
+      "type": "SELL",
+      "price": 211.83,
+      "size": 4.720767,
+      "timestamp": "2025-08-29 12:35:00",
+      "portfolio_value": 30999.95816513
+    },
+    {
+      "pair": "SOLUSDT",
+      "type": "BUY",
+      "price": 211.28,
+      "size": 4.733056,
+      "timestamp": "2025-08-29 13:10:00",
+      "portfolio_value": 31999.95823874
+    },
+    {
+      "pair": "SOLUSDT",
+      "type": "BUY",
+      "price": 209.94,
+      "size": 4.763266,
+      "timestamp": "2025-08-29 13:15:00",
+      "portfolio_value": 30999.958167060002
+    },
+    {
+      "pair": "SOLUSDT",
+      "type": "BUY",
+      "price": 208.98,
+      "size": 4.785147,
+      "timestamp": "2025-08-29 15:05:00",
+      "portfolio_value": 29999.958103020002
+    },
+    {
+      "pair": "SOLUSDT",
+      "type": "BUY",
+      "price": 207.33,
+      "size": 4.823229,
+      "timestamp": "2025-08-29 15:45:00",
+      "portfolio_value": 28999.95808296
+    },
+    {
+      "pair": "SOLUSDT",
+      "type": "BUY",
+      "price": 202.95,
+      "size": 4.927322,
+      "timestamp": "2025-08-29 17:10:00",
+      "portfolio_value": 27999.958014390002
+    },
+    {
+      "pair": "SOLUSDT",
+      "type": "BUY",
+      "price": 203.13,
+      "size": 4.922956,
+      "timestamp": "2025-08-29 17:45:00",
+      "portfolio_value": 26999.958014490003
+    },
+    {
+      "pair": "SOLUSDT",
+      "type": "BUY",
+      "price": 203.51,
+      "size": 4.913763,
+      "timestamp": "2025-08-29 19:15:00",
+      "portfolio_value": 25999.957962210003
+    },
+    {
+      "pair": "SOLUSDT",
+      "type": "BUY",
+      "price": 202.27,
+      "size": 4.943887,
+      "timestamp": "2025-08-29 20:20:00",
+      "portfolio_value": 24999.95805408
+    },
+    {
+      "pair": "SOLUSDT",
+      "type": "BUY",
+      "price": 204.3,
+      "size": 4.894763,
+      "timestamp": "2025-08-30 00:10:00",
+      "portfolio_value": 23999.95803059
+    },
+    {
+      "pair": "SOLUSDT",
+      "type": "SELL",
+      "price": 203.47,
+      "size": 4.914729,
+      "timestamp": "2025-08-30 02:45:00",
+      "portfolio_value": 22999.95794969
+    },
+    {
+      "pair": "SOLUSDT",
+      "type": "SELL",
+      "price": 203.06,
+      "size": 4.924653,
+      "timestamp": "2025-08-30 02:50:00",
+      "portfolio_value": 23999.957859320002
+    },
+    {
+      "pair": "SOLUSDT",
+      "type": "SELL",
+      "price": 205.75,
+      "size": 4.860267,
+      "timestamp": "2025-08-30 04:10:00",
+      "portfolio_value": 24999.957897500004
+    },
+    {
+      "pair": "SOLUSDT",
+      "type": "BUY",
+      "price": 198.77,
+      "size": 5.03094,
+      "timestamp": "2025-08-30 14:05:00",
+      "portfolio_value": 25999.957832750006
+    },
+    {
+      "pair": "SOLUSDT",
+      "type": "SELL",
+      "price": 200.72,
+      "size": 4.982065,
+      "timestamp": "2025-08-30 16:35:00",
+      "portfolio_value": 24999.957888950004
+    },
+    {
+      "pair": "SOLUSDT",
+      "type": "BUY",
+      "price": 201.19,
+      "size": 4.970426,
+      "timestamp": "2025-08-30 17:20:00",
+      "portfolio_value": 25999.957975750003
+    },
+    {
+      "pair": "SOLUSDT",
+      "type": "SELL",
+      "price": 201.02,
+      "size": 4.974629,
+      "timestamp": "2025-08-30 17:25:00",
+      "portfolio_value": 24999.957968810002
+    }
+  ],
+  "timestamp": "2025-08-30T15:02:02.779353"
+}
