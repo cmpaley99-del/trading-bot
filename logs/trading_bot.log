@@ -2281,3 +2281,1292 @@
 2025-08-30 15:04:01 | INFO | Message sent to Telegram successfully on attempt 1
 2025-08-30 15:04:01 | INFO | Saved last signal time: 2025-08-30 15:04:01.799290
 2025-08-30 15:04:01 | INFO | Sent 2 trade calls
+2025-08-31 00:03:07 | INFO | Starting Cryptocurrency Futures Trading Bot
+2025-08-31 00:03:07 | INFO | Trading Pairs: BTCUSDT, ETHUSDT, SOLUSDT, ADAUSDT, DOTUSDT, AVAXUSDT, MATICUSDT, XRPUSDT, LINKUSDT, DOGEUSDT, LTCUSDT, BNBUSDT, ATOMUSDT
+2025-08-31 00:03:07 | INFO | Default Leverage: 10x (intelligent calculation active)
+2025-08-31 00:03:07 | INFO | Analysis Interval: 5 minutes
+2025-08-31 00:03:08 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:03:08 | INFO | Telegram Bot scheduler running in background
+2025-08-31 00:03:08 | INFO | Trading Bot is now running...
+2025-08-31 00:03:09 | INFO | ✅ Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-31 00:03:09 | INFO | All technical indicators calculated successfully
+2025-08-31 00:03:09 | INFO | ✅ Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-31 00:03:10 | INFO | ✅ Fetched 100 candles for AVAXUSDT on 5m timeframe
+2025-08-31 00:03:10 | INFO | ✅ Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-31 00:03:11 | INFO | ✅ Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-31 00:03:11 | INFO | ✅ Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-31 00:03:12 | INFO | ✅ Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-31 00:03:12 | INFO | Anomaly scan completed. Found 16 anomalies
+2025-08-31 00:03:12 | WARNING | Anomalies detected for BTCUSDT: 15 alerts
+2025-08-31 00:03:14 | INFO | ✅ Fetched 50 candles for ADAUSDT on 5m timeframe
+2025-08-31 00:03:17 | INFO | ✅ Fetched 50 candles for DOTUSDT on 5m timeframe
+2025-08-31 00:03:19 | INFO | ✅ Fetched 50 candles for AVAXUSDT on 5m timeframe
+2025-08-31 00:03:21 | INFO | ✅ Fetched 50 candles for MATICUSDT on 5m timeframe
+2025-08-31 00:03:22 | ERROR | ❌ Error fetching funding rate for MATICUSDT: binance fetchFundingRate() supports linear and inverse contracts only
+2025-08-31 00:03:22 | INFO | ✅ Fetched 50 candles for XRPUSDT on 5m timeframe
+2025-08-31 00:03:24 | ERROR | Error loading model: Weights only load failed. This file can still be loaded, to do so you have two options, [1mdo those steps only if you trust the source of the checkpoint[0m. 
+	(1) In PyTorch 2.6, we changed the default value of the `weights_only` argument in `torch.load` from `False` to `True`. Re-running `torch.load` with `weights_only` set to `False` will likely succeed, but it can result in arbitrary code execution. Do it only if you got the file from a trusted source.
+	(2) Alternatively, to load with `weights_only=True` please check the recommended steps in the following error message.
+	WeightsUnpickler error: Unsupported global: GLOBAL numpy.core.multiarray.scalar was not an allowed global by default. Please use `torch.serialization.add_safe_globals([numpy.core.multiarray.scalar])` or the `torch.serialization.safe_globals([numpy.core.multiarray.scalar])` context manager to allowlist this global if you trust this class/function.
+
+Check the documentation of torch.load to learn more about types accepted by default with weights_only https://pytorch.org/docs/stable/generated/torch.load.html.
+2025-08-31 00:03:24 | INFO | Leverage Optimizer initialized for BTCUSDT
+2025-08-31 00:03:24 | ERROR | Error loading model: Weights only load failed. This file can still be loaded, to do so you have two options, [1mdo those steps only if you trust the source of the checkpoint[0m. 
+	(1) In PyTorch 2.6, we changed the default value of the `weights_only` argument in `torch.load` from `False` to `True`. Re-running `torch.load` with `weights_only` set to `False` will likely succeed, but it can result in arbitrary code execution. Do it only if you got the file from a trusted source.
+	(2) Alternatively, to load with `weights_only=True` please check the recommended steps in the following error message.
+	WeightsUnpickler error: Unsupported global: GLOBAL numpy.core.multiarray.scalar was not an allowed global by default. Please use `torch.serialization.add_safe_globals([numpy.core.multiarray.scalar])` or the `torch.serialization.safe_globals([numpy.core.multiarray.scalar])` context manager to allowlist this global if you trust this class/function.
+
+Check the documentation of torch.load to learn more about types accepted by default with weights_only https://pytorch.org/docs/stable/generated/torch.load.html.
+2025-08-31 00:03:24 | INFO | Leverage Optimizer initialized for ETHUSDT
+2025-08-31 00:03:24 | ERROR | Error loading model: Weights only load failed. This file can still be loaded, to do so you have two options, [1mdo those steps only if you trust the source of the checkpoint[0m. 
+	(1) In PyTorch 2.6, we changed the default value of the `weights_only` argument in `torch.load` from `False` to `True`. Re-running `torch.load` with `weights_only` set to `False` will likely succeed, but it can result in arbitrary code execution. Do it only if you got the file from a trusted source.
+	(2) Alternatively, to load with `weights_only=True` please check the recommended steps in the following error message.
+	WeightsUnpickler error: Unsupported global: GLOBAL numpy.core.multiarray.scalar was not an allowed global by default. Please use `torch.serialization.add_safe_globals([numpy.core.multiarray.scalar])` or the `torch.serialization.safe_globals([numpy.core.multiarray.scalar])` context manager to allowlist this global if you trust this class/function.
+
+Check the documentation of torch.load to learn more about types accepted by default with weights_only https://pytorch.org/docs/stable/generated/torch.load.html.
+2025-08-31 00:03:24 | INFO | Leverage Optimizer initialized for SOLUSDT
+2025-08-31 00:03:24 | ERROR | Error loading model: Weights only load failed. This file can still be loaded, to do so you have two options, [1mdo those steps only if you trust the source of the checkpoint[0m. 
+	(1) In PyTorch 2.6, we changed the default value of the `weights_only` argument in `torch.load` from `False` to `True`. Re-running `torch.load` with `weights_only` set to `False` will likely succeed, but it can result in arbitrary code execution. Do it only if you got the file from a trusted source.
+	(2) Alternatively, to load with `weights_only=True` please check the recommended steps in the following error message.
+	WeightsUnpickler error: Unsupported global: GLOBAL numpy.core.multiarray.scalar was not an allowed global by default. Please use `torch.serialization.add_safe_globals([numpy.core.multiarray.scalar])` or the `torch.serialization.safe_globals([numpy.core.multiarray.scalar])` context manager to allowlist this global if you trust this class/function.
+
+Check the documentation of torch.load to learn more about types accepted by default with weights_only https://pytorch.org/docs/stable/generated/torch.load.html.
+2025-08-31 00:03:24 | INFO | Leverage Optimizer initialized for ADAUSDT
+2025-08-31 00:03:24 | INFO | Leverage Optimizer initialized for DOTUSDT
+2025-08-31 00:03:24 | INFO | Leverage Optimizer initialized for AVAXUSDT
+2025-08-31 00:03:24 | INFO | Leverage Optimizer initialized for MATICUSDT
+2025-08-31 00:03:24 | INFO | Leverage Optimizer initialized for XRPUSDT
+2025-08-31 00:03:24 | INFO | Leverage Optimizer initialized for LINKUSDT
+2025-08-31 00:03:24 | INFO | Leverage Optimizer initialized for DOGEUSDT
+2025-08-31 00:03:24 | INFO | Leverage Optimizer initialized for LTCUSDT
+2025-08-31 00:03:24 | INFO | Leverage Optimizer initialized for BNBUSDT
+2025-08-31 00:03:24 | INFO | Leverage Optimizer initialized for ATOMUSDT
+2025-08-31 00:03:24 | INFO | RL Leverage Manager initialized
+2025-08-31 00:03:24 | INFO | Trading Signals RL module initialized. Last signal time: 2025-08-30 15:04:01.799290
+2025-08-31 00:03:24 | INFO | Leverage Optimization Environment initialized for BTCUSDT
+2025-08-31 00:03:24 | ERROR | Error getting optimal leverage: 'list' object has no attribute 'iloc'
+2025-08-31 00:03:24 | INFO | ✅ Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-31 00:03:24 | INFO | All technical indicators calculated successfully
+2025-08-31 00:03:25 | INFO | ✅ Fetched 50 candles for LINKUSDT on 5m timeframe
+2025-08-31 00:03:26 | INFO | ✅ Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-31 00:03:26 | INFO | Anomaly scan completed. Found 19 anomalies
+2025-08-31 00:03:26 | WARNING | Anomalies detected for ETHUSDT: 16 alerts
+2025-08-31 00:03:26 | INFO | Leverage Optimization Environment initialized for ETHUSDT
+2025-08-31 00:03:26 | ERROR | Error getting optimal leverage: 'list' object has no attribute 'iloc'
+2025-08-31 00:03:27 | INFO | ✅ Fetched 50 candles for DOGEUSDT on 5m timeframe
+2025-08-31 00:03:27 | INFO | ✅ Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-31 00:03:27 | INFO | All technical indicators calculated successfully
+2025-08-31 00:03:28 | INFO | ✅ Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-31 00:03:29 | INFO | ✅ Fetched 50 candles for BNBUSDT on 5m timeframe
+2025-08-31 00:03:30 | INFO | Anomaly scan completed. Found 11 anomalies
+2025-08-31 00:03:30 | WARNING | Anomalies detected for SOLUSDT: 10 alerts
+2025-08-31 00:03:30 | INFO | Leverage Optimization Environment initialized for SOLUSDT
+2025-08-31 00:03:30 | ERROR | Error getting optimal leverage: 'list' object has no attribute 'iloc'
+2025-08-31 00:03:30 | INFO | ✅ Fetched 50 candles for ATOMUSDT on 5m timeframe
+2025-08-31 00:03:30 | INFO | ✅ Fetched 100 candles for ADAUSDT on 5m timeframe
+2025-08-31 00:03:30 | INFO | All technical indicators calculated successfully
+2025-08-31 00:03:31 | INFO | Anomaly scan completed. Found 104 anomalies
+2025-08-31 00:03:31 | INFO | Anomaly detection scan found 104 anomalies
+2025-08-31 00:03:32 | INFO | ✅ Fetched 100 candles for ADAUSDT on 5m timeframe
+2025-08-31 00:03:34 | INFO | Anomaly scan completed. Found 13 anomalies
+2025-08-31 00:03:34 | WARNING | Anomalies detected for ADAUSDT: 9 alerts
+2025-08-31 00:03:34 | INFO | Leverage Optimization Environment initialized for ADAUSDT
+2025-08-31 00:03:34 | ERROR | Error getting optimal leverage: 'list' object has no attribute 'iloc'
+2025-08-31 00:03:34 | INFO | ✅ Fetched 100 candles for DOTUSDT on 5m timeframe
+2025-08-31 00:03:35 | INFO | All technical indicators calculated successfully
+2025-08-31 00:03:37 | INFO | ✅ Fetched 100 candles for DOTUSDT on 5m timeframe
+2025-08-31 00:03:38 | INFO | Anomaly scan completed. Found 2 anomalies
+2025-08-31 00:03:38 | WARNING | Anomalies detected for DOTUSDT: 2 alerts
+2025-08-31 00:03:38 | INFO | Leverage Optimization Environment initialized for DOTUSDT
+2025-08-31 00:03:38 | ERROR | Error getting optimal leverage: 'list' object has no attribute 'iloc'
+2025-08-31 00:03:39 | INFO | ✅ Fetched 100 candles for AVAXUSDT on 5m timeframe
+2025-08-31 00:03:39 | INFO | All technical indicators calculated successfully
+2025-08-31 00:03:40 | INFO | ✅ Fetched 100 candles for AVAXUSDT on 5m timeframe
+2025-08-31 00:03:42 | INFO | Anomaly scan completed. Found 3 anomalies
+2025-08-31 00:03:42 | WARNING | Anomalies detected for AVAXUSDT: 2 alerts
+2025-08-31 00:03:42 | INFO | Leverage Optimization Environment initialized for AVAXUSDT
+2025-08-31 00:03:42 | ERROR | Error getting optimal leverage: 'list' object has no attribute 'iloc'
+2025-08-31 00:03:42 | INFO | ✅ Fetched 100 candles for MATICUSDT on 5m timeframe
+2025-08-31 00:03:42 | INFO | All technical indicators calculated successfully
+2025-08-31 00:03:42 | ERROR | ❌ Error fetching funding rate for MATICUSDT: binance fetchFundingRate() supports linear and inverse contracts only
+2025-08-31 00:03:43 | INFO | ✅ Fetched 100 candles for MATICUSDT on 5m timeframe
+2025-08-31 00:03:43 | ERROR | ❌ Error fetching funding rate for MATICUSDT: binance fetchFundingRate() supports linear and inverse contracts only
+2025-08-31 00:03:43 | INFO | Anomaly scan completed. Found 5 anomalies
+2025-08-31 00:03:43 | WARNING | Anomalies detected for MATICUSDT: 4 alerts
+2025-08-31 00:03:43 | ERROR | Error generating multiple trade calls for MATICUSDT: '>' not supported between instances of 'NoneType' and 'float'
+2025-08-31 00:03:44 | INFO | ✅ Fetched 100 candles for XRPUSDT on 5m timeframe
+2025-08-31 00:03:44 | INFO | All technical indicators calculated successfully
+2025-08-31 00:03:46 | INFO | ✅ Fetched 100 candles for XRPUSDT on 5m timeframe
+2025-08-31 00:03:47 | INFO | Anomaly scan completed. Found 17 anomalies
+2025-08-31 00:03:47 | WARNING | Anomalies detected for XRPUSDT: 13 alerts
+2025-08-31 00:03:47 | INFO | Leverage Optimization Environment initialized for XRPUSDT
+2025-08-31 00:03:47 | ERROR | Error getting optimal leverage: 'list' object has no attribute 'iloc'
+2025-08-31 00:03:48 | INFO | ✅ Fetched 100 candles for LINKUSDT on 5m timeframe
+2025-08-31 00:03:48 | INFO | All technical indicators calculated successfully
+2025-08-31 00:03:50 | INFO | ✅ Fetched 100 candles for LINKUSDT on 5m timeframe
+2025-08-31 00:03:51 | INFO | Anomaly scan completed. Found 22 anomalies
+2025-08-31 00:03:51 | WARNING | Anomalies detected for LINKUSDT: 17 alerts
+2025-08-31 00:03:51 | WARNING | Model not trained yet
+2025-08-31 00:03:51 | INFO | ML confidence for BULLISH signal: 0.5000
+2025-08-31 00:03:51 | INFO | Signal quality too low for LINKUSDT, skipping trade calls
+2025-08-31 00:03:52 | INFO | ✅ Fetched 100 candles for DOGEUSDT on 5m timeframe
+2025-08-31 00:03:52 | INFO | All technical indicators calculated successfully
+2025-08-31 00:03:54 | INFO | ✅ Fetched 100 candles for DOGEUSDT on 5m timeframe
+2025-08-31 00:03:55 | INFO | Anomaly scan completed. Found 11 anomalies
+2025-08-31 00:03:55 | WARNING | Anomalies detected for DOGEUSDT: 9 alerts
+2025-08-31 00:03:55 | INFO | Leverage Optimization Environment initialized for DOGEUSDT
+2025-08-31 00:03:55 | ERROR | Error getting optimal leverage: 'list' object has no attribute 'iloc'
+2025-08-31 00:03:55 | INFO | ✅ Fetched 100 candles for LTCUSDT on 5m timeframe
+2025-08-31 00:03:55 | INFO | All technical indicators calculated successfully
+2025-08-31 00:03:57 | INFO | ✅ Fetched 100 candles for LTCUSDT on 5m timeframe
+2025-08-31 00:03:59 | INFO | Anomaly scan completed. Found 6 anomalies
+2025-08-31 00:03:59 | WARNING | Anomalies detected for LTCUSDT: 6 alerts
+2025-08-31 00:03:59 | INFO | Leverage Optimization Environment initialized for LTCUSDT
+2025-08-31 00:03:59 | ERROR | Error getting optimal leverage: 'list' object has no attribute 'iloc'
+2025-08-31 00:03:59 | INFO | ✅ Fetched 100 candles for BNBUSDT on 5m timeframe
+2025-08-31 00:03:59 | INFO | All technical indicators calculated successfully
+2025-08-31 00:04:01 | INFO | ✅ Fetched 100 candles for BNBUSDT on 5m timeframe
+2025-08-31 00:04:02 | INFO | Anomaly scan completed. Found 14 anomalies
+2025-08-31 00:04:02 | WARNING | Anomalies detected for BNBUSDT: 11 alerts
+2025-08-31 00:04:02 | INFO | Leverage Optimization Environment initialized for BNBUSDT
+2025-08-31 00:04:02 | ERROR | Error getting optimal leverage: 'list' object has no attribute 'iloc'
+2025-08-31 00:04:03 | INFO | ✅ Fetched 100 candles for ATOMUSDT on 5m timeframe
+2025-08-31 00:04:03 | INFO | All technical indicators calculated successfully
+2025-08-31 00:04:05 | INFO | ✅ Fetched 100 candles for ATOMUSDT on 5m timeframe
+2025-08-31 00:04:06 | INFO | Anomaly scan completed. Found 7 anomalies
+2025-08-31 00:04:06 | WARNING | Anomalies detected for ATOMUSDT: 7 alerts
+2025-08-31 00:04:06 | WARNING | Model not trained yet
+2025-08-31 00:04:06 | INFO | ML confidence for BULLISH signal: 0.5000
+2025-08-31 00:04:06 | INFO | Leverage Optimization Environment initialized for ATOMUSDT
+2025-08-31 00:04:06 | ERROR | Error getting optimal leverage: 'list' object has no attribute 'iloc'
+2025-08-31 00:04:06 | INFO | Calculated position size: 217.722621 ATOM with 10x leverage
+2025-08-31 00:04:06 | INFO | Calculated stop loss: 4.58
+2025-08-31 00:04:06 | INFO | Calculated take profit: 4.62
+2025-08-31 00:04:06 | INFO | Generated regular trade call for ATOMUSDT: BULLISH signal with 10x leverage
+2025-08-31 00:04:07 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:07 | ERROR | Database connection error: table metadata has no column named value_type
+2025-08-31 00:04:07 | ERROR | ❌ Error saving last signal time: table metadata has no column named value_type
+2025-08-31 00:04:07 | INFO | Immediate 1 trade calls sent on startup
+2025-08-31 00:04:07 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:08 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:08 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:09 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:09 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:10 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:10 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:10 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:11 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:11 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:12 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:12 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:13 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:13 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:13 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:14 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:14 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:15 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:15 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:15 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:16 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:17 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:17 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:17 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:18 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:18 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:19 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:20 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:20 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:20 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:21 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:21 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:22 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:22 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:22 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:23 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:24 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:24 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:24 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:25 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:25 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:25 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:26 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:26 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:27 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:27 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:27 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:28 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:28 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:29 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:29 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:29 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:30 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:30 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:31 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:32 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:32 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:32 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:33 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:33 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:34 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:34 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:34 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:35 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:36 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:36 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:37 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:37 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:37 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:38 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:38 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:39 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:39 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:39 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:40 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:40 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:41 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:41 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:42 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:42 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:42 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:43 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:43 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:44 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:44 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:45 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:45 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:46 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:46 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:46 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:47 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:47 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:48 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:48 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:48 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:49 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:49 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:50 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:50 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:51 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:04:51 | INFO | Sent 100 immediate anomaly alerts on startup
+2025-08-31 00:04:51 | INFO | Scheduler started, running every 5 minutes
+2025-08-31 00:05:32 | INFO | ✅ Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-31 00:05:33 | INFO | ✅ Fetched 100 candles for DOTUSDT on 5m timeframe
+2025-08-31 00:05:33 | INFO | ✅ Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-31 00:05:34 | INFO | ✅ Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-31 00:05:35 | INFO | ✅ Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-31 00:05:36 | INFO | ✅ Fetched 50 candles for ADAUSDT on 5m timeframe
+2025-08-31 00:05:37 | INFO | ✅ Fetched 50 candles for DOTUSDT on 5m timeframe
+2025-08-31 00:05:38 | INFO | ✅ Fetched 50 candles for AVAXUSDT on 5m timeframe
+2025-08-31 00:05:39 | INFO | ✅ Fetched 50 candles for MATICUSDT on 5m timeframe
+2025-08-31 00:05:40 | ERROR | ❌ Error fetching funding rate for MATICUSDT: binance fetchFundingRate() supports linear and inverse contracts only
+2025-08-31 00:05:40 | INFO | ✅ Fetched 50 candles for XRPUSDT on 5m timeframe
+2025-08-31 00:05:41 | INFO | ✅ Fetched 50 candles for LINKUSDT on 5m timeframe
+2025-08-31 00:05:43 | INFO | ✅ Fetched 50 candles for DOGEUSDT on 5m timeframe
+2025-08-31 00:05:44 | INFO | ✅ Fetched 50 candles for LTCUSDT on 5m timeframe
+2025-08-31 00:05:46 | INFO | ✅ Fetched 50 candles for BNBUSDT on 5m timeframe
+2025-08-31 00:05:47 | INFO | ✅ Fetched 50 candles for ATOMUSDT on 5m timeframe
+2025-08-31 00:05:48 | INFO | Anomaly scan completed. Found 82 anomalies
+2025-08-31 00:05:48 | INFO | Anomaly detection scan found 82 anomalies
+2025-08-31 00:07:49 | INFO | ✅ Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-31 00:07:50 | INFO | ✅ Fetched 100 candles for MATICUSDT on 5m timeframe
+2025-08-31 00:07:50 | INFO | ✅ Fetched 100 candles for ATOMUSDT on 5m timeframe
+2025-08-31 00:07:51 | INFO | ✅ Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-31 00:07:52 | INFO | ✅ Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-31 00:07:54 | INFO | ✅ Fetched 50 candles for ADAUSDT on 5m timeframe
+2025-08-31 00:07:55 | INFO | ✅ Fetched 50 candles for DOTUSDT on 5m timeframe
+2025-08-31 00:07:56 | INFO | ✅ Fetched 50 candles for AVAXUSDT on 5m timeframe
+2025-08-31 00:07:57 | INFO | ✅ Fetched 50 candles for MATICUSDT on 5m timeframe
+2025-08-31 00:07:57 | ERROR | ❌ Error fetching funding rate for MATICUSDT: binance fetchFundingRate() supports linear and inverse contracts only
+2025-08-31 00:07:58 | INFO | ✅ Fetched 50 candles for XRPUSDT on 5m timeframe
+2025-08-31 00:07:59 | INFO | ✅ Fetched 50 candles for LINKUSDT on 5m timeframe
+2025-08-31 00:08:00 | INFO | ✅ Fetched 50 candles for DOGEUSDT on 5m timeframe
+2025-08-31 00:08:01 | INFO | ✅ Fetched 50 candles for LTCUSDT on 5m timeframe
+2025-08-31 00:08:02 | INFO | ✅ Fetched 50 candles for BNBUSDT on 5m timeframe
+2025-08-31 00:08:03 | INFO | ✅ Fetched 50 candles for ATOMUSDT on 5m timeframe
+2025-08-31 00:08:04 | INFO | Anomaly scan completed. Found 133 anomalies
+2025-08-31 00:08:04 | INFO | Anomaly detection scan found 133 anomalies
+2025-08-31 00:09:52 | INFO | ✅ Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-31 00:09:52 | INFO | All technical indicators calculated successfully
+2025-08-31 00:09:53 | INFO | ✅ Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-31 00:09:54 | INFO | Anomaly scan completed. Found 16 anomalies
+2025-08-31 00:09:54 | WARNING | Anomalies detected for BTCUSDT: 15 alerts
+2025-08-31 00:09:54 | INFO | Leverage Optimization Environment initialized for BTCUSDT
+2025-08-31 00:09:54 | ERROR | Error getting optimal leverage: 'list' object has no attribute 'iloc'
+2025-08-31 00:09:55 | INFO | ✅ Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-31 00:09:55 | INFO | All technical indicators calculated successfully
+2025-08-31 00:09:56 | INFO | ✅ Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-31 00:09:56 | INFO | Anomaly scan completed. Found 19 anomalies
+2025-08-31 00:09:56 | WARNING | Anomalies detected for ETHUSDT: 16 alerts
+2025-08-31 00:09:56 | WARNING | Model not trained yet
+2025-08-31 00:09:56 | INFO | ML confidence for BULLISH signal: 0.5000
+2025-08-31 00:09:56 | INFO | Signal quality too low for ETHUSDT, skipping trade calls
+2025-08-31 00:09:57 | INFO | ✅ Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-31 00:09:57 | INFO | All technical indicators calculated successfully
+2025-08-31 00:09:58 | INFO | ✅ Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-31 00:09:58 | INFO | Anomaly scan completed. Found 11 anomalies
+2025-08-31 00:09:58 | WARNING | Anomalies detected for SOLUSDT: 10 alerts
+2025-08-31 00:09:58 | INFO | Leverage Optimization Environment initialized for SOLUSDT
+2025-08-31 00:09:58 | ERROR | Error getting optimal leverage: 'list' object has no attribute 'iloc'
+2025-08-31 00:09:59 | INFO | ✅ Fetched 100 candles for ADAUSDT on 5m timeframe
+2025-08-31 00:09:59 | INFO | All technical indicators calculated successfully
+2025-08-31 00:10:00 | INFO | ✅ Fetched 100 candles for ADAUSDT on 5m timeframe
+2025-08-31 00:10:01 | INFO | Anomaly scan completed. Found 13 anomalies
+2025-08-31 00:10:01 | WARNING | Anomalies detected for ADAUSDT: 9 alerts
+2025-08-31 00:10:01 | INFO | Leverage Optimization Environment initialized for ADAUSDT
+2025-08-31 00:10:01 | ERROR | Error getting optimal leverage: 'list' object has no attribute 'iloc'
+2025-08-31 00:10:01 | INFO | ✅ Fetched 100 candles for DOTUSDT on 5m timeframe
+2025-08-31 00:10:01 | INFO | All technical indicators calculated successfully
+2025-08-31 00:10:02 | INFO | ✅ Fetched 100 candles for DOTUSDT on 5m timeframe
+2025-08-31 00:10:03 | INFO | Anomaly scan completed. Found 2 anomalies
+2025-08-31 00:10:03 | WARNING | Anomalies detected for DOTUSDT: 2 alerts
+2025-08-31 00:10:03 | INFO | Leverage Optimization Environment initialized for DOTUSDT
+2025-08-31 00:10:03 | ERROR | Error getting optimal leverage: 'list' object has no attribute 'iloc'
+2025-08-31 00:10:03 | INFO | ✅ Fetched 100 candles for AVAXUSDT on 5m timeframe
+2025-08-31 00:10:04 | INFO | All technical indicators calculated successfully
+2025-08-31 00:10:05 | INFO | ✅ Fetched 100 candles for AVAXUSDT on 5m timeframe
+2025-08-31 00:10:05 | INFO | ✅ Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-31 00:10:06 | INFO | ✅ Fetched 100 candles for LINKUSDT on 5m timeframe
+2025-08-31 00:10:06 | INFO | Anomaly scan completed. Found 3 anomalies
+2025-08-31 00:10:06 | WARNING | Anomalies detected for AVAXUSDT: 2 alerts
+2025-08-31 00:10:06 | INFO | Leverage Optimization Environment initialized for AVAXUSDT
+2025-08-31 00:10:06 | ERROR | Error getting optimal leverage: 'list' object has no attribute 'iloc'
+2025-08-31 00:10:06 | INFO | All technical indicators calculated successfully
+2025-08-31 00:10:06 | ERROR | ❌ Error fetching funding rate for MATICUSDT: binance fetchFundingRate() supports linear and inverse contracts only
+2025-08-31 00:10:06 | INFO | ✅ Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-31 00:10:06 | INFO | ✅ Fetched 100 candles for MATICUSDT on 5m timeframe
+2025-08-31 00:10:07 | ERROR | ❌ Error fetching funding rate for MATICUSDT: binance fetchFundingRate() supports linear and inverse contracts only
+2025-08-31 00:10:07 | INFO | Anomaly scan completed. Found 5 anomalies
+2025-08-31 00:10:07 | WARNING | Anomalies detected for MATICUSDT: 4 alerts
+2025-08-31 00:10:07 | WARNING | Model not trained yet
+2025-08-31 00:10:07 | INFO | ML confidence for BULLISH signal: 0.5000
+2025-08-31 00:10:07 | ERROR | Error generating multiple trade calls for MATICUSDT: '>' not supported between instances of 'NoneType' and 'float'
+2025-08-31 00:10:07 | INFO | ✅ Fetched 100 candles for XRPUSDT on 5m timeframe
+2025-08-31 00:10:07 | INFO | All technical indicators calculated successfully
+2025-08-31 00:10:07 | INFO | ✅ Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-31 00:10:08 | INFO | ✅ Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-31 00:10:08 | INFO | ✅ Fetched 100 candles for XRPUSDT on 5m timeframe
+2025-08-31 00:10:10 | INFO | Anomaly scan completed. Found 17 anomalies
+2025-08-31 00:10:10 | WARNING | Anomalies detected for XRPUSDT: 13 alerts
+2025-08-31 00:10:10 | INFO | Leverage Optimization Environment initialized for XRPUSDT
+2025-08-31 00:10:10 | ERROR | Error getting optimal leverage: 'list' object has no attribute 'iloc'
+2025-08-31 00:10:10 | INFO | ✅ Fetched 50 candles for ADAUSDT on 5m timeframe
+2025-08-31 00:10:10 | INFO | ✅ Fetched 100 candles for LINKUSDT on 5m timeframe
+2025-08-31 00:10:10 | INFO | All technical indicators calculated successfully
+2025-08-31 00:10:11 | INFO | ✅ Fetched 50 candles for DOTUSDT on 5m timeframe
+2025-08-31 00:10:11 | INFO | ✅ Fetched 100 candles for LINKUSDT on 5m timeframe
+2025-08-31 00:10:12 | INFO | Anomaly scan completed. Found 22 anomalies
+2025-08-31 00:10:12 | WARNING | Anomalies detected for LINKUSDT: 17 alerts
+2025-08-31 00:10:12 | WARNING | Model not trained yet
+2025-08-31 00:10:12 | INFO | ML confidence for BULLISH signal: 0.5000
+2025-08-31 00:10:12 | INFO | Signal quality too low for LINKUSDT, skipping trade calls
+2025-08-31 00:10:12 | INFO | ✅ Fetched 50 candles for AVAXUSDT on 5m timeframe
+2025-08-31 00:10:12 | INFO | ✅ Fetched 100 candles for DOGEUSDT on 5m timeframe
+2025-08-31 00:10:12 | INFO | All technical indicators calculated successfully
+2025-08-31 00:10:13 | INFO | ✅ Fetched 50 candles for MATICUSDT on 5m timeframe
+2025-08-31 00:10:13 | INFO | ✅ Fetched 100 candles for DOGEUSDT on 5m timeframe
+2025-08-31 00:10:14 | ERROR | ❌ Error fetching funding rate for MATICUSDT: binance fetchFundingRate() supports linear and inverse contracts only
+2025-08-31 00:10:14 | INFO | ✅ Fetched 50 candles for XRPUSDT on 5m timeframe
+2025-08-31 00:10:14 | INFO | Anomaly scan completed. Found 11 anomalies
+2025-08-31 00:10:14 | WARNING | Anomalies detected for DOGEUSDT: 9 alerts
+2025-08-31 00:10:14 | INFO | Leverage Optimization Environment initialized for DOGEUSDT
+2025-08-31 00:10:14 | ERROR | Error getting optimal leverage: 'list' object has no attribute 'iloc'
+2025-08-31 00:10:14 | INFO | All technical indicators calculated successfully
+2025-08-31 00:10:15 | INFO | ✅ Fetched 50 candles for LTCUSDT on 5m timeframe
+2025-08-31 00:10:15 | INFO | ✅ Fetched 50 candles for LINKUSDT on 5m timeframe
+2025-08-31 00:10:16 | INFO | ✅ Fetched 100 candles for LTCUSDT on 5m timeframe
+2025-08-31 00:10:16 | INFO | ✅ Fetched 50 candles for DOGEUSDT on 5m timeframe
+2025-08-31 00:10:16 | INFO | Anomaly scan completed. Found 6 anomalies
+2025-08-31 00:10:16 | WARNING | Anomalies detected for LTCUSDT: 6 alerts
+2025-08-31 00:10:16 | INFO | Leverage Optimization Environment initialized for LTCUSDT
+2025-08-31 00:10:16 | ERROR | Error getting optimal leverage: 'list' object has no attribute 'iloc'
+2025-08-31 00:10:17 | INFO | ✅ Fetched 100 candles for BNBUSDT on 5m timeframe
+2025-08-31 00:10:17 | INFO | All technical indicators calculated successfully
+2025-08-31 00:10:17 | INFO | ✅ Fetched 50 candles for LTCUSDT on 5m timeframe
+2025-08-31 00:10:18 | INFO | ✅ Fetched 100 candles for BNBUSDT on 5m timeframe
+2025-08-31 00:10:18 | INFO | ✅ Fetched 50 candles for BNBUSDT on 5m timeframe
+2025-08-31 00:10:18 | INFO | Anomaly scan completed. Found 12 anomalies
+2025-08-31 00:10:18 | WARNING | Anomalies detected for BNBUSDT: 9 alerts
+2025-08-31 00:10:19 | INFO | Leverage Optimization Environment initialized for BNBUSDT
+2025-08-31 00:10:19 | ERROR | Error getting optimal leverage: 'list' object has no attribute 'iloc'
+2025-08-31 00:10:19 | INFO | ✅ Fetched 100 candles for ATOMUSDT on 5m timeframe
+2025-08-31 00:10:19 | INFO | All technical indicators calculated successfully
+2025-08-31 00:10:19 | INFO | ✅ Fetched 50 candles for ATOMUSDT on 5m timeframe
+2025-08-31 00:10:20 | INFO | Anomaly scan completed. Found 238 anomalies
+2025-08-31 00:10:20 | INFO | Anomaly detection scan found 238 anomalies
+2025-08-31 00:10:20 | INFO | ✅ Fetched 100 candles for ATOMUSDT on 5m timeframe
+2025-08-31 00:10:21 | INFO | Anomaly scan completed. Found 7 anomalies
+2025-08-31 00:10:21 | WARNING | Anomalies detected for ATOMUSDT: 7 alerts
+2025-08-31 00:10:21 | WARNING | Model not trained yet
+2025-08-31 00:10:21 | INFO | ML confidence for BULLISH signal: 0.5000
+2025-08-31 00:10:21 | INFO | Signal quality too low for ATOMUSDT, skipping trade calls
+2025-08-31 00:10:21 | INFO | No trade calls generated at this time
+2025-08-31 00:10:22 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:22 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:23 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:23 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:24 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:24 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:24 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:25 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:25 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:26 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:26 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:26 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:27 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:27 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:28 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:28 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:28 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:29 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:29 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:30 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:30 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:31 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:31 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:31 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:32 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:32 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:32 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:33 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:33 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:34 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:34 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:34 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:35 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:35 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:36 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:36 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:36 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:37 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:37 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:38 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:38 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:39 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:39 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:39 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:40 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:40 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:41 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:41 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:41 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:42 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:42 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:43 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:43 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:43 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:44 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:44 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:45 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:46 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:46 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:46 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:47 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:47 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:48 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:48 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:48 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:49 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:49 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:50 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:50 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:50 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:51 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:51 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:52 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:52 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:52 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:53 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:53 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:54 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:54 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:54 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:55 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:55 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:56 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:56 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:56 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:57 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:57 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:57 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:58 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:58 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:59 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:59 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:10:59 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:11:00 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:11:00 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:11:01 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:11:01 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:11:02 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:11:02 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:11:02 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:11:02 | INFO | Sent 100 anomaly alerts
+2025-08-31 00:12:21 | INFO | ✅ Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-31 00:12:21 | INFO | ✅ Fetched 100 candles for MATICUSDT on 5m timeframe
+2025-08-31 00:12:21 | INFO | ✅ Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-31 00:12:22 | INFO | ✅ Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-31 00:12:24 | INFO | ✅ Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-31 00:12:25 | INFO | ✅ Fetched 50 candles for ADAUSDT on 5m timeframe
+2025-08-31 00:12:26 | INFO | ✅ Fetched 50 candles for DOTUSDT on 5m timeframe
+2025-08-31 00:12:27 | INFO | ✅ Fetched 50 candles for AVAXUSDT on 5m timeframe
+2025-08-31 00:12:28 | INFO | ✅ Fetched 50 candles for MATICUSDT on 5m timeframe
+2025-08-31 00:12:28 | ERROR | ❌ Error fetching funding rate for MATICUSDT: binance fetchFundingRate() supports linear and inverse contracts only
+2025-08-31 00:12:28 | INFO | ✅ Fetched 50 candles for XRPUSDT on 5m timeframe
+2025-08-31 00:12:29 | INFO | ✅ Fetched 50 candles for LINKUSDT on 5m timeframe
+2025-08-31 00:12:30 | INFO | ✅ Fetched 50 candles for DOGEUSDT on 5m timeframe
+2025-08-31 00:12:31 | INFO | ✅ Fetched 50 candles for LTCUSDT on 5m timeframe
+2025-08-31 00:12:33 | INFO | ✅ Fetched 50 candles for BNBUSDT on 5m timeframe
+2025-08-31 00:12:34 | INFO | ✅ Fetched 50 candles for ATOMUSDT on 5m timeframe
+2025-08-31 00:12:34 | INFO | Anomaly scan completed. Found 131 anomalies
+2025-08-31 00:12:34 | INFO | Anomaly detection scan found 131 anomalies
+2025-08-31 00:14:35 | INFO | ✅ Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-31 00:14:35 | INFO | ✅ Fetched 100 candles for DOGEUSDT on 5m timeframe
+2025-08-31 00:14:36 | INFO | ✅ Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-31 00:14:37 | INFO | ✅ Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-31 00:14:38 | INFO | ✅ Fetched 50 candles for ADAUSDT on 5m timeframe
+2025-08-31 00:14:39 | INFO | ✅ Fetched 50 candles for DOTUSDT on 5m timeframe
+2025-08-31 00:14:40 | INFO | ✅ Fetched 50 candles for AVAXUSDT on 5m timeframe
+2025-08-31 00:14:41 | INFO | ✅ Fetched 50 candles for MATICUSDT on 5m timeframe
+2025-08-31 00:14:42 | ERROR | ❌ Error fetching funding rate for MATICUSDT: binance fetchFundingRate() supports linear and inverse contracts only
+2025-08-31 00:14:42 | INFO | ✅ Fetched 50 candles for XRPUSDT on 5m timeframe
+2025-08-31 00:14:43 | INFO | ✅ Fetched 50 candles for LINKUSDT on 5m timeframe
+2025-08-31 00:14:44 | INFO | ✅ Fetched 50 candles for DOGEUSDT on 5m timeframe
+2025-08-31 00:14:45 | INFO | ✅ Fetched 50 candles for LTCUSDT on 5m timeframe
+2025-08-31 00:14:46 | INFO | ✅ Fetched 50 candles for BNBUSDT on 5m timeframe
+2025-08-31 00:14:47 | INFO | ✅ Fetched 50 candles for ATOMUSDT on 5m timeframe
+2025-08-31 00:14:48 | INFO | Anomaly scan completed. Found 188 anomalies
+2025-08-31 00:14:48 | INFO | Anomaly detection scan found 188 anomalies
+2025-08-31 00:16:03 | INFO | ✅ Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-31 00:16:03 | INFO | All technical indicators calculated successfully
+2025-08-31 00:16:04 | INFO | ✅ Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-31 00:16:05 | INFO | Anomaly scan completed. Found 16 anomalies
+2025-08-31 00:16:05 | WARNING | Anomalies detected for BTCUSDT: 15 alerts
+2025-08-31 00:16:05 | INFO | Leverage Optimization Environment initialized for BTCUSDT
+2025-08-31 00:16:05 | ERROR | Error getting optimal leverage: 'list' object has no attribute 'iloc'
+2025-08-31 00:16:05 | INFO | ✅ Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-31 00:16:05 | INFO | All technical indicators calculated successfully
+2025-08-31 00:16:06 | INFO | ✅ Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-31 00:16:07 | INFO | Anomaly scan completed. Found 19 anomalies
+2025-08-31 00:16:07 | WARNING | Anomalies detected for ETHUSDT: 16 alerts
+2025-08-31 00:16:07 | INFO | Leverage Optimization Environment initialized for ETHUSDT
+2025-08-31 00:16:07 | ERROR | Error getting optimal leverage: 'list' object has no attribute 'iloc'
+2025-08-31 00:16:08 | INFO | ✅ Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-31 00:16:08 | INFO | All technical indicators calculated successfully
+2025-08-31 00:16:09 | INFO | ✅ Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-31 00:16:09 | INFO | Anomaly scan completed. Found 11 anomalies
+2025-08-31 00:16:09 | WARNING | Anomalies detected for SOLUSDT: 10 alerts
+2025-08-31 00:16:09 | INFO | Leverage Optimization Environment initialized for SOLUSDT
+2025-08-31 00:16:09 | ERROR | Error getting optimal leverage: 'list' object has no attribute 'iloc'
+2025-08-31 00:16:10 | INFO | ✅ Fetched 100 candles for ADAUSDT on 5m timeframe
+2025-08-31 00:16:10 | INFO | All technical indicators calculated successfully
+2025-08-31 00:16:11 | INFO | ✅ Fetched 100 candles for ADAUSDT on 5m timeframe
+2025-08-31 00:16:11 | INFO | Anomaly scan completed. Found 13 anomalies
+2025-08-31 00:16:11 | WARNING | Anomalies detected for ADAUSDT: 9 alerts
+2025-08-31 00:16:11 | INFO | Leverage Optimization Environment initialized for ADAUSDT
+2025-08-31 00:16:12 | ERROR | Error getting optimal leverage: 'list' object has no attribute 'iloc'
+2025-08-31 00:16:12 | INFO | ✅ Fetched 100 candles for DOTUSDT on 5m timeframe
+2025-08-31 00:16:12 | INFO | All technical indicators calculated successfully
+2025-08-31 00:16:13 | INFO | ✅ Fetched 100 candles for DOTUSDT on 5m timeframe
+2025-08-31 00:16:14 | INFO | Anomaly scan completed. Found 2 anomalies
+2025-08-31 00:16:14 | WARNING | Anomalies detected for DOTUSDT: 2 alerts
+2025-08-31 00:16:14 | INFO | Leverage Optimization Environment initialized for DOTUSDT
+2025-08-31 00:16:14 | ERROR | Error getting optimal leverage: 'list' object has no attribute 'iloc'
+2025-08-31 00:16:14 | INFO | ✅ Fetched 100 candles for AVAXUSDT on 5m timeframe
+2025-08-31 00:16:14 | INFO | All technical indicators calculated successfully
+2025-08-31 00:16:15 | INFO | ✅ Fetched 100 candles for AVAXUSDT on 5m timeframe
+2025-08-31 00:16:16 | INFO | Anomaly scan completed. Found 3 anomalies
+2025-08-31 00:16:16 | WARNING | Anomalies detected for AVAXUSDT: 2 alerts
+2025-08-31 00:16:16 | INFO | Leverage Optimization Environment initialized for AVAXUSDT
+2025-08-31 00:16:16 | ERROR | Error getting optimal leverage: 'list' object has no attribute 'iloc'
+2025-08-31 00:16:16 | INFO | ✅ Fetched 100 candles for MATICUSDT on 5m timeframe
+2025-08-31 00:16:16 | INFO | All technical indicators calculated successfully
+2025-08-31 00:16:16 | ERROR | ❌ Error fetching funding rate for MATICUSDT: binance fetchFundingRate() supports linear and inverse contracts only
+2025-08-31 00:16:17 | INFO | ✅ Fetched 100 candles for MATICUSDT on 5m timeframe
+2025-08-31 00:16:17 | ERROR | ❌ Error fetching funding rate for MATICUSDT: binance fetchFundingRate() supports linear and inverse contracts only
+2025-08-31 00:16:17 | INFO | Anomaly scan completed. Found 5 anomalies
+2025-08-31 00:16:17 | WARNING | Anomalies detected for MATICUSDT: 4 alerts
+2025-08-31 00:16:17 | ERROR | Error generating multiple trade calls for MATICUSDT: '>' not supported between instances of 'NoneType' and 'float'
+2025-08-31 00:16:18 | INFO | ✅ Fetched 100 candles for XRPUSDT on 5m timeframe
+2025-08-31 00:16:18 | INFO | All technical indicators calculated successfully
+2025-08-31 00:16:19 | INFO | ✅ Fetched 100 candles for XRPUSDT on 5m timeframe
+2025-08-31 00:16:19 | INFO | Anomaly scan completed. Found 17 anomalies
+2025-08-31 00:16:19 | WARNING | Anomalies detected for XRPUSDT: 13 alerts
+2025-08-31 00:16:19 | INFO | Leverage Optimization Environment initialized for XRPUSDT
+2025-08-31 00:16:19 | ERROR | Error getting optimal leverage: 'list' object has no attribute 'iloc'
+2025-08-31 00:16:20 | INFO | ✅ Fetched 100 candles for LINKUSDT on 5m timeframe
+2025-08-31 00:16:20 | INFO | All technical indicators calculated successfully
+2025-08-31 00:16:21 | INFO | ✅ Fetched 100 candles for LINKUSDT on 5m timeframe
+2025-08-31 00:16:22 | INFO | Anomaly scan completed. Found 22 anomalies
+2025-08-31 00:16:22 | WARNING | Anomalies detected for LINKUSDT: 17 alerts
+2025-08-31 00:16:22 | WARNING | Model not trained yet
+2025-08-31 00:16:22 | INFO | ML confidence for BULLISH signal: 0.5000
+2025-08-31 00:16:22 | INFO | Signal quality too low for LINKUSDT, skipping trade calls
+2025-08-31 00:16:22 | INFO | ✅ Fetched 100 candles for DOGEUSDT on 5m timeframe
+2025-08-31 00:16:22 | INFO | All technical indicators calculated successfully
+2025-08-31 00:16:23 | INFO | ✅ Fetched 100 candles for DOGEUSDT on 5m timeframe
+2025-08-31 00:16:24 | INFO | Anomaly scan completed. Found 11 anomalies
+2025-08-31 00:16:24 | WARNING | Anomalies detected for DOGEUSDT: 9 alerts
+2025-08-31 00:16:24 | INFO | Leverage Optimization Environment initialized for DOGEUSDT
+2025-08-31 00:16:24 | ERROR | Error getting optimal leverage: 'list' object has no attribute 'iloc'
+2025-08-31 00:16:24 | INFO | ✅ Fetched 100 candles for LTCUSDT on 5m timeframe
+2025-08-31 00:16:24 | INFO | All technical indicators calculated successfully
+2025-08-31 00:16:25 | INFO | ✅ Fetched 100 candles for LTCUSDT on 5m timeframe
+2025-08-31 00:16:26 | INFO | Anomaly scan completed. Found 6 anomalies
+2025-08-31 00:16:26 | WARNING | Anomalies detected for LTCUSDT: 6 alerts
+2025-08-31 00:16:26 | INFO | Leverage Optimization Environment initialized for LTCUSDT
+2025-08-31 00:16:26 | ERROR | Error getting optimal leverage: 'list' object has no attribute 'iloc'
+2025-08-31 00:16:26 | INFO | ✅ Fetched 100 candles for BNBUSDT on 5m timeframe
+2025-08-31 00:16:26 | INFO | All technical indicators calculated successfully
+2025-08-31 00:16:27 | INFO | ✅ Fetched 100 candles for BNBUSDT on 5m timeframe
+2025-08-31 00:16:28 | INFO | Anomaly scan completed. Found 11 anomalies
+2025-08-31 00:16:28 | WARNING | Anomalies detected for BNBUSDT: 8 alerts
+2025-08-31 00:16:28 | WARNING | Model not trained yet
+2025-08-31 00:16:28 | INFO | ML confidence for BEARISH signal: 0.5000
+2025-08-31 00:16:28 | INFO | Signal quality too low for BNBUSDT, skipping trade calls
+2025-08-31 00:16:28 | INFO | ✅ Fetched 100 candles for ATOMUSDT on 5m timeframe
+2025-08-31 00:16:28 | INFO | All technical indicators calculated successfully
+2025-08-31 00:16:29 | INFO | ✅ Fetched 100 candles for ATOMUSDT on 5m timeframe
+2025-08-31 00:16:30 | INFO | Anomaly scan completed. Found 7 anomalies
+2025-08-31 00:16:30 | WARNING | Anomalies detected for ATOMUSDT: 7 alerts
+2025-08-31 00:16:30 | WARNING | Model not trained yet
+2025-08-31 00:16:30 | INFO | ML confidence for BULLISH signal: 0.5000
+2025-08-31 00:16:30 | INFO | Signal quality too low for ATOMUSDT, skipping trade calls
+2025-08-31 00:16:30 | INFO | No trade calls generated at this time
+2025-08-31 00:16:31 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:16:32 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:16:32 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:16:33 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:16:33 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:16:33 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:16:34 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:16:34 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:16:35 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:16:35 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:16:35 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:16:36 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:16:36 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:16:37 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:16:37 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:16:37 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:16:38 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:16:38 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:16:39 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:16:39 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:16:39 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:16:40 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:16:40 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:16:41 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:16:41 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:16:41 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:16:42 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:16:42 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:16:42 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:16:43 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:16:43 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:16:44 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:16:44 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:16:44 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:16:45 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:16:45 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:16:46 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:16:46 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:16:46 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:16:47 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:16:47 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:16:48 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:16:48 | INFO | ✅ Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-31 00:16:48 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:16:49 | INFO | ✅ Fetched 100 candles for XRPUSDT on 5m timeframe
+2025-08-31 00:16:49 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:16:49 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:16:50 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:16:50 | INFO | ✅ Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-31 00:16:50 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:16:50 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:16:51 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:16:51 | INFO | ✅ Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-31 00:16:51 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:16:52 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:16:52 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:16:52 | INFO | ✅ Fetched 50 candles for ADAUSDT on 5m timeframe
+2025-08-31 00:16:52 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:16:53 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:16:53 | INFO | ✅ Fetched 50 candles for DOTUSDT on 5m timeframe
+2025-08-31 00:16:53 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:16:54 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:16:54 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:16:54 | INFO | ✅ Fetched 50 candles for AVAXUSDT on 5m timeframe
+2025-08-31 00:16:54 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:16:55 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:16:55 | INFO | ✅ Fetched 50 candles for MATICUSDT on 5m timeframe
+2025-08-31 00:16:55 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:16:55 | ERROR | ❌ Error fetching funding rate for MATICUSDT: binance fetchFundingRate() supports linear and inverse contracts only
+2025-08-31 00:16:56 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:16:56 | INFO | ✅ Fetched 50 candles for XRPUSDT on 5m timeframe
+2025-08-31 00:16:56 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:16:56 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:16:57 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:16:57 | INFO | ✅ Fetched 50 candles for LINKUSDT on 5m timeframe
+2025-08-31 00:16:57 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:16:58 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:16:58 | INFO | ✅ Fetched 50 candles for DOGEUSDT on 5m timeframe
+2025-08-31 00:16:58 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:16:58 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:16:59 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:16:59 | INFO | ✅ Fetched 50 candles for LTCUSDT on 5m timeframe
+2025-08-31 00:16:59 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:17:00 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:17:00 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:17:00 | INFO | ✅ Fetched 50 candles for BNBUSDT on 5m timeframe
+2025-08-31 00:17:00 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:17:01 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:17:01 | INFO | ✅ Fetched 50 candles for ATOMUSDT on 5m timeframe
+2025-08-31 00:17:01 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:17:02 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:17:02 | INFO | Anomaly scan completed. Found 214 anomalies
+2025-08-31 00:17:02 | INFO | Anomaly detection scan found 214 anomalies
+2025-08-31 00:17:02 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:17:02 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:17:03 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:17:03 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:17:04 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:17:04 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:17:04 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:17:05 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:17:05 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:17:06 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:17:06 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:17:06 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:17:07 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:17:07 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:17:08 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:17:08 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:17:08 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:17:09 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:17:09 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:17:10 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:17:10 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:17:10 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:17:11 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:17:11 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:17:11 | INFO | Sent 100 anomaly alerts
+2025-08-31 00:19:02 | INFO | ✅ Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-31 00:19:03 | INFO | ✅ Fetched 100 candles for AVAXUSDT on 5m timeframe
+2025-08-31 00:19:04 | INFO | ✅ Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-31 00:19:05 | INFO | ✅ Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-31 00:19:06 | INFO | ✅ Fetched 50 candles for ADAUSDT on 5m timeframe
+2025-08-31 00:19:07 | INFO | ✅ Fetched 50 candles for DOTUSDT on 5m timeframe
+2025-08-31 00:19:08 | INFO | ✅ Fetched 50 candles for AVAXUSDT on 5m timeframe
+2025-08-31 00:19:09 | INFO | ✅ Fetched 50 candles for MATICUSDT on 5m timeframe
+2025-08-31 00:19:09 | ERROR | ❌ Error fetching funding rate for MATICUSDT: binance fetchFundingRate() supports linear and inverse contracts only
+2025-08-31 00:19:10 | INFO | ✅ Fetched 50 candles for XRPUSDT on 5m timeframe
+2025-08-31 00:19:11 | INFO | ✅ Fetched 50 candles for LINKUSDT on 5m timeframe
+2025-08-31 00:19:12 | INFO | ✅ Fetched 50 candles for DOGEUSDT on 5m timeframe
+2025-08-31 00:19:13 | INFO | ✅ Fetched 50 candles for LTCUSDT on 5m timeframe
+2025-08-31 00:19:14 | INFO | ✅ Fetched 50 candles for BNBUSDT on 5m timeframe
+2025-08-31 00:19:15 | INFO | ✅ Fetched 50 candles for ATOMUSDT on 5m timeframe
+2025-08-31 00:19:16 | INFO | Anomaly scan completed. Found 104 anomalies
+2025-08-31 00:19:16 | INFO | Anomaly detection scan found 104 anomalies
+2025-08-31 00:21:16 | INFO | ✅ Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-31 00:21:17 | INFO | ✅ Fetched 100 candles for LINKUSDT on 5m timeframe
+2025-08-31 00:21:18 | INFO | ✅ Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-31 00:21:19 | INFO | ✅ Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-31 00:21:20 | INFO | ✅ Fetched 50 candles for ADAUSDT on 5m timeframe
+2025-08-31 00:21:21 | INFO | ✅ Fetched 50 candles for DOTUSDT on 5m timeframe
+2025-08-31 00:21:22 | INFO | ✅ Fetched 50 candles for AVAXUSDT on 5m timeframe
+2025-08-31 00:21:23 | INFO | ✅ Fetched 50 candles for MATICUSDT on 5m timeframe
+2025-08-31 00:21:24 | ERROR | ❌ Error fetching funding rate for MATICUSDT: binance fetchFundingRate() supports linear and inverse contracts only
+2025-08-31 00:21:24 | INFO | ✅ Fetched 50 candles for XRPUSDT on 5m timeframe
+2025-08-31 00:21:25 | INFO | ✅ Fetched 50 candles for LINKUSDT on 5m timeframe
+2025-08-31 00:21:26 | INFO | ✅ Fetched 50 candles for DOGEUSDT on 5m timeframe
+2025-08-31 00:21:27 | INFO | ✅ Fetched 50 candles for LTCUSDT on 5m timeframe
+2025-08-31 00:21:28 | INFO | ✅ Fetched 50 candles for BNBUSDT on 5m timeframe
+2025-08-31 00:21:29 | INFO | ✅ Fetched 50 candles for ATOMUSDT on 5m timeframe
+2025-08-31 00:21:30 | INFO | Anomaly scan completed. Found 233 anomalies
+2025-08-31 00:21:30 | INFO | Anomaly detection scan found 233 anomalies
+2025-08-31 00:22:12 | INFO | ✅ Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-31 00:22:12 | INFO | All technical indicators calculated successfully
+2025-08-31 00:22:13 | INFO | ✅ Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-31 00:22:13 | INFO | Anomaly scan completed. Found 16 anomalies
+2025-08-31 00:22:13 | WARNING | Anomalies detected for BTCUSDT: 15 alerts
+2025-08-31 00:22:13 | INFO | Leverage Optimization Environment initialized for BTCUSDT
+2025-08-31 00:22:13 | ERROR | Error getting optimal leverage: 'list' object has no attribute 'iloc'
+2025-08-31 00:22:14 | INFO | ✅ Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-31 00:22:14 | INFO | All technical indicators calculated successfully
+2025-08-31 00:22:15 | INFO | ✅ Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-31 00:22:16 | INFO | Anomaly scan completed. Found 18 anomalies
+2025-08-31 00:22:16 | WARNING | Anomalies detected for ETHUSDT: 15 alerts
+2025-08-31 00:22:16 | WARNING | Model not trained yet
+2025-08-31 00:22:16 | INFO | ML confidence for BULLISH signal: 0.5000
+2025-08-31 00:22:16 | INFO | Signal quality too low for ETHUSDT, skipping trade calls
+2025-08-31 00:22:16 | INFO | ✅ Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-31 00:22:16 | INFO | All technical indicators calculated successfully
+2025-08-31 00:22:17 | INFO | ✅ Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-31 00:22:18 | INFO | Anomaly scan completed. Found 11 anomalies
+2025-08-31 00:22:18 | WARNING | Anomalies detected for SOLUSDT: 10 alerts
+2025-08-31 00:22:18 | INFO | Leverage Optimization Environment initialized for SOLUSDT
+2025-08-31 00:22:18 | ERROR | Error getting optimal leverage: 'list' object has no attribute 'iloc'
+2025-08-31 00:22:18 | INFO | ✅ Fetched 100 candles for ADAUSDT on 5m timeframe
+2025-08-31 00:22:18 | INFO | All technical indicators calculated successfully
+2025-08-31 00:22:19 | INFO | ✅ Fetched 100 candles for ADAUSDT on 5m timeframe
+2025-08-31 00:22:20 | INFO | Anomaly scan completed. Found 13 anomalies
+2025-08-31 00:22:20 | WARNING | Anomalies detected for ADAUSDT: 9 alerts
+2025-08-31 00:22:20 | WARNING | Model not trained yet
+2025-08-31 00:22:20 | INFO | ML confidence for BULLISH signal: 0.5000
+2025-08-31 00:22:20 | INFO | Signal quality too low for ADAUSDT, skipping trade calls
+2025-08-31 00:22:20 | INFO | ✅ Fetched 100 candles for DOTUSDT on 5m timeframe
+2025-08-31 00:22:20 | INFO | All technical indicators calculated successfully
+2025-08-31 00:22:21 | INFO | ✅ Fetched 100 candles for DOTUSDT on 5m timeframe
+2025-08-31 00:22:22 | INFO | Anomaly scan completed. Found 2 anomalies
+2025-08-31 00:22:22 | WARNING | Anomalies detected for DOTUSDT: 2 alerts
+2025-08-31 00:22:22 | INFO | Leverage Optimization Environment initialized for DOTUSDT
+2025-08-31 00:22:22 | ERROR | Error getting optimal leverage: 'list' object has no attribute 'iloc'
+2025-08-31 00:22:23 | INFO | ✅ Fetched 100 candles for AVAXUSDT on 5m timeframe
+2025-08-31 00:22:23 | INFO | All technical indicators calculated successfully
+2025-08-31 00:22:24 | INFO | ✅ Fetched 100 candles for AVAXUSDT on 5m timeframe
+2025-08-31 00:22:24 | INFO | Anomaly scan completed. Found 3 anomalies
+2025-08-31 00:22:24 | WARNING | Anomalies detected for AVAXUSDT: 2 alerts
+2025-08-31 00:22:24 | INFO | Leverage Optimization Environment initialized for AVAXUSDT
+2025-08-31 00:22:24 | ERROR | Error getting optimal leverage: 'list' object has no attribute 'iloc'
+2025-08-31 00:22:25 | INFO | ✅ Fetched 100 candles for MATICUSDT on 5m timeframe
+2025-08-31 00:22:25 | INFO | All technical indicators calculated successfully
+2025-08-31 00:22:25 | ERROR | ❌ Error fetching funding rate for MATICUSDT: binance fetchFundingRate() supports linear and inverse contracts only
+2025-08-31 00:22:25 | INFO | ✅ Fetched 100 candles for MATICUSDT on 5m timeframe
+2025-08-31 00:22:26 | ERROR | ❌ Error fetching funding rate for MATICUSDT: binance fetchFundingRate() supports linear and inverse contracts only
+2025-08-31 00:22:26 | INFO | Anomaly scan completed. Found 5 anomalies
+2025-08-31 00:22:26 | WARNING | Anomalies detected for MATICUSDT: 4 alerts
+2025-08-31 00:22:26 | ERROR | Error generating multiple trade calls for MATICUSDT: '>' not supported between instances of 'NoneType' and 'float'
+2025-08-31 00:22:26 | INFO | ✅ Fetched 100 candles for XRPUSDT on 5m timeframe
+2025-08-31 00:22:26 | INFO | All technical indicators calculated successfully
+2025-08-31 00:22:27 | INFO | ✅ Fetched 100 candles for XRPUSDT on 5m timeframe
+2025-08-31 00:22:28 | INFO | Anomaly scan completed. Found 17 anomalies
+2025-08-31 00:22:28 | WARNING | Anomalies detected for XRPUSDT: 13 alerts
+2025-08-31 00:22:28 | INFO | Leverage Optimization Environment initialized for XRPUSDT
+2025-08-31 00:22:28 | ERROR | Error getting optimal leverage: 'list' object has no attribute 'iloc'
+2025-08-31 00:22:28 | INFO | ✅ Fetched 100 candles for LINKUSDT on 5m timeframe
+2025-08-31 00:22:28 | INFO | All technical indicators calculated successfully
+2025-08-31 00:22:30 | INFO | ✅ Fetched 100 candles for LINKUSDT on 5m timeframe
+2025-08-31 00:22:30 | INFO | Anomaly scan completed. Found 21 anomalies
+2025-08-31 00:22:30 | WARNING | Anomalies detected for LINKUSDT: 16 alerts
+2025-08-31 00:22:30 | INFO | Leverage Optimization Environment initialized for LINKUSDT
+2025-08-31 00:22:30 | ERROR | Error getting optimal leverage: 'list' object has no attribute 'iloc'
+2025-08-31 00:22:31 | INFO | ✅ Fetched 100 candles for DOGEUSDT on 5m timeframe
+2025-08-31 00:22:31 | INFO | All technical indicators calculated successfully
+2025-08-31 00:22:32 | INFO | ✅ Fetched 100 candles for DOGEUSDT on 5m timeframe
+2025-08-31 00:22:33 | INFO | Anomaly scan completed. Found 11 anomalies
+2025-08-31 00:22:33 | WARNING | Anomalies detected for DOGEUSDT: 9 alerts
+2025-08-31 00:22:33 | WARNING | Model not trained yet
+2025-08-31 00:22:33 | INFO | ML confidence for BULLISH signal: 0.5000
+2025-08-31 00:22:33 | INFO | Leverage Optimization Environment initialized for DOGEUSDT
+2025-08-31 00:22:33 | ERROR | Error getting optimal leverage: 'list' object has no attribute 'iloc'
+2025-08-31 00:22:33 | INFO | Calculated position size: 4555.393586 DOGE with 10x leverage
+2025-08-31 00:22:33 | INFO | Calculated stop loss: 0.22
+2025-08-31 00:22:33 | INFO | Calculated take profit: 0.22
+2025-08-31 00:22:33 | INFO | Generated regular trade call for DOGEUSDT: BULLISH signal with 10x leverage
+2025-08-31 00:22:33 | INFO | ✅ Fetched 100 candles for LTCUSDT on 5m timeframe
+2025-08-31 00:22:33 | INFO | All technical indicators calculated successfully
+2025-08-31 00:22:34 | INFO | ✅ Fetched 100 candles for LTCUSDT on 5m timeframe
+2025-08-31 00:22:35 | INFO | Anomaly scan completed. Found 6 anomalies
+2025-08-31 00:22:35 | WARNING | Anomalies detected for LTCUSDT: 6 alerts
+2025-08-31 00:22:35 | INFO | Leverage Optimization Environment initialized for LTCUSDT
+2025-08-31 00:22:35 | ERROR | Error getting optimal leverage: 'list' object has no attribute 'iloc'
+2025-08-31 00:22:35 | INFO | ✅ Fetched 100 candles for BNBUSDT on 5m timeframe
+2025-08-31 00:22:35 | INFO | All technical indicators calculated successfully
+2025-08-31 00:22:36 | INFO | ✅ Fetched 100 candles for BNBUSDT on 5m timeframe
+2025-08-31 00:22:37 | INFO | Anomaly scan completed. Found 10 anomalies
+2025-08-31 00:22:37 | WARNING | Anomalies detected for BNBUSDT: 7 alerts
+2025-08-31 00:22:37 | INFO | Leverage Optimization Environment initialized for BNBUSDT
+2025-08-31 00:22:37 | ERROR | Error getting optimal leverage: 'list' object has no attribute 'iloc'
+2025-08-31 00:22:37 | INFO | ✅ Fetched 100 candles for ATOMUSDT on 5m timeframe
+2025-08-31 00:22:37 | INFO | All technical indicators calculated successfully
+2025-08-31 00:22:38 | INFO | ✅ Fetched 100 candles for ATOMUSDT on 5m timeframe
+2025-08-31 00:22:39 | INFO | Anomaly scan completed. Found 7 anomalies
+2025-08-31 00:22:39 | WARNING | Anomalies detected for ATOMUSDT: 7 alerts
+2025-08-31 00:22:39 | WARNING | Model not trained yet
+2025-08-31 00:22:39 | INFO | ML confidence for BULLISH signal: 0.5000
+2025-08-31 00:22:39 | INFO | Signal quality too low for ATOMUSDT, skipping trade calls
+2025-08-31 00:22:40 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:22:40 | ERROR | Database connection error: table metadata has no column named value_type
+2025-08-31 00:22:40 | ERROR | ❌ Error saving last signal time: table metadata has no column named value_type
+2025-08-31 00:22:40 | INFO | Sent 1 trade calls
+2025-08-31 00:22:41 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:22:41 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:22:41 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:22:42 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:22:42 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:22:43 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:22:43 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:22:43 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:22:44 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:22:44 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:22:45 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:22:45 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:22:45 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:22:46 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:22:46 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:22:47 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:22:47 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:22:48 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:22:48 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:22:48 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:22:49 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:22:49 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:22:50 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:22:50 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:22:50 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:22:51 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:22:51 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:22:51 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:22:52 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:22:52 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:22:53 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:22:53 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:22:54 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:22:54 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:22:54 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:22:55 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:22:55 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:22:56 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:22:56 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:22:57 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:22:57 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:22:58 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:22:58 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:22:59 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:22:59 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:23:00 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:23:00 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:23:01 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:23:01 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:23:01 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:23:02 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:23:02 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:23:03 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:23:03 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:23:03 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:23:04 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:23:04 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:23:05 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:23:05 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:23:06 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:23:06 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:23:07 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:23:07 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:23:07 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:23:08 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:23:08 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:23:09 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:23:09 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:23:10 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:23:10 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:23:10 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:23:11 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:23:11 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:23:12 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:23:12 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:23:12 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:23:13 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:23:13 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:23:14 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:23:14 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:23:14 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:23:15 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:23:15 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:23:16 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:23:16 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:23:16 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:23:17 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:23:17 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:23:18 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:23:18 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:23:18 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:23:19 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:23:19 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:23:20 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:23:20 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:23:20 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:23:21 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:23:21 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:23:22 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:23:23 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:23:23 | INFO | Sent 100 anomaly alerts
+2025-08-31 00:23:31 | INFO | ✅ Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-31 00:23:31 | INFO | ✅ Fetched 100 candles for MATICUSDT on 5m timeframe
+2025-08-31 00:23:31 | INFO | ✅ Fetched 50 candles for BTCUSDT on 5m timeframe
+2025-08-31 00:23:33 | INFO | ✅ Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-31 00:23:34 | INFO | ✅ Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-31 00:23:35 | INFO | ✅ Fetched 50 candles for ADAUSDT on 5m timeframe
+2025-08-31 00:23:36 | INFO | ✅ Fetched 50 candles for DOTUSDT on 5m timeframe
+2025-08-31 00:23:37 | INFO | ✅ Fetched 50 candles for AVAXUSDT on 5m timeframe
+2025-08-31 00:23:38 | INFO | ✅ Fetched 50 candles for MATICUSDT on 5m timeframe
+2025-08-31 00:23:38 | ERROR | ❌ Error fetching funding rate for MATICUSDT: binance fetchFundingRate() supports linear and inverse contracts only
+2025-08-31 00:23:38 | INFO | ✅ Fetched 50 candles for XRPUSDT on 5m timeframe
+2025-08-31 00:23:39 | INFO | ✅ Fetched 50 candles for LINKUSDT on 5m timeframe
+2025-08-31 00:23:40 | INFO | ✅ Fetched 50 candles for DOGEUSDT on 5m timeframe
+2025-08-31 00:23:41 | INFO | ✅ Fetched 50 candles for LTCUSDT on 5m timeframe
+2025-08-31 00:23:42 | INFO | ✅ Fetched 50 candles for BNBUSDT on 5m timeframe
+2025-08-31 00:23:43 | INFO | ✅ Fetched 50 candles for ATOMUSDT on 5m timeframe
+2025-08-31 00:23:44 | INFO | Anomaly scan completed. Found 131 anomalies
+2025-08-31 00:23:44 | INFO | Anomaly detection scan found 131 anomalies
+2025-08-31 00:25:45 | INFO | ✅ Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-31 00:25:45 | INFO | ✅ Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-31 00:25:46 | INFO | ✅ Fetched 100 candles for DOTUSDT on 5m timeframe
+2025-08-31 00:25:46 | INFO | ✅ Fetched 100 candles for MATICUSDT on 5m timeframe
+2025-08-31 00:25:47 | INFO | ✅ Fetched 100 candles for DOGEUSDT on 5m timeframe
+2025-08-31 00:25:47 | INFO | ✅ Fetched 100 candles for ATOMUSDT on 5m timeframe
+2025-08-31 00:25:48 | INFO | ✅ Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-31 00:25:49 | INFO | ✅ Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-31 00:25:50 | INFO | ✅ Fetched 50 candles for ADAUSDT on 5m timeframe
+2025-08-31 00:25:51 | INFO | ✅ Fetched 50 candles for DOTUSDT on 5m timeframe
+2025-08-31 00:25:53 | INFO | ✅ Fetched 50 candles for AVAXUSDT on 5m timeframe
+2025-08-31 00:25:54 | INFO | ✅ Fetched 50 candles for MATICUSDT on 5m timeframe
+2025-08-31 00:25:54 | ERROR | ❌ Error fetching funding rate for MATICUSDT: binance fetchFundingRate() supports linear and inverse contracts only
+2025-08-31 00:25:54 | INFO | ✅ Fetched 50 candles for XRPUSDT on 5m timeframe
+2025-08-31 00:25:56 | INFO | ✅ Fetched 50 candles for LINKUSDT on 5m timeframe
+2025-08-31 00:25:57 | INFO | ✅ Fetched 50 candles for DOGEUSDT on 5m timeframe
+2025-08-31 00:25:58 | INFO | ✅ Fetched 50 candles for LTCUSDT on 5m timeframe
+2025-08-31 00:25:59 | INFO | ✅ Fetched 50 candles for BNBUSDT on 5m timeframe
+2025-08-31 00:26:01 | INFO | ✅ Fetched 50 candles for ATOMUSDT on 5m timeframe
+2025-08-31 00:26:02 | INFO | Anomaly scan completed. Found 126 anomalies
+2025-08-31 00:26:02 | INFO | Anomaly detection scan found 126 anomalies
+2025-08-31 00:28:02 | INFO | ✅ Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-31 00:28:03 | INFO | ✅ Fetched 100 candles for MATICUSDT on 5m timeframe
+2025-08-31 00:28:03 | INFO | ✅ Fetched 100 candles for ATOMUSDT on 5m timeframe
+2025-08-31 00:28:04 | INFO | ✅ Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-31 00:28:05 | INFO | ✅ Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-31 00:28:06 | INFO | ✅ Fetched 50 candles for ADAUSDT on 5m timeframe
+2025-08-31 00:28:07 | INFO | ✅ Fetched 50 candles for DOTUSDT on 5m timeframe
+2025-08-31 00:28:08 | INFO | ✅ Fetched 50 candles for AVAXUSDT on 5m timeframe
+2025-08-31 00:28:09 | INFO | ✅ Fetched 50 candles for MATICUSDT on 5m timeframe
+2025-08-31 00:28:10 | ERROR | ❌ Error fetching funding rate for MATICUSDT: binance fetchFundingRate() supports linear and inverse contracts only
+2025-08-31 00:28:10 | INFO | ✅ Fetched 50 candles for XRPUSDT on 5m timeframe
+2025-08-31 00:28:11 | INFO | ✅ Fetched 50 candles for LINKUSDT on 5m timeframe
+2025-08-31 00:28:12 | INFO | ✅ Fetched 50 candles for DOGEUSDT on 5m timeframe
+2025-08-31 00:28:13 | INFO | ✅ Fetched 50 candles for LTCUSDT on 5m timeframe
+2025-08-31 00:28:14 | INFO | ✅ Fetched 50 candles for BNBUSDT on 5m timeframe
+2025-08-31 00:28:15 | INFO | ✅ Fetched 50 candles for ATOMUSDT on 5m timeframe
+2025-08-31 00:28:16 | INFO | Anomaly scan completed. Found 133 anomalies
+2025-08-31 00:28:16 | INFO | Anomaly detection scan found 133 anomalies
+2025-08-31 00:28:23 | INFO | ✅ Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-31 00:28:23 | INFO | All technical indicators calculated successfully
+2025-08-31 00:28:24 | INFO | ✅ Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-31 00:28:25 | INFO | Anomaly scan completed. Found 16 anomalies
+2025-08-31 00:28:25 | WARNING | Anomalies detected for BTCUSDT: 15 alerts
+2025-08-31 00:28:25 | INFO | Leverage Optimization Environment initialized for BTCUSDT
+2025-08-31 00:28:25 | ERROR | Error getting optimal leverage: 'list' object has no attribute 'iloc'
+2025-08-31 00:28:25 | INFO | ✅ Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-31 00:28:25 | INFO | All technical indicators calculated successfully
+2025-08-31 00:28:26 | INFO | ✅ Fetched 100 candles for ETHUSDT on 5m timeframe
+2025-08-31 00:28:27 | INFO | Anomaly scan completed. Found 17 anomalies
+2025-08-31 00:28:27 | WARNING | Anomalies detected for ETHUSDT: 14 alerts
+2025-08-31 00:28:27 | INFO | Leverage Optimization Environment initialized for ETHUSDT
+2025-08-31 00:28:27 | ERROR | Error getting optimal leverage: 'list' object has no attribute 'iloc'
+2025-08-31 00:28:27 | INFO | ✅ Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-31 00:28:27 | INFO | All technical indicators calculated successfully
+2025-08-31 00:28:28 | INFO | ✅ Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-31 00:28:29 | INFO | Anomaly scan completed. Found 11 anomalies
+2025-08-31 00:28:29 | WARNING | Anomalies detected for SOLUSDT: 10 alerts
+2025-08-31 00:28:29 | INFO | Leverage Optimization Environment initialized for SOLUSDT
+2025-08-31 00:28:29 | ERROR | Error getting optimal leverage: 'list' object has no attribute 'iloc'
+2025-08-31 00:28:29 | INFO | ✅ Fetched 100 candles for ADAUSDT on 5m timeframe
+2025-08-31 00:28:29 | INFO | All technical indicators calculated successfully
+2025-08-31 00:28:30 | INFO | ✅ Fetched 100 candles for ADAUSDT on 5m timeframe
+2025-08-31 00:28:31 | INFO | Anomaly scan completed. Found 13 anomalies
+2025-08-31 00:28:31 | WARNING | Anomalies detected for ADAUSDT: 9 alerts
+2025-08-31 00:28:31 | INFO | Leverage Optimization Environment initialized for ADAUSDT
+2025-08-31 00:28:31 | ERROR | Error getting optimal leverage: 'list' object has no attribute 'iloc'
+2025-08-31 00:28:32 | INFO | ✅ Fetched 100 candles for DOTUSDT on 5m timeframe
+2025-08-31 00:28:32 | INFO | All technical indicators calculated successfully
+2025-08-31 00:28:33 | INFO | ✅ Fetched 100 candles for DOTUSDT on 5m timeframe
+2025-08-31 00:28:33 | INFO | Anomaly scan completed. Found 2 anomalies
+2025-08-31 00:28:33 | WARNING | Anomalies detected for DOTUSDT: 2 alerts
+2025-08-31 00:28:33 | INFO | Leverage Optimization Environment initialized for DOTUSDT
+2025-08-31 00:28:33 | ERROR | Error getting optimal leverage: 'list' object has no attribute 'iloc'
+2025-08-31 00:28:34 | INFO | ✅ Fetched 100 candles for AVAXUSDT on 5m timeframe
+2025-08-31 00:28:34 | INFO | All technical indicators calculated successfully
+2025-08-31 00:28:35 | INFO | ✅ Fetched 100 candles for AVAXUSDT on 5m timeframe
+2025-08-31 00:28:35 | INFO | Anomaly scan completed. Found 3 anomalies
+2025-08-31 00:28:35 | WARNING | Anomalies detected for AVAXUSDT: 2 alerts
+2025-08-31 00:28:35 | INFO | Leverage Optimization Environment initialized for AVAXUSDT
+2025-08-31 00:28:35 | ERROR | Error getting optimal leverage: 'list' object has no attribute 'iloc'
+2025-08-31 00:28:36 | INFO | ✅ Fetched 100 candles for MATICUSDT on 5m timeframe
+2025-08-31 00:28:36 | INFO | All technical indicators calculated successfully
+2025-08-31 00:28:36 | ERROR | ❌ Error fetching funding rate for MATICUSDT: binance fetchFundingRate() supports linear and inverse contracts only
+2025-08-31 00:28:36 | INFO | ✅ Fetched 100 candles for MATICUSDT on 5m timeframe
+2025-08-31 00:28:37 | ERROR | ❌ Error fetching funding rate for MATICUSDT: binance fetchFundingRate() supports linear and inverse contracts only
+2025-08-31 00:28:37 | INFO | Anomaly scan completed. Found 5 anomalies
+2025-08-31 00:28:37 | WARNING | Anomalies detected for MATICUSDT: 4 alerts
+2025-08-31 00:28:37 | ERROR | Error generating multiple trade calls for MATICUSDT: '>' not supported between instances of 'NoneType' and 'float'
+2025-08-31 00:28:37 | INFO | ✅ Fetched 100 candles for XRPUSDT on 5m timeframe
+2025-08-31 00:28:37 | INFO | All technical indicators calculated successfully
+2025-08-31 00:28:38 | INFO | ✅ Fetched 100 candles for XRPUSDT on 5m timeframe
+2025-08-31 00:28:39 | INFO | Anomaly scan completed. Found 17 anomalies
+2025-08-31 00:28:39 | WARNING | Anomalies detected for XRPUSDT: 13 alerts
+2025-08-31 00:28:39 | WARNING | Model not trained yet
+2025-08-31 00:28:39 | INFO | ML confidence for BEARISH signal: 0.5000
+2025-08-31 00:28:39 | INFO | Signal quality too low for XRPUSDT, skipping trade calls
+2025-08-31 00:28:39 | INFO | ✅ Fetched 100 candles for LINKUSDT on 5m timeframe
+2025-08-31 00:28:39 | INFO | All technical indicators calculated successfully
+2025-08-31 00:28:40 | INFO | ✅ Fetched 100 candles for LINKUSDT on 5m timeframe
+2025-08-31 00:28:41 | INFO | Anomaly scan completed. Found 20 anomalies
+2025-08-31 00:28:41 | WARNING | Anomalies detected for LINKUSDT: 15 alerts
+2025-08-31 00:28:41 | INFO | Signal quality too low for LINKUSDT, skipping trade calls
+2025-08-31 00:28:41 | INFO | ✅ Fetched 100 candles for DOGEUSDT on 5m timeframe
+2025-08-31 00:28:41 | INFO | All technical indicators calculated successfully
+2025-08-31 00:28:42 | INFO | ✅ Fetched 100 candles for DOGEUSDT on 5m timeframe
+2025-08-31 00:28:43 | INFO | Anomaly scan completed. Found 11 anomalies
+2025-08-31 00:28:43 | WARNING | Anomalies detected for DOGEUSDT: 9 alerts
+2025-08-31 00:28:43 | WARNING | Model not trained yet
+2025-08-31 00:28:43 | INFO | ML confidence for BULLISH signal: 0.5000
+2025-08-31 00:28:43 | INFO | Signal quality too low for DOGEUSDT, skipping trade calls
+2025-08-31 00:28:43 | INFO | ✅ Fetched 100 candles for LTCUSDT on 5m timeframe
+2025-08-31 00:28:43 | INFO | All technical indicators calculated successfully
+2025-08-31 00:28:44 | INFO | ✅ Fetched 100 candles for LTCUSDT on 5m timeframe
+2025-08-31 00:28:45 | INFO | Anomaly scan completed. Found 6 anomalies
+2025-08-31 00:28:45 | WARNING | Anomalies detected for LTCUSDT: 6 alerts
+2025-08-31 00:28:45 | INFO | Leverage Optimization Environment initialized for LTCUSDT
+2025-08-31 00:28:45 | ERROR | Error getting optimal leverage: 'list' object has no attribute 'iloc'
+2025-08-31 00:28:45 | INFO | ✅ Fetched 100 candles for BNBUSDT on 5m timeframe
+2025-08-31 00:28:45 | INFO | All technical indicators calculated successfully
+2025-08-31 00:28:46 | INFO | ✅ Fetched 100 candles for BNBUSDT on 5m timeframe
+2025-08-31 00:28:47 | INFO | Anomaly scan completed. Found 10 anomalies
+2025-08-31 00:28:47 | WARNING | Anomalies detected for BNBUSDT: 6 alerts
+2025-08-31 00:28:47 | INFO | Leverage Optimization Environment initialized for BNBUSDT
+2025-08-31 00:28:47 | ERROR | Error getting optimal leverage: 'list' object has no attribute 'iloc'
+2025-08-31 00:28:47 | INFO | Calculated position size: 1.158655 BNB with 10x leverage
+2025-08-31 00:28:47 | INFO | Calculated stop loss: 864.06
+2025-08-31 00:28:47 | INFO | Calculated take profit: 861.09
+2025-08-31 00:28:47 | INFO | Generated scalping trade call for BNBUSDT: BEARISH signal with 10x leverage
+2025-08-31 00:28:47 | INFO | ✅ Fetched 100 candles for ATOMUSDT on 5m timeframe
+2025-08-31 00:28:47 | INFO | All technical indicators calculated successfully
+2025-08-31 00:28:49 | INFO | ✅ Fetched 100 candles for ATOMUSDT on 5m timeframe
+2025-08-31 00:28:49 | INFO | Anomaly scan completed. Found 7 anomalies
+2025-08-31 00:28:49 | WARNING | Anomalies detected for ATOMUSDT: 7 alerts
+2025-08-31 00:28:49 | WARNING | Model not trained yet
+2025-08-31 00:28:49 | INFO | ML confidence for BULLISH signal: 0.5000
+2025-08-31 00:28:49 | INFO | Signal quality too low for ATOMUSDT, skipping trade calls
+2025-08-31 00:28:50 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:28:50 | ERROR | Database connection error: table metadata has no column named value_type
+2025-08-31 00:28:50 | ERROR | ❌ Error saving last signal time: table metadata has no column named value_type
+2025-08-31 00:28:50 | INFO | Sent 1 trade calls
+2025-08-31 00:28:51 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:28:51 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:28:52 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:28:52 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:28:52 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:28:53 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:28:53 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:28:53 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:28:54 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:28:54 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:28:55 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:28:55 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:28:55 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:28:56 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:28:56 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:28:57 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:28:57 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:28:57 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:28:58 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:28:58 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:28:59 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:28:59 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:28:59 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:00 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:00 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:01 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:01 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:01 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:02 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:02 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:03 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:03 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:03 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:04 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:04 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:05 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:05 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:05 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:06 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:06 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:07 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:07 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:07 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:08 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:08 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:09 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:09 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:10 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:10 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:10 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:11 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:11 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:12 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:12 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:12 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:13 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:13 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:14 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:14 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:14 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:15 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:15 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:16 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:16 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:16 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:17 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:17 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:18 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:18 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:19 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:19 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:19 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:20 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:20 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:20 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:21 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:21 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:22 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:22 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:22 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:23 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:23 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:24 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:24 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:25 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:25 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:25 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:26 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:26 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:27 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:27 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:27 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:28 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:28 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:29 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:29 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:29 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:30 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:30 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:31 | INFO | Message sent to Telegram successfully on attempt 1
+2025-08-31 00:29:31 | INFO | Sent 100 anomaly alerts
+2025-08-31 00:30:17 | INFO | ✅ Fetched 100 candles for BTCUSDT on 5m timeframe
+2025-08-31 00:30:17 | INFO | ✅ Fetched 100 candles for SOLUSDT on 5m timeframe
+2025-08-31 00:30:18 | INFO | ✅ Fetched 100 candles for MATICUSDT on 5m timeframe
+2025-08-31 00:30:18 | INFO | ✅ Fetched 100 candles for DOGEUSDT on 5m timeframe
+2025-08-31 00:30:19 | INFO | ✅ Fetched 100 candles for BNBUSDT on 5m timeframe
+2025-08-31 00:30:20 | INFO | ✅ Fetched 50 candles for ETHUSDT on 5m timeframe
+2025-08-31 00:30:21 | INFO | ✅ Fetched 50 candles for SOLUSDT on 5m timeframe
+2025-08-31 00:30:22 | INFO | ✅ Fetched 50 candles for ADAUSDT on 5m timeframe
+2025-08-31 00:30:23 | INFO | ✅ Fetched 50 candles for DOTUSDT on 5m timeframe
+2025-08-31 00:30:24 | INFO | ✅ Fetched 50 candles for AVAXUSDT on 5m timeframe
+2025-08-31 00:30:25 | INFO | ✅ Fetched 50 candles for MATICUSDT on 5m timeframe
+2025-08-31 00:30:26 | ERROR | ❌ Error fetching funding rate for MATICUSDT: binance fetchFundingRate() supports linear and inverse contracts only
+2025-08-31 00:30:26 | INFO | ✅ Fetched 50 candles for XRPUSDT on 5m timeframe
+2025-08-31 00:30:27 | INFO | ✅ Fetched 50 candles for LINKUSDT on 5m timeframe
+2025-08-31 00:30:28 | INFO | ✅ Fetched 50 candles for DOGEUSDT on 5m timeframe
+2025-08-31 00:30:29 | INFO | ✅ Fetched 50 candles for LTCUSDT on 5m timeframe
+2025-08-31 00:30:30 | INFO | ✅ Fetched 50 candles for BNBUSDT on 5m timeframe
+2025-08-31 00:30:31 | INFO | ✅ Fetched 50 candles for ATOMUSDT on 5m timeframe
+2025-08-31 00:30:32 | INFO | Anomaly scan completed. Found 131 anomalies
+2025-08-31 00:30:32 | INFO | Anomaly detection scan found 131 anomalies
